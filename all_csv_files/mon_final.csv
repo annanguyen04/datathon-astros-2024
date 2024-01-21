@@ -1,0 +1,811 @@
+,game_date,home_team,away_team,is_day_game,home_score,away_score,venue,venue_name,city,state,home_pa,home_1b,home_2b,home_3b,home_hr,home_fo,home_so,home_bb,home_hbp,away_pa,away_1b,away_2b,away_3b,away_hr,away_fo,away_so,away_bb,away_hbp,year,month,day,isAbroad,country,winner,home_won,Longitude,Latitude,time_zone,time_zones_crossed
+0,2000-04-03,MON,LAN,False,4,10,MON02,Stade Olympique,Montreal,QUE,43,6,0,1,2,26,4,4,0,38,7,0,0,2,19,8,2,0,2000,4,3,1,Canada,-1,0,-79.347015,43.65107,eastern,3
+1,2000-04-04,MON,LAN,False,4,10,MON02,Stade Olympique,Montreal,QUE,47,12,3,0,2,15,12,2,1,37,3,3,0,0,20,5,5,1,2000,4,4,1,Canada,-1,0,-79.347015,43.65107,eastern,3
+2,2000-04-05,MON,LAN,False,6,5,MON02,Stade Olympique,Montreal,QUE,41,7,2,1,2,20,6,3,0,39,8,2,0,0,19,5,4,1,2000,4,5,1,Canada,1,1,-79.347015,43.65107,eastern,3
+3,2000-04-06,MON,LAN,False,11,3,MON02,Stade Olympique,Montreal,QUE,35,3,3,0,0,21,5,1,2,42,7,4,0,3,19,5,3,1,2000,4,6,1,Canada,1,1,-79.347015,43.65107,eastern,3
+4,2000-04-07,MON,SDN,False,5,10,MON02,Stade Olympique,Montreal,QUE,45,10,1,0,2,22,7,1,2,39,8,4,0,0,19,6,2,0,2000,4,7,1,Canada,-1,0,-79.347015,43.65107,eastern,3
+5,2000-04-08,MON,SDN,True,10,9,MON02,Stade Olympique,Montreal,QUE,40,4,3,1,3,21,6,2,0,41,6,3,0,2,12,10,7,1,2000,4,8,1,Canada,1,1,-79.347015,43.65107,eastern,3
+6,2000-04-09,MON,SDN,True,2,1,MON02,Stade Olympique,Montreal,QUE,31,6,1,0,0,20,3,1,0,31,3,1,0,0,18,5,4,0,2000,4,9,1,Canada,1,1,-79.347015,43.65107,eastern,3
+7,2000-04-11,PIT,MON,False,3,7,PIT07,Three Rivers Stadium,Pittsburgh,PA,38,5,0,1,3,16,10,3,0,32,3,1,0,0,18,7,3,0,2000,4,11,0,United States,-1,0,-77.209755,40.590752,eastern,3
+8,2000-04-12,PIT,MON,False,6,4,PIT07,Three Rivers Stadium,Pittsburgh,PA,36,5,2,0,0,19,8,2,0,35,7,2,0,1,13,9,3,0,2000,4,12,0,United States,1,1,-77.209755,40.590752,eastern,3
+9,2000-04-13,PIT,MON,False,4,3,PIT07,Three Rivers Stadium,Pittsburgh,PA,34,5,3,0,0,20,4,2,0,37,7,2,1,0,17,9,1,0,2000,4,13,0,United States,1,1,-77.209755,40.590752,eastern,3
+10,2000-04-14,PHI,MON,False,0,4,PHI12,Veterans Stadium,Philadelphia,PA,36,4,2,0,3,14,12,1,0,33,5,1,0,0,20,5,2,0,2000,4,14,0,United States,-1,0,-77.209755,40.590752,eastern,3
+11,2000-04-16,PHI,MON,True,5,4,PHI12,Veterans Stadium,Philadelphia,PA,37,3,2,0,2,22,5,3,0,39,7,2,0,0,16,8,5,1,2000,4,16,0,United States,1,1,-77.209755,40.590752,eastern,3
+12,2000-04-18,MON,CHN,False,4,3,MON02,Stade Olympique,Montreal,QUE,36,4,1,0,2,16,10,3,0,31,5,4,0,0,20,2,0,0,2000,4,18,1,Canada,1,1,-79.347015,43.65107,eastern,3
+13,2000-04-19,MON,CHN,False,7,3,MON02,Stade Olympique,Montreal,QUE,36,4,1,0,2,18,7,3,1,40,7,3,1,0,21,3,5,0,2000,4,19,1,Canada,1,1,-79.347015,43.65107,eastern,3
+14,2000-04-20,MON,CHN,False,6,10,MON02,Stade Olympique,Montreal,QUE,42,6,3,0,1,20,9,3,0,40,10,3,0,0,21,3,2,1,2000,4,20,1,Canada,-1,0,-79.347015,43.65107,eastern,3
+15,2000-04-21,MON,MIL,False,5,1,MON02,Stade Olympique,Montreal,QUE,35,3,4,0,1,23,3,1,0,32,5,1,0,2,16,6,2,0,2000,4,21,1,Canada,1,1,-79.347015,43.65107,eastern,3
+16,2000-04-22,MON,MIL,False,3,7,MON02,Stade Olympique,Montreal,QUE,43,8,5,0,2,20,7,1,0,35,2,1,0,2,20,7,3,0,2000,4,22,1,Canada,-1,0,-79.347015,43.65107,eastern,3
+17,2000-04-23,MON,MIL,True,6,4,MON02,Stade Olympique,Montreal,QUE,38,5,1,0,1,19,8,3,1,39,5,5,0,0,17,6,6,0,2000,4,23,1,Canada,1,1,-79.347015,43.65107,eastern,3
+18,2000-04-25,MON,COL,False,10,4,MON02,Stade Olympique,Montreal,QUE,38,10,0,1,0,19,5,3,0,39,8,3,1,2,19,4,2,0,2000,4,25,1,Canada,1,1,-79.347015,43.65107,eastern,3
+19,2000-04-26,MON,COL,False,9,2,MON02,Stade Olympique,Montreal,QUE,33,3,1,1,0,22,4,2,0,40,6,5,0,1,19,4,3,2,2000,4,26,1,Canada,1,1,-79.347015,43.65107,eastern,3
+20,2000-04-28,SFN,MON,False,3,9,SFO03,Oracle Park,San Francisco,CA,41,4,3,0,1,19,7,6,1,38,8,2,1,0,22,4,1,0,2000,4,28,0,United States,-1,0,-119.681564,36.116203,pacific,6
+21,2000-04-29,SFN,MON,True,2,1,SFO03,Oracle Park,San Francisco,CA,31,2,0,1,0,21,5,2,0,33,8,0,0,1,21,1,2,0,2000,4,29,0,United States,1,1,-119.681564,36.116203,pacific,6
+22,2000-04-30,SFN,MON,True,3,4,SFO03,Oracle Park,San Francisco,CA,39,3,1,1,1,23,4,6,0,40,3,2,0,1,21,6,7,0,2000,4,30,0,United States,-1,0,-119.681564,36.116203,pacific,6
+23,2000-05-01,COL,MON,False,15,8,DEN02,Coors Field,Denver,CO,44,7,3,0,5,22,4,3,0,48,10,3,0,5,19,5,6,0,2000,5,1,0,United States,1,1,-105.311104,39.059811,mountain,7
+24,2000-05-02,COL,MON,False,12,6,DEN02,Coors Field,Denver,CO,40,9,1,0,1,22,5,2,0,42,7,1,1,4,19,2,7,1,2000,5,2,0,United States,1,1,-105.311104,39.059811,mountain,7
+25,2000-05-03,COL,MON,True,16,7,DEN02,Coors Field,Denver,CO,40,6,4,0,2,21,6,1,0,48,20,2,2,0,20,2,2,0,2000,5,3,0,United States,1,1,-105.311104,39.059811,mountain,7
+26,2000-05-05,MIL,MON,False,2,10,MIL05,County Stadium,Milwaukee,WI,46,7,4,0,3,24,4,4,0,39,6,1,0,0,14,14,4,0,2000,5,5,0,United States,-1,0,-89.616508,44.268543,central,8
+27,2000-05-06,MIL,MON,True,2,3,MIL05,County Stadium,Milwaukee,WI,36,8,2,0,1,19,5,1,0,35,3,1,0,0,16,10,4,1,2000,5,6,0,United States,-1,0,-89.616508,44.268543,central,8
+28,2000-05-07,MIL,MON,True,9,4,MIL05,County Stadium,Milwaukee,WI,36,5,1,0,2,21,4,3,0,41,9,2,0,2,19,5,4,0,2000,5,7,0,United States,1,1,-89.616508,44.268543,central,8
+29,2000-05-09,MON,PHI,False,3,2,MON02,Stade Olympique,Montreal,QUE,33,4,1,0,1,20,6,0,1,36,5,2,0,1,20,6,2,0,2000,5,9,1,Canada,1,1,-79.347015,43.65107,eastern,9
+30,2000-05-10,MON,PHI,False,0,8,MON02,Stade Olympique,Montreal,QUE,45,11,2,0,0,26,1,4,1,33,2,2,0,0,20,5,4,0,2000,5,10,1,Canada,-1,0,-79.347015,43.65107,eastern,9
+31,2000-05-11,MON,PHI,False,4,6,MON02,Stade Olympique,Montreal,QUE,40,3,3,2,0,16,11,3,2,38,5,2,0,1,19,8,3,0,2000,5,11,1,Canada,-1,0,-79.347015,43.65107,eastern,9
+32,2000-05-12,MON,CHN,False,8,3,MON02,Stade Olympique,Montreal,QUE,42,6,1,0,0,21,6,7,1,42,7,1,1,1,14,10,8,0,2000,5,12,1,Canada,1,1,-79.347015,43.65107,eastern,9
+33,2000-05-13,MON,CHN,False,1,2,MON02,Stade Olympique,Montreal,QUE,37,2,4,0,0,23,3,5,0,35,6,2,0,0,22,5,0,0,2000,5,13,1,Canada,-1,0,-79.347015,43.65107,eastern,9
+34,2000-05-14,MON,CHN,True,16,15,MON02,Stade Olympique,Montreal,QUE,51,17,1,0,3,16,9,4,1,51,9,3,0,4,18,5,12,0,2000,5,14,1,Canada,1,1,-79.347015,43.65107,eastern,9
+35,2000-05-16,MON,ARI,False,2,0,MON02,Stade Olympique,Montreal,QUE,35,4,1,0,0,19,7,4,0,28,3,1,0,1,11,12,0,0,2000,5,16,1,Canada,1,1,-79.347015,43.65107,eastern,9
+36,2000-05-17,MON,ARI,False,10,2,MON02,Stade Olympique,Montreal,QUE,34,4,0,0,2,19,8,1,0,41,5,7,0,2,18,6,3,0,2000,5,17,1,Canada,1,1,-79.347015,43.65107,eastern,9
+37,2000-05-18,MON,ARI,False,6,8,MON02,Stade Olympique,Montreal,QUE,43,6,3,0,1,23,4,6,0,36,3,0,1,4,19,8,1,0,2000,5,18,1,Canada,-1,0,-79.347015,43.65107,eastern,9
+38,2000-05-19,MON,HOU,False,3,2,MON02,Stade Olympique,Montreal,QUE,42,7,0,0,1,22,5,7,0,38,5,1,0,2,18,9,3,0,2000,5,19,1,Canada,1,1,-79.347015,43.65107,eastern,9
+39,2000-05-20,MON,HOU,False,8,7,MON02,Stade Olympique,Montreal,QUE,41,5,3,0,2,16,11,4,0,41,9,5,0,1,19,5,2,0,2000,5,20,1,Canada,1,1,-79.347015,43.65107,eastern,9
+40,2000-05-21,MON,HOU,True,8,3,MON02,Stade Olympique,Montreal,QUE,35,5,0,0,2,21,6,1,0,38,7,0,1,3,14,9,4,0,2000,5,21,1,Canada,1,1,-79.347015,43.65107,eastern,9
+41,2000-05-23,SFN,MON,False,2,3,SFO03,Oracle Park,San Francisco,CA,38,6,3,0,2,22,4,1,0,34,3,4,0,1,17,8,1,0,2000,5,23,0,United States,-1,0,-119.681564,36.116203,pacific,12
+42,2000-05-24,SFN,MON,False,18,0,SFO03,Oracle Park,San Francisco,CA,33,7,0,0,0,18,7,1,0,48,13,1,1,3,18,7,4,1,2000,5,24,0,United States,1,1,-119.681564,36.116203,pacific,12
+43,2000-05-25,SFN,MON,True,4,1,SFO03,Oracle Park,San Francisco,CA,35,5,1,0,0,17,10,2,0,35,7,1,0,1,17,6,3,0,2000,5,25,0,United States,1,1,-119.681564,36.116203,pacific,12
+44,2000-05-26,SDN,MON,False,6,2,SAN01,Qualcomm Stadium,San Diego,CA,37,4,2,0,0,23,6,2,0,36,9,2,0,0,20,3,2,0,2000,5,26,0,United States,1,1,-119.681564,36.116203,pacific,12
+45,2000-05-27,SDN,MON,False,4,2,SAN01,Qualcomm Stadium,San Diego,CA,41,6,1,0,0,19,8,6,1,32,7,1,0,2,15,6,1,0,2000,5,27,0,United States,1,1,-119.681564,36.116203,pacific,12
+46,2000-05-28,SDN,MON,True,4,3,SAN01,Qualcomm Stadium,San Diego,CA,39,6,1,0,1,15,12,4,0,33,3,2,1,0,21,3,2,1,2000,5,28,0,United States,1,1,-119.681564,36.116203,pacific,12
+47,2000-05-30,CIN,MON,False,4,2,CIN08,Cinergy Field,Cincinnati,OH,32,2,1,0,0,20,8,1,0,33,3,0,0,2,19,5,3,1,2000,5,30,0,United States,1,1,-82.764915,40.388783,eastern,15
+48,2000-05-31,CIN,MON,False,4,10,CIN08,Cinergy Field,Cincinnati,OH,43,10,4,0,2,20,6,1,0,33,1,4,0,1,16,11,0,0,2000,5,31,0,United States,-1,0,-82.764915,40.388783,eastern,15
+49,2000-06-01,CIN,MON,False,7,9,CIN08,Cinergy Field,Cincinnati,OH,48,11,4,0,2,23,3,5,0,42,12,3,0,1,22,2,2,0,2000,6,1,0,United States,-1,0,-82.764915,40.388783,eastern,15
+50,2000-06-02,MON,BAL,False,5,3,MON02,Stade Olympique,Montreal,QUE,39,6,2,0,1,21,5,4,0,33,5,2,0,2,14,8,2,0,2000,6,2,1,Canada,1,1,-79.347015,43.65107,eastern,15
+51,2000-06-03,MON,BAL,False,7,4,MON02,Stade Olympique,Montreal,QUE,40,5,1,0,3,21,5,5,0,37,5,3,1,3,14,7,4,0,2000,6,3,1,Canada,1,1,-79.347015,43.65107,eastern,15
+52,2000-06-04,MON,BAL,True,1,0,MON02,Stade Olympique,Montreal,QUE,34,1,2,0,0,20,7,4,0,33,2,4,0,0,16,8,3,0,2000,6,4,1,Canada,1,1,-79.347015,43.65107,eastern,15
+53,2000-06-05,MON,NYA,False,6,4,MON02,Stade Olympique,Montreal,QUE,44,10,2,0,1,18,7,6,0,35,3,3,0,2,19,5,2,1,2000,6,5,1,Canada,1,1,-79.347015,43.65107,eastern,15
+54,2000-06-06,MON,NYA,False,1,8,MON02,Stade Olympique,Montreal,QUE,46,9,2,0,2,16,9,7,1,33,1,1,0,1,17,9,4,0,2000,6,6,1,Canada,-1,0,-79.347015,43.65107,eastern,15
+55,2000-06-07,MON,NYA,False,2,7,MON02,Stade Olympique,Montreal,QUE,41,7,0,1,1,23,5,3,1,34,3,0,0,1,22,5,3,0,2000,6,7,1,Canada,-1,0,-79.347015,43.65107,eastern,15
+56,2000-06-09,TOR,MON,False,13,3,TOR02,Rogers Centre,Toronto,ONT,36,5,1,0,2,18,5,5,0,45,9,5,0,2,22,1,6,0,2000,6,9,1,Canada,1,1,-79.347015,43.65107,eastern,15
+57,2000-06-10,TOR,MON,True,2,11,TOR02,Rogers Centre,Toronto,ONT,44,8,5,0,1,19,8,3,0,37,3,2,0,1,23,4,4,0,2000,6,10,1,Canada,-1,0,-79.347015,43.65107,eastern,15
+58,2000-06-11,TOR,MON,True,8,3,TOR02,Rogers Centre,Toronto,ONT,41,9,4,0,0,10,15,2,1,37,5,2,0,2,19,4,5,0,2000,6,11,1,Canada,1,1,-79.347015,43.65107,eastern,15
+59,2000-06-12,MIL,MON,False,8,1,MIL05,County Stadium,Milwaukee,WI,39,4,1,0,0,19,8,7,0,38,8,4,0,0,17,8,1,0,2000,6,12,0,United States,1,1,-89.616508,44.268543,central,16
+60,2000-06-13,MIL,MON,False,4,9,MIL05,County Stadium,Milwaukee,WI,42,10,1,0,1,20,7,3,0,40,6,3,0,1,23,2,5,0,2000,6,13,0,United States,-1,0,-89.616508,44.268543,central,16
+61,2000-06-14,MIL,MON,False,11,2,MIL05,County Stadium,Milwaukee,WI,37,7,0,1,0,23,2,4,0,45,6,3,0,3,17,8,8,0,2000,6,14,0,United States,1,1,-89.616508,44.268543,central,16
+62,2000-06-16,CHN,MON,True,9,8,CHI11,Wrigley Field,Chicago,IL,40,3,1,1,3,20,4,6,2,37,5,2,1,1,19,4,3,2,2000,6,16,0,United States,1,1,-88.986137,40.349457,central,16
+63,2000-06-17,CHN,MON,True,1,0,CHI11,Wrigley Field,Chicago,IL,36,8,0,0,0,19,3,6,0,30,3,1,0,0,18,5,3,0,2000,6,17,0,United States,1,1,-88.986137,40.349457,central,16
+64,2000-06-18,CHN,MON,True,3,4,CHI11,Wrigley Field,Chicago,IL,46,8,1,0,0,24,6,7,0,42,6,2,0,1,23,8,2,0,2000,6,18,0,United States,-1,0,-88.986137,40.349457,central,16
+65,2000-06-19,MON,PIT,False,2,1,MON02,Stade Olympique,Montreal,QUE,36,5,0,0,1,17,7,5,1,31,5,2,0,0,15,8,1,0,2000,6,19,1,Canada,1,1,-79.347015,43.65107,eastern,17
+66,2000-06-20,MON,PIT,False,1,2,MON02,Stade Olympique,Montreal,QUE,36,2,1,0,1,19,7,5,1,36,2,2,1,1,22,5,2,1,2000,6,20,1,Canada,-1,0,-79.347015,43.65107,eastern,17
+67,2000-06-21,MON,PIT,False,3,8,MON02,Stade Olympique,Montreal,QUE,40,4,4,0,2,21,5,4,0,38,7,0,0,2,22,4,3,0,2000,6,21,1,Canada,-1,0,-79.347015,43.65107,eastern,17
+68,2000-06-22,MON,PIT,False,6,5,MON02,Stade Olympique,Montreal,QUE,42,8,3,0,0,23,4,4,0,31,6,1,0,1,22,1,0,0,2000,6,22,1,Canada,1,1,-79.347015,43.65107,eastern,17
+69,2000-06-23,MON,PHI,False,6,13,MON02,Stade Olympique,Montreal,QUE,48,9,5,1,2,14,13,3,1,38,7,1,1,0,22,5,1,1,2000,6,23,1,Canada,-1,0,-79.347015,43.65107,eastern,17
+70,2000-06-24,MON,PHI,True,1,8,MON02,Stade Olympique,Montreal,QUE,43,9,2,0,0,21,6,5,0,36,5,2,0,0,20,6,3,0,2000,6,24,1,Canada,-1,0,-79.347015,43.65107,eastern,17
+71,2000-06-25,MON,PHI,True,3,1,MON02,Stade Olympique,Montreal,QUE,37,6,2,0,0,22,4,3,0,33,6,1,0,2,21,1,2,0,2000,6,25,1,Canada,1,1,-79.347015,43.65107,eastern,17
+72,2000-06-27,MON,ATL,False,6,4,MON02,Stade Olympique,Montreal,QUE,35,3,1,0,1,21,5,4,0,35,2,4,0,3,23,3,0,0,2000,6,27,1,Canada,1,1,-79.347015,43.65107,eastern,17
+73,2000-06-28,MON,ATL,False,4,7,MON02,Stade Olympique,Montreal,QUE,40,6,3,0,1,21,5,3,1,39,6,5,0,1,25,2,0,0,2000,6,28,1,Canada,-1,0,-79.347015,43.65107,eastern,17
+74,2000-06-30,MON,FLO,False,4,5,MON02,Stade Olympique,Montreal,QUE,40,8,2,0,2,20,7,1,0,38,6,1,0,0,21,7,3,0,2000,6,30,1,Canada,-1,0,-79.347015,43.65107,eastern,17
+75,2000-07-01,MON,FLO,False,5,6,MON02,Stade Olympique,Montreal,QUE,40,6,3,0,1,18,7,4,1,45,11,1,0,1,19,8,5,0,2000,7,1,1,Canada,-1,0,-79.347015,43.65107,eastern,17
+76,2000-07-02,MON,FLO,True,1,2,MON02,Stade Olympique,Montreal,QUE,33,2,1,0,2,14,13,1,0,34,4,0,0,0,23,5,2,0,2000,7,2,1,Canada,-1,0,-79.347015,43.65107,eastern,17
+77,2000-07-03,ATL,MON,False,1,17,ATL02,Turner Field,Atlanta,GA,51,11,2,0,5,22,6,4,1,37,5,1,0,0,24,3,4,0,2000,7,3,0,United States,-1,0,-83.643074,33.040619,eastern,17
+78,2000-07-04,ATL,MON,False,7,3,ATL02,Turner Field,Atlanta,GA,35,5,2,0,0,22,5,1,0,37,3,4,0,3,18,6,3,0,2000,7,4,0,United States,1,1,-83.643074,33.040619,eastern,17
+79,2000-07-05,ATL,MON,False,5,6,ATL02,Turner Field,Atlanta,GA,42,10,3,0,0,19,7,3,0,40,5,2,0,3,17,9,4,0,2000,7,5,0,United States,-1,0,-83.643074,33.040619,eastern,17
+80,2000-07-06,ATL,MON,True,2,4,ATL02,Turner Field,Atlanta,GA,43,11,2,0,1,13,14,2,0,37,3,2,1,0,24,5,2,0,2000,7,6,0,United States,-1,0,-83.643074,33.040619,eastern,17
+81,2000-07-07,MON,TOR,False,10,5,MON02,Stade Olympique,Montreal,QUE,42,6,2,0,2,18,8,6,0,39,9,3,0,0,20,4,3,0,2000,7,7,1,Canada,1,1,-79.347015,43.65107,eastern,17
+82,2000-07-08,MON,TOR,False,3,6,MON02,Stade Olympique,Montreal,QUE,36,2,3,0,2,19,7,3,0,37,5,0,0,1,23,4,3,1,2000,7,8,1,Canada,-1,0,-79.347015,43.65107,eastern,17
+83,2000-07-09,MON,TOR,True,3,13,MON02,Stade Olympique,Montreal,QUE,51,13,4,0,1,18,5,8,2,36,4,2,0,2,22,5,1,0,2000,7,9,1,Canada,-1,0,-79.347015,43.65107,eastern,17
+84,2000-07-13,TBA,MON,False,6,4,STP01,Tropicana Field,St. Petersburg,FL,36,5,1,0,2,20,6,2,0,39,11,2,0,1,12,11,2,0,2000,7,13,0,United States,1,1,-81.686783,27.766279,eastern,17
+85,2000-07-14,TBA,MON,False,8,5,STP01,Tropicana Field,St. Petersburg,FL,37,7,3,1,1,20,3,2,0,39,5,5,0,1,18,4,6,0,2000,7,14,0,United States,1,1,-81.686783,27.766279,eastern,17
+86,2000-07-15,TBA,MON,True,1,4,STP01,Tropicana Field,St. Petersburg,FL,41,11,2,0,0,19,7,2,0,35,8,1,0,0,23,2,1,0,2000,7,15,0,United States,-1,0,-81.686783,27.766279,eastern,17
+87,2000-07-16,BOS,MON,True,5,2,BOS07,Fenway Park,Boston,MA,35,3,0,0,1,25,2,4,0,34,5,2,0,1,21,2,3,0,2000,7,16,0,United States,1,1,-71.530106,42.230171,eastern,17
+88,2000-07-17,BOS,MON,False,7,3,BOS07,Fenway Park,Boston,MA,38,5,1,0,1,16,12,3,0,42,6,1,0,2,17,7,8,1,2000,7,17,0,United States,1,1,-71.530106,42.230171,eastern,17
+89,2000-07-18,BOS,MON,False,3,1,BOS07,Fenway Park,Boston,MA,36,3,2,1,0,15,12,3,0,33,6,3,0,0,18,5,1,0,2000,7,18,0,United States,1,1,-71.530106,42.230171,eastern,17
+90,2000-07-19,MON,NYN,False,3,5,MON02,Stade Olympique,Montreal,QUE,43,8,1,1,1,20,6,5,1,41,7,1,1,0,19,7,6,0,2000,7,19,1,Canada,-1,0,-79.347015,43.65107,eastern,17
+91,2000-07-20,MON,NYN,True,4,1,MON02,Stade Olympique,Montreal,QUE,34,7,0,0,0,17,8,2,0,35,6,1,0,1,13,10,4,0,2000,7,20,1,Canada,1,1,-79.347015,43.65107,eastern,17
+92,2000-07-21,FLO,MON,False,3,7,MIA01,Sun Life Stadium,Miami,FL,42,4,3,0,2,17,9,7,0,44,8,0,0,0,18,11,7,0,2000,7,21,0,United States,-1,0,-81.686783,27.766279,eastern,17
+93,2000-07-22,FLO,MON,False,7,17,MIA01,Sun Life Stadium,Miami,FL,53,14,3,0,2,14,12,7,1,40,2,3,0,2,26,2,5,0,2000,7,22,0,United States,-1,0,-81.686783,27.766279,eastern,17
+94,2000-07-23,FLO,MON,True,6,7,MIA01,Sun Life Stadium,Miami,FL,48,13,2,0,2,21,7,3,0,41,8,3,0,0,17,9,4,0,2000,7,23,0,United States,-1,0,-81.686783,27.766279,eastern,17
+95,2000-07-25,NYN,MON,False,5,0,NYC17,Shea Stadium,New York,NY,36,4,1,0,0,19,8,4,0,39,11,1,0,0,17,6,4,0,2000,7,25,0,United States,1,1,-74.948051,42.165726,eastern,17
+96,2000-07-27,NYN,MON,True,9,8,NYC17,Shea Stadium,New York,NY,44,6,3,0,0,21,6,7,1,42,9,5,1,0,19,3,5,0,2000,7,27,0,United States,1,1,-74.948051,42.165726,eastern,17
+97,2000-07-27,NYN,MON,True,4,3,NYC17,Shea Stadium,New York,NY,37,6,0,0,1,26,3,1,0,33,5,1,0,1,18,5,3,0,2000,7,27,0,United States,1,1,-74.948051,42.165726,eastern,17
+98,2000-07-28,MON,CIN,False,3,8,MON02,Stade Olympique,Montreal,QUE,44,7,4,0,1,23,4,5,0,34,8,0,0,0,22,3,1,0,2000,7,28,1,Canada,-1,0,-79.347015,43.65107,eastern,17
+99,2000-07-29,MON,CIN,False,3,4,MON02,Stade Olympique,Montreal,QUE,46,7,1,1,2,22,11,2,0,44,8,2,0,1,28,3,2,0,2000,7,29,1,Canada,-1,0,-79.347015,43.65107,eastern,17
+100,2000-07-30,MON,CIN,True,4,7,MON02,Stade Olympique,Montreal,QUE,41,4,5,1,1,19,8,3,0,42,5,1,0,2,18,9,7,0,2000,7,30,1,Canada,-1,0,-79.347015,43.65107,eastern,17
+101,2000-07-31,MON,SLN,False,0,4,MON02,Stade Olympique,Montreal,QUE,36,5,3,0,2,20,5,1,0,33,6,0,0,0,20,6,1,0,2000,7,31,1,Canada,-1,0,-79.347015,43.65107,eastern,17
+102,2000-08-01,MON,SLN,False,4,0,MON02,Stade Olympique,Montreal,QUE,35,3,2,0,0,15,12,3,0,35,7,0,1,1,14,7,5,0,2000,8,1,1,Canada,1,1,-79.347015,43.65107,eastern,17
+103,2000-08-02,MON,SLN,False,7,10,MON02,Stade Olympique,Montreal,QUE,42,6,1,1,3,19,5,7,0,40,6,3,0,2,19,6,4,0,2000,8,2,1,Canada,-1,0,-79.347015,43.65107,eastern,17
+104,2000-08-04,HOU,MON,False,7,6,HOU03,Minute Maid Park,Houston,TX,44,10,2,1,1,17,10,3,0,37,8,0,1,3,16,6,2,1,2000,8,4,0,United States,1,1,-97.563461,31.054487,central,18
+105,2000-08-05,HOU,MON,False,9,10,HOU03,Minute Maid Park,Houston,TX,46,8,0,2,4,26,4,2,0,47,7,6,0,2,21,5,6,0,2000,8,5,0,United States,-1,0,-97.563461,31.054487,central,18
+106,2000-08-06,HOU,MON,True,8,1,HOU03,Minute Maid Park,Houston,TX,33,2,2,0,0,24,3,1,1,40,9,2,0,1,15,7,5,1,2000,8,6,0,United States,1,1,-97.563461,31.054487,central,18
+107,2000-08-07,ARI,MON,False,5,2,PHO01,Chase Field,Phoenix,AZ,35,6,2,0,0,21,5,1,0,36,7,2,0,0,22,2,2,1,2000,8,7,0,United States,1,1,-111.431221,33.729759,mountain,19
+108,2000-08-08,ARI,MON,False,3,9,PHO01,Chase Field,Phoenix,AZ,47,8,3,2,3,16,10,5,0,36,9,0,0,0,21,3,3,0,2000,8,8,0,United States,-1,0,-111.431221,33.729759,mountain,19
+109,2000-08-09,ARI,MON,False,3,4,PHO01,Chase Field,Phoenix,AZ,39,13,1,0,1,11,12,1,0,34,3,5,0,0,17,8,1,0,2000,8,9,0,United States,-1,0,-111.431221,33.729759,mountain,19
+110,2000-08-11,MON,COL,False,3,10,MON02,Stade Olympique,Montreal,QUE,46,7,4,0,2,23,3,7,0,40,10,1,0,0,19,5,4,1,2000,8,11,1,Canada,-1,0,-79.347015,43.65107,eastern,21
+111,2000-08-12,MON,COL,False,2,14,MON02,Stade Olympique,Montreal,QUE,53,15,6,0,1,21,5,4,1,33,3,2,0,1,21,3,3,0,2000,8,12,1,Canada,-1,0,-79.347015,43.65107,eastern,21
+112,2000-08-13,MON,COL,True,3,5,MON02,Stade Olympique,Montreal,QUE,40,11,0,1,0,21,3,4,0,33,6,1,0,0,20,6,0,0,2000,8,13,1,Canada,-1,0,-79.347015,43.65107,eastern,21
+113,2000-08-14,MON,COL,False,3,4,MON02,Stade Olympique,Montreal,QUE,41,9,1,0,2,17,10,2,0,36,6,4,0,0,21,4,1,0,2000,8,14,1,Canada,-1,0,-79.347015,43.65107,eastern,21
+114,2000-08-15,MON,SFN,False,7,9,MON02,Stade Olympique,Montreal,QUE,46,5,2,0,4,24,2,8,1,37,5,0,0,4,17,9,2,0,2000,8,15,1,Canada,-1,0,-79.347015,43.65107,eastern,21
+115,2000-08-16,MON,SFN,False,1,4,MON02,Stade Olympique,Montreal,QUE,38,5,1,0,1,20,7,4,0,33,6,1,0,1,18,7,0,0,2000,8,16,1,Canada,-1,0,-79.347015,43.65107,eastern,21
+116,2000-08-17,MON,SFN,True,4,5,MON02,Stade Olympique,Montreal,QUE,40,7,1,1,2,15,10,4,0,37,3,3,0,1,19,7,4,0,2000,8,17,1,Canada,-1,0,-79.347015,43.65107,eastern,21
+117,2000-08-18,SDN,MON,False,3,6,SAN01,Qualcomm Stadium,San Diego,CA,41,10,1,0,0,16,11,2,1,36,6,1,0,0,20,3,6,0,2000,8,18,0,United States,-1,0,-119.681564,36.116203,pacific,24
+118,2000-08-19,SDN,MON,False,4,3,SAN01,Qualcomm Stadium,San Diego,CA,44,6,0,1,1,26,6,4,0,47,10,2,0,0,22,7,5,1,2000,8,19,0,United States,1,1,-119.681564,36.116203,pacific,24
+119,2000-08-20,SDN,MON,True,5,4,SAN01,Qualcomm Stadium,San Diego,CA,40,8,1,0,1,16,10,4,0,37,6,1,0,0,21,4,5,0,2000,8,20,0,United States,1,1,-119.681564,36.116203,pacific,24
+120,2000-08-21,LAN,MON,False,1,4,LOS03,Dodger Stadium,Los Angeles,CA,37,7,1,0,1,16,7,5,0,34,6,2,0,0,21,3,2,0,2000,8,21,0,United States,-1,0,-119.681564,36.116203,pacific,24
+121,2000-08-22,LAN,MON,False,14,6,LOS03,Dodger Stadium,Los Angeles,CA,40,9,3,0,1,20,5,2,0,41,9,1,0,6,18,3,4,0,2000,8,22,0,United States,1,1,-119.681564,36.116203,pacific,24
+122,2000-08-23,LAN,MON,False,5,1,LOS03,Dodger Stadium,Los Angeles,CA,31,2,2,0,0,22,4,0,1,36,4,2,0,0,19,6,4,1,2000,8,23,0,United States,1,1,-119.681564,36.116203,pacific,24
+123,2000-08-24,LAN,MON,True,7,0,LOS03,Dodger Stadium,Los Angeles,CA,33,3,2,0,0,15,11,1,1,37,8,1,0,2,14,10,2,0,2000,8,24,0,United States,1,1,-119.681564,36.116203,pacific,24
+124,2000-08-25,MON,HOU,False,1,3,MON02,Stade Olympique,Montreal,QUE,40,6,1,0,0,20,9,4,0,36,4,4,0,0,22,6,0,0,2000,8,25,1,Canada,-1,0,-79.347015,43.65107,eastern,27
+125,2000-08-26,MON,HOU,False,5,4,MON02,Stade Olympique,Montreal,QUE,36,9,1,0,0,18,7,1,0,34,5,2,1,1,21,2,2,0,2000,8,26,1,Canada,1,1,-79.347015,43.65107,eastern,27
+126,2000-08-27,MON,HOU,True,3,7,MON02,Stade Olympique,Montreal,QUE,38,6,2,0,2,18,7,2,1,39,4,2,0,0,20,6,7,0,2000,8,27,1,Canada,-1,0,-79.347015,43.65107,eastern,27
+127,2000-08-28,MON,ARI,False,9,5,MON02,Stade Olympique,Montreal,QUE,38,7,1,1,0,22,5,2,0,38,11,3,0,0,15,7,2,0,2000,8,28,1,Canada,1,1,-79.347015,43.65107,eastern,27
+128,2000-08-29,MON,ARI,False,7,8,MON02,Stade Olympique,Montreal,QUE,39,4,3,0,1,19,7,4,1,41,8,3,0,1,16,9,4,0,2000,8,29,1,Canada,-1,0,-79.347015,43.65107,eastern,27
+129,2000-08-30,MON,ARI,False,0,7,MON02,Stade Olympique,Montreal,QUE,39,5,0,2,3,18,7,2,2,31,4,1,0,0,16,10,0,0,2000,8,30,1,Canada,-1,0,-79.347015,43.65107,eastern,27
+130,2000-09-01,CIN,MON,False,8,2,CIN08,Cinergy Field,Cincinnati,OH,37,4,3,0,0,21,6,3,0,40,4,4,0,2,15,8,6,1,2000,9,1,0,United States,1,1,-82.764915,40.388783,eastern,27
+131,2000-09-02,CIN,MON,False,5,9,CIN08,Cinergy Field,Cincinnati,OH,44,5,3,2,2,25,1,6,0,37,3,2,0,1,19,6,5,1,2000,9,2,0,United States,-1,0,-82.764915,40.388783,eastern,27
+132,2000-09-03,CIN,MON,True,8,1,CIN08,Cinergy Field,Cincinnati,OH,41,9,1,1,0,21,5,4,0,41,8,2,0,2,15,6,7,1,2000,9,3,0,United States,1,1,-82.764915,40.388783,eastern,27
+133,2000-09-04,SLN,MON,True,4,2,STL09,Busch Stadium II,St. Louis,MO,36,6,1,1,1,20,4,3,0,36,5,0,1,0,13,11,6,0,2000,9,4,0,United States,1,1,-92.288368,38.456085,central,28
+134,2000-09-05,SLN,MON,False,7,6,STL09,Busch Stadium II,St. Louis,MO,36,1,1,0,2,21,6,5,0,36,4,1,0,2,18,6,5,0,2000,9,5,0,United States,1,1,-92.288368,38.456085,central,28
+135,2000-09-06,SLN,MON,False,2,7,STL09,Busch Stadium II,St. Louis,MO,39,5,4,0,3,19,7,1,0,36,5,3,0,0,21,5,2,0,2000,9,6,0,United States,-1,0,-92.288368,38.456085,central,28
+136,2000-09-07,SLN,MON,True,6,1,STL09,Busch Stadium II,St. Louis,MO,34,2,3,0,0,13,14,1,1,37,8,1,0,2,17,6,3,0,2000,9,7,0,United States,1,1,-92.288368,38.456085,central,28
+137,2000-09-08,ATL,MON,False,3,2,ATL02,Turner Field,Atlanta,GA,38,7,3,0,0,20,7,1,0,41,9,0,0,0,16,7,9,0,2000,9,8,0,United States,1,1,-83.643074,33.040619,eastern,29
+138,2000-09-09,ATL,MON,False,5,7,ATL02,Turner Field,Atlanta,GA,54,9,2,1,2,27,7,6,0,55,12,2,0,1,25,10,5,0,2000,9,9,0,United States,-1,0,-83.643074,33.040619,eastern,29
+139,2000-09-10,ATL,MON,True,0,4,ATL02,Turner Field,Atlanta,GA,35,3,2,0,2,21,6,1,0,35,4,2,0,0,15,11,3,0,2000,9,10,0,United States,-1,0,-83.643074,33.040619,eastern,29
+140,2000-09-11,PHI,MON,False,5,2,PHI12,Veterans Stadium,Philadelphia,PA,33,4,1,0,2,18,6,2,0,34,6,2,0,0,25,0,1,0,2000,9,11,0,United States,1,1,-77.209755,40.590752,eastern,29
+141,2000-09-11,PHI,MON,False,6,7,PHI12,Veterans Stadium,Philadelphia,PA,42,7,3,1,1,22,4,4,0,40,8,1,1,0,20,5,3,2,2000,9,11,0,United States,-1,0,-77.209755,40.590752,eastern,29
+142,2000-09-12,PHI,MON,False,0,1,PHI12,Veterans Stadium,Philadelphia,PA,29,1,1,0,1,16,7,3,0,32,2,1,0,0,23,4,2,0,2000,9,12,0,United States,-1,0,-77.209755,40.590752,eastern,29
+143,2000-09-13,PHI,MON,False,15,5,PHI12,Veterans Stadium,Philadelphia,PA,36,4,2,0,2,18,8,2,0,49,12,3,3,1,20,5,5,0,2000,9,13,0,United States,1,1,-77.209755,40.590752,eastern,29
+144,2000-09-14,MON,NYN,False,4,10,MON02,Stade Olympique,Montreal,QUE,44,9,0,0,3,18,7,5,2,38,8,2,0,0,20,5,3,0,2000,9,14,1,Canada,-1,0,-79.347015,43.65107,eastern,29
+145,2000-09-15,MON,NYN,False,4,3,MON02,Stade Olympique,Montreal,QUE,34,7,1,0,1,15,10,0,0,37,7,2,0,1,17,7,3,0,2000,9,15,1,Canada,1,1,-79.347015,43.65107,eastern,29
+146,2000-09-16,MON,NYN,False,4,10,MON02,Stade Olympique,Montreal,QUE,46,10,1,0,3,23,4,4,1,42,9,2,0,0,15,12,3,1,2000,9,16,1,Canada,-1,0,-79.347015,43.65107,eastern,29
+147,2000-09-17,MON,NYN,True,5,0,MON02,Stade Olympique,Montreal,QUE,33,4,0,0,0,16,9,3,1,31,2,1,1,3,18,4,1,1,2000,9,17,1,Canada,1,1,-79.347015,43.65107,eastern,29
+148,2000-09-18,MON,FLO,False,11,4,MON02,Stade Olympique,Montreal,QUE,37,4,1,0,1,18,7,4,2,38,3,2,0,4,15,8,5,1,2000,9,18,1,Canada,1,1,-79.347015,43.65107,eastern,29
+149,2000-09-19,MON,FLO,False,1,3,MON02,Stade Olympique,Montreal,QUE,37,5,1,0,1,17,10,3,0,34,3,1,0,1,20,8,1,0,2000,9,19,1,Canada,-1,0,-79.347015,43.65107,eastern,29
+150,2000-09-20,MON,FLO,False,4,2,MON02,Stade Olympique,Montreal,QUE,36,7,2,0,0,14,11,1,1,35,5,0,1,3,19,5,2,0,2000,9,20,1,Canada,1,1,-79.347015,43.65107,eastern,29
+151,2000-09-21,MON,FLO,True,10,3,MON02,Stade Olympique,Montreal,QUE,33,5,0,1,1,23,2,1,0,43,9,3,0,2,22,2,5,0,2000,9,21,1,Canada,1,1,-79.347015,43.65107,eastern,29
+152,2000-09-22,MON,ATL,False,6,4,MON02,Stade Olympique,Montreal,QUE,36,3,1,0,2,20,4,6,0,34,5,2,1,1,18,6,1,0,2000,9,22,1,Canada,1,1,-79.347015,43.65107,eastern,29
+153,2000-09-23,MON,ATL,False,0,10,MON02,Stade Olympique,Montreal,QUE,42,7,1,0,1,19,8,6,0,34,4,1,0,0,13,14,2,0,2000,9,23,1,Canada,-1,0,-79.347015,43.65107,eastern,29
+154,2000-09-24,MON,ATL,True,5,14,MON02,Stade Olympique,Montreal,QUE,51,13,5,1,2,18,8,4,0,36,7,3,0,0,23,2,1,0,2000,9,24,1,Canada,-1,0,-79.347015,43.65107,eastern,29
+155,2000-09-25,MON,ATL,False,0,6,MON02,Stade Olympique,Montreal,QUE,44,9,2,0,1,17,11,2,2,33,6,1,1,0,22,3,0,0,2000,9,25,1,Canada,-1,0,-79.347015,43.65107,eastern,29
+156,2000-09-26,FLO,MON,False,5,4,MIA01,Sun Life Stadium,Miami,FL,41,6,1,0,1,21,9,2,1,39,6,1,0,1,23,4,3,1,2000,9,26,0,United States,1,1,-81.686783,27.766279,eastern,29
+157,2000-09-27,FLO,MON,False,6,3,MIA01,Sun Life Stadium,Miami,FL,37,3,2,0,0,17,9,6,0,37,6,1,2,0,12,10,5,1,2000,9,27,0,United States,1,1,-81.686783,27.766279,eastern,29
+158,2000-09-28,FLO,MON,True,7,4,MIA01,Sun Life Stadium,Miami,FL,39,4,4,0,0,19,8,4,0,35,2,6,0,1,17,6,2,1,2000,9,28,0,United States,1,1,-81.686783,27.766279,eastern,29
+159,2000-09-29,NYN,MON,False,11,2,NYC17,Shea Stadium,New York,NY,36,5,1,1,0,20,7,2,0,38,9,0,0,2,16,7,4,0,2000,9,29,0,United States,1,1,-74.948051,42.165726,eastern,29
+160,2000-09-30,NYN,MON,False,4,2,NYC17,Shea Stadium,New York,NY,32,2,1,0,1,22,5,1,0,34,5,2,0,0,21,2,4,0,2000,9,30,0,United States,1,1,-74.948051,42.165726,eastern,29
+161,2000-10-01,NYN,MON,True,3,2,NYC17,Shea Stadium,New York,NY,50,7,1,0,1,23,15,3,0,48,7,2,0,0,30,7,2,0,2000,10,1,0,United States,1,1,-74.948051,42.165726,eastern,29
+162,2001-04-02,CHN,MON,True,4,5,CHI11,Wrigley Field,Chicago,IL,41,8,1,0,1,23,6,2,0,44,6,3,0,0,17,12,6,0,2001,4,2,0,United States,-1,0,-88.986137,40.349457,central,2
+163,2001-04-04,CHN,MON,True,2,3,CHI11,Wrigley Field,Chicago,IL,42,7,2,0,0,13,14,6,0,40,5,3,0,0,20,6,6,0,2001,4,4,0,United States,-1,0,-88.986137,40.349457,central,2
+164,2001-04-05,CHN,MON,True,2,1,CHI11,Wrigley Field,Chicago,IL,31,1,1,0,1,17,10,1,0,32,4,0,0,0,20,5,1,2,2001,4,5,0,United States,1,1,-88.986137,40.349457,central,2
+165,2001-04-06,MON,NYN,False,10,6,MON02,Stade Olympique,Montreal,QUE,37,4,2,0,3,21,5,2,0,39,7,2,1,3,18,4,4,0,2001,4,6,1,Canada,1,1,-79.347015,43.65107,eastern,3
+166,2001-04-07,MON,NYN,True,10,0,MON02,Stade Olympique,Montreal,QUE,31,2,2,0,0,15,11,1,0,39,6,1,0,3,15,8,6,0,2001,4,7,1,Canada,1,1,-79.347015,43.65107,eastern,3
+167,2001-04-08,MON,NYN,True,5,2,MON02,Stade Olympique,Montreal,QUE,43,9,1,0,0,20,6,5,2,39,7,3,0,0,16,9,3,1,2001,4,8,1,Canada,1,1,-79.347015,43.65107,eastern,3
+168,2001-04-09,MON,CHN,False,7,5,MON02,Stade Olympique,Montreal,QUE,38,5,1,0,3,22,5,2,0,36,6,1,0,1,16,8,3,1,2001,4,9,1,Canada,1,1,-79.347015,43.65107,eastern,3
+169,2001-04-10,MON,CHN,False,2,4,MON02,Stade Olympique,Montreal,QUE,39,2,2,0,1,23,4,6,1,38,6,1,0,2,18,9,2,0,2001,4,10,1,Canada,-1,0,-79.347015,43.65107,eastern,3
+170,2001-04-11,MON,CHN,False,2,4,MON02,Stade Olympique,Montreal,QUE,38,6,2,0,0,23,4,2,1,37,3,3,0,1,21,5,4,0,2001,4,11,1,Canada,-1,0,-79.347015,43.65107,eastern,3
+171,2001-04-13,MON,FLO,False,3,9,MON02,Stade Olympique,Montreal,QUE,44,6,5,0,2,18,8,5,0,36,4,2,0,0,21,6,3,0,2001,4,13,1,Canada,-1,0,-79.347015,43.65107,eastern,3
+172,2001-04-14,MON,FLO,False,8,2,MON02,Stade Olympique,Montreal,QUE,37,6,2,0,0,21,5,3,0,40,9,4,0,1,15,4,6,1,2001,4,14,1,Canada,1,1,-79.347015,43.65107,eastern,3
+173,2001-04-15,MON,FLO,True,3,6,MON02,Stade Olympique,Montreal,QUE,38,4,3,0,2,20,7,2,0,33,5,0,0,2,17,7,1,1,2001,4,15,1,Canada,-1,0,-79.347015,43.65107,eastern,3
+174,2001-04-16,NYN,MON,False,4,3,NYC17,Shea Stadium,New York,NY,35,5,2,0,0,18,9,1,0,37,3,4,0,0,20,4,5,1,2001,4,16,0,United States,1,1,-74.948051,42.165726,eastern,3
+175,2001-04-17,NYN,MON,False,4,0,NYC17,Shea Stadium,New York,NY,37,4,2,0,0,19,9,3,0,34,9,0,0,1,18,4,2,0,2001,4,17,0,United States,1,1,-74.948051,42.165726,eastern,3
+176,2001-04-18,NYN,MON,True,1,7,NYC17,Shea Stadium,New York,NY,41,9,1,1,1,20,6,2,1,34,2,0,0,0,19,10,3,0,2001,4,18,0,United States,-1,0,-74.948051,42.165726,eastern,3
+177,2001-04-19,FLO,MON,False,5,2,MIA01,Sun Life Stadium,Miami,FL,34,1,1,0,1,17,9,4,1,38,5,1,0,2,14,8,7,1,2001,4,19,0,United States,1,1,-81.686783,27.766279,eastern,3
+178,2001-04-20,FLO,MON,False,5,1,MIA01,Sun Life Stadium,Miami,FL,31,3,1,0,1,22,2,2,0,35,4,2,0,2,13,10,4,0,2001,4,20,0,United States,1,1,-81.686783,27.766279,eastern,3
+179,2001-04-21,FLO,MON,False,5,0,MIA01,Sun Life Stadium,Miami,FL,30,4,0,0,0,15,8,2,1,31,2,3,1,1,21,2,1,0,2001,4,21,0,United States,1,1,-81.686783,27.766279,eastern,3
+180,2001-04-22,FLO,MON,True,2,6,MIA01,Sun Life Stadium,Miami,FL,38,6,1,2,0,22,4,1,2,35,5,2,0,0,15,10,3,0,2001,4,22,0,United States,-1,0,-81.686783,27.766279,eastern,3
+181,2001-04-24,SLN,MON,False,7,2,STL09,Busch Stadium II,St. Louis,MO,35,5,1,1,1,18,8,0,1,40,11,3,0,0,13,10,3,0,2001,4,24,0,United States,1,1,-92.288368,38.456085,central,4
+182,2001-04-25,SLN,MON,False,5,2,STL09,Busch Stadium II,St. Louis,MO,42,4,1,0,0,21,5,8,3,31,6,1,0,1,15,4,3,1,2001,4,25,0,United States,1,1,-92.288368,38.456085,central,4
+183,2001-04-26,SLN,MON,True,3,4,STL09,Busch Stadium II,St. Louis,MO,63,10,2,0,2,26,13,10,0,64,12,2,2,0,26,16,5,1,2001,4,26,0,United States,-1,0,-92.288368,38.456085,central,4
+184,2001-04-27,MIL,MON,False,1,6,MIL06,Miller Park,Milwaukee,WI,39,4,1,0,3,22,6,3,0,33,3,2,0,0,17,8,3,0,2001,4,27,0,United States,-1,0,-89.616508,44.268543,central,4
+185,2001-04-28,MIL,MON,True,8,4,MIL06,Miller Park,Milwaukee,WI,36,7,2,0,0,19,7,1,0,35,5,0,0,4,19,4,2,1,2001,4,28,0,United States,1,1,-89.616508,44.268543,central,4
+186,2001-04-29,MIL,MON,True,10,0,MIL06,Miller Park,Milwaukee,WI,30,2,0,0,0,19,6,3,0,39,10,2,0,2,16,6,3,0,2001,4,29,0,United States,1,1,-89.616508,44.268543,central,4
+187,2001-05-01,MON,ARI,False,3,8,MON02,Stade Olympique,Montreal,QUE,42,6,1,1,2,24,3,3,2,36,7,1,0,1,22,4,1,0,2001,5,1,1,Canada,-1,0,-79.347015,43.65107,eastern,5
+188,2001-05-02,MON,ARI,False,4,3,MON02,Stade Olympique,Montreal,QUE,32,4,0,0,1,18,7,2,0,35,3,0,1,0,20,5,6,0,2001,5,2,1,Canada,1,1,-79.347015,43.65107,eastern,5
+189,2001-05-03,MON,ARI,False,1,2,MON02,Stade Olympique,Montreal,QUE,36,5,1,0,0,22,5,3,0,34,1,1,0,1,13,13,5,0,2001,5,3,1,Canada,-1,0,-79.347015,43.65107,eastern,5
+190,2001-05-04,MON,HOU,False,4,8,MON02,Stade Olympique,Montreal,QUE,44,6,3,0,3,19,7,4,2,34,2,4,0,0,21,5,1,1,2001,5,4,1,Canada,-1,0,-79.347015,43.65107,eastern,5
+191,2001-05-05,MON,HOU,False,3,4,MON02,Stade Olympique,Montreal,QUE,38,3,0,0,0,16,11,7,1,34,5,3,0,0,17,7,2,0,2001,5,5,1,Canada,-1,0,-79.347015,43.65107,eastern,5
+192,2001-05-06,MON,HOU,True,7,13,MON02,Stade Olympique,Montreal,QUE,45,11,3,1,3,22,3,2,0,43,14,2,0,0,19,6,2,0,2001,5,6,1,Canada,-1,0,-79.347015,43.65107,eastern,5
+193,2001-05-07,SFN,MON,False,6,2,SFO03,Oracle Park,San Francisco,CA,38,5,2,0,0,18,8,5,0,33,3,0,1,1,18,5,4,1,2001,5,7,0,United States,1,1,-119.681564,36.116203,pacific,8
+194,2001-05-08,SFN,MON,False,9,1,SFO03,Oracle Park,San Francisco,CA,33,5,1,0,0,18,7,2,0,43,7,1,1,3,20,3,8,0,2001,5,8,0,United States,1,1,-119.681564,36.116203,pacific,8
+195,2001-05-09,SFN,MON,False,0,8,SFO03,Oracle Park,San Francisco,CA,42,6,3,0,2,21,6,4,0,35,5,1,1,0,17,9,2,0,2001,5,9,0,United States,-1,0,-119.681564,36.116203,pacific,8
+196,2001-05-10,SFN,MON,True,13,0,SFO03,Oracle Park,San Francisco,CA,33,4,2,0,0,22,3,2,0,50,13,4,1,0,20,2,10,0,2001,5,10,0,United States,1,1,-119.681564,36.116203,pacific,8
+197,2001-05-11,COL,MON,False,13,4,DEN02,Coors Field,Denver,CO,36,3,2,0,2,20,8,1,0,45,7,2,3,4,22,2,5,0,2001,5,11,0,United States,1,1,-105.311104,39.059811,mountain,9
+198,2001-05-12,COL,MON,True,4,8,DEN02,Coors Field,Denver,CO,39,5,2,0,4,24,2,1,1,37,3,1,0,2,15,10,4,2,2001,5,12,0,United States,-1,0,-105.311104,39.059811,mountain,9
+199,2001-05-13,COL,MON,True,10,14,DEN02,Coors Field,Denver,CO,51,3,7,2,3,18,9,8,1,44,9,4,0,2,18,9,2,0,2001,5,13,0,United States,-1,0,-105.311104,39.059811,mountain,9
+200,2001-05-15,MON,LAN,False,2,0,MON02,Stade Olympique,Montreal,QUE,30,2,0,0,0,18,9,0,1,30,3,2,1,0,11,9,3,1,2001,5,15,1,Canada,1,1,-79.347015,43.65107,eastern,11
+201,2001-05-16,MON,LAN,False,2,7,MON02,Stade Olympique,Montreal,QUE,42,8,1,0,2,19,8,4,0,37,4,2,0,0,17,10,3,1,2001,5,16,1,Canada,-1,0,-79.347015,43.65107,eastern,11
+202,2001-05-17,MON,LAN,False,3,1,MON02,Stade Olympique,Montreal,QUE,35,6,1,0,0,13,12,3,0,28,0,2,0,3,14,9,0,0,2001,5,17,1,Canada,1,1,-79.347015,43.65107,eastern,11
+203,2001-05-18,MON,SDN,False,3,1,MON02,Stade Olympique,Montreal,QUE,32,5,0,0,0,20,5,2,0,31,1,6,0,0,14,9,1,0,2001,5,18,1,Canada,1,1,-79.347015,43.65107,eastern,11
+204,2001-05-19,MON,SDN,False,7,20,MON02,Stade Olympique,Montreal,QUE,57,13,3,0,4,24,4,7,2,43,9,3,1,0,17,9,4,0,2001,5,19,1,Canada,-1,0,-79.347015,43.65107,eastern,11
+205,2001-05-20,MON,SDN,True,3,5,MON02,Stade Olympique,Montreal,QUE,35,4,2,0,1,21,4,3,0,36,5,1,0,0,19,8,3,0,2001,5,20,1,Canada,-1,0,-79.347015,43.65107,eastern,11
+206,2001-05-21,MON,NYN,False,3,6,MON02,Stade Olympique,Montreal,QUE,41,6,3,0,1,18,8,4,1,35,5,3,0,1,17,6,3,0,2001,5,21,1,Canada,-1,0,-79.347015,43.65107,eastern,11
+207,2001-05-22,MON,NYN,False,3,0,MON02,Stade Olympique,Montreal,QUE,38,6,3,0,0,19,7,3,0,34,8,1,0,1,19,3,2,0,2001,5,22,1,Canada,1,1,-79.347015,43.65107,eastern,11
+208,2001-05-23,MON,NYN,False,2,4,MON02,Stade Olympique,Montreal,QUE,37,7,0,0,2,20,6,2,0,35,6,1,0,1,16,9,2,0,2001,5,23,1,Canada,-1,0,-79.347015,43.65107,eastern,11
+209,2001-05-25,PHI,MON,False,10,8,PHI12,Veterans Stadium,Philadelphia,PA,47,8,4,1,0,18,8,7,1,41,2,5,0,2,20,7,5,0,2001,5,25,0,United States,1,1,-77.209755,40.590752,eastern,11
+210,2001-05-27,PHI,MON,True,7,5,PHI12,Veterans Stadium,Philadelphia,PA,39,4,3,0,2,16,10,4,0,41,6,4,0,2,19,5,5,0,2001,5,27,0,United States,1,1,-77.209755,40.590752,eastern,11
+211,2001-05-27,PHI,MON,True,3,7,PHI12,Veterans Stadium,Philadelphia,PA,38,6,1,0,1,21,5,3,1,36,3,3,0,0,22,5,3,0,2001,5,27,0,United States,-1,0,-77.209755,40.590752,eastern,11
+212,2001-05-28,ATL,MON,False,5,3,ATL02,Turner Field,Atlanta,GA,34,9,0,0,1,15,7,2,0,30,6,1,0,1,16,5,1,0,2001,5,28,0,United States,1,1,-83.643074,33.040619,eastern,11
+213,2001-05-29,ATL,MON,False,7,4,ATL02,Turner Field,Atlanta,GA,35,5,1,0,1,19,8,1,0,36,5,1,0,2,13,9,6,0,2001,5,29,0,United States,1,1,-83.643074,33.040619,eastern,11
+214,2001-05-30,ATL,MON,True,3,4,ATL02,Turner Field,Atlanta,GA,38,8,2,0,0,17,9,2,0,35,5,1,0,1,16,11,1,0,2001,5,30,0,United States,-1,0,-83.643074,33.040619,eastern,11
+215,2001-05-31,MON,PHI,False,2,5,MON02,Stade Olympique,Montreal,QUE,45,9,2,0,1,20,9,4,0,34,2,2,0,1,20,6,1,2,2001,5,31,1,Canada,-1,0,-79.347015,43.65107,eastern,11
+216,2001-06-01,MON,PHI,False,2,13,MON02,Stade Olympique,Montreal,QUE,45,9,3,0,1,24,3,5,0,34,4,1,0,1,18,8,2,0,2001,6,1,1,Canada,-1,0,-79.347015,43.65107,eastern,11
+217,2001-06-02,MON,PHI,False,12,5,MON02,Stade Olympique,Montreal,QUE,38,4,1,0,2,19,7,5,0,42,7,6,0,1,15,9,4,0,2001,6,2,1,Canada,1,1,-79.347015,43.65107,eastern,11
+218,2001-06-03,MON,PHI,True,10,3,MON02,Stade Olympique,Montreal,QUE,36,4,1,0,1,22,5,3,0,43,9,5,0,2,15,7,3,2,2001,6,3,1,Canada,1,1,-79.347015,43.65107,eastern,11
+219,2001-06-05,MON,ATL,False,1,3,MON02,Stade Olympique,Montreal,QUE,37,8,1,0,0,19,6,2,1,33,6,1,0,0,15,11,0,0,2001,6,5,1,Canada,-1,0,-79.347015,43.65107,eastern,11
+220,2001-06-06,MON,ATL,False,0,2,MON02,Stade Olympique,Montreal,QUE,38,6,2,0,1,17,9,3,0,32,2,1,0,0,19,8,2,0,2001,6,6,1,Canada,-1,0,-79.347015,43.65107,eastern,11
+221,2001-06-07,MON,ATL,False,3,4,MON02,Stade Olympique,Montreal,QUE,47,7,4,0,0,25,6,4,1,41,6,1,0,1,21,9,3,0,2001,6,7,1,Canada,-1,0,-79.347015,43.65107,eastern,11
+222,2001-06-08,BAL,MON,False,5,0,BAL12,Oriole Park at Camden Yards,Baltimore,MD,31,5,1,0,0,20,5,0,0,38,6,1,1,1,22,1,5,1,2001,6,8,0,United States,1,1,-76.802101,39.063946,eastern,11
+223,2001-06-09,BAL,MON,False,2,4,BAL12,Oriole Park at Camden Yards,Baltimore,MD,37,9,0,0,0,19,4,5,0,38,7,0,0,1,21,7,1,1,2001,6,9,0,United States,-1,0,-76.802101,39.063946,eastern,11
+224,2001-06-10,BAL,MON,True,3,2,BAL12,Oriole Park at Camden Yards,Baltimore,MD,35,5,1,0,0,24,2,3,0,31,5,1,0,0,17,6,2,0,2001,6,10,0,United States,1,1,-76.802101,39.063946,eastern,11
+225,2001-06-12,NYA,MON,False,1,2,NYC16,Yankee Stadium I,New York,NY,45,1,3,0,2,22,13,4,0,48,5,1,0,0,24,11,7,0,2001,6,12,0,United States,-1,0,-74.948051,42.165726,eastern,11
+226,2001-06-13,NYA,MON,False,9,3,NYC16,Yankee Stadium I,New York,NY,34,4,3,0,0,19,7,1,0,35,4,4,0,3,18,6,0,0,2001,6,13,0,United States,1,1,-74.948051,42.165726,eastern,11
+227,2001-06-14,NYA,MON,False,9,6,NYC16,Yankee Stadium I,New York,NY,36,6,0,0,1,18,8,3,0,43,8,1,1,2,20,3,8,0,2001,6,14,0,United States,1,1,-74.948051,42.165726,eastern,11
+228,2001-06-15,MON,TOR,False,3,9,MON02,Stade Olympique,Montreal,QUE,43,9,3,0,3,19,7,2,0,36,10,1,0,2,19,4,0,0,2001,6,15,1,Canada,-1,0,-79.347015,43.65107,eastern,11
+229,2001-06-16,MON,TOR,False,7,2,MON02,Stade Olympique,Montreal,QUE,38,4,4,1,1,25,0,2,1,36,7,2,1,1,18,4,2,1,2001,6,16,1,Canada,1,1,-79.347015,43.65107,eastern,11
+230,2001-06-17,MON,TOR,True,4,1,MON02,Stade Olympique,Montreal,QUE,39,6,2,1,0,19,8,2,1,31,6,0,1,1,16,4,2,1,2001,6,17,1,Canada,1,1,-79.347015,43.65107,eastern,11
+231,2001-06-18,NYN,MON,False,2,1,NYC17,Shea Stadium,New York,NY,35,6,0,0,0,14,11,3,1,36,7,2,0,0,18,5,3,1,2001,6,18,0,United States,1,1,-74.948051,42.165726,eastern,11
+232,2001-06-19,NYN,MON,False,4,1,NYC17,Shea Stadium,New York,NY,33,3,1,0,1,19,8,1,0,31,5,0,0,0,20,3,2,1,2001,6,19,0,United States,1,1,-74.948051,42.165726,eastern,11
+233,2001-06-20,NYN,MON,False,4,3,NYC17,Shea Stadium,New York,NY,37,3,2,0,0,21,7,4,0,34,8,1,0,2,14,7,2,0,2001,6,20,0,United States,1,1,-74.948051,42.165726,eastern,11
+234,2001-06-21,NYN,MON,False,3,10,NYC17,Shea Stadium,New York,NY,43,10,2,0,2,21,5,3,0,38,5,1,0,1,20,8,3,0,2001,6,21,0,United States,-1,0,-74.948051,42.165726,eastern,11
+235,2001-06-22,PIT,MON,False,5,11,PIT08,PNC Park,Pittsburgh,PA,48,5,4,0,1,21,4,10,3,35,4,2,0,1,20,5,3,0,2001,6,22,0,United States,-1,0,-77.209755,40.590752,eastern,11
+236,2001-06-23,PIT,MON,False,7,4,PIT08,PNC Park,Pittsburgh,PA,38,7,2,0,0,19,7,2,1,40,10,3,0,0,18,3,5,1,2001,6,23,0,United States,1,1,-77.209755,40.590752,eastern,11
+237,2001-06-24,PIT,MON,True,4,11,PIT08,PNC Park,Pittsburgh,PA,47,11,5,0,0,23,3,4,1,40,4,3,0,1,19,8,3,2,2001,6,24,0,United States,-1,0,-77.209755,40.590752,eastern,11
+238,2001-06-25,FLO,MON,False,1,3,MIA01,Sun Life Stadium,Miami,FL,36,3,2,0,2,18,7,3,1,34,4,2,0,0,19,8,1,0,2001,6,25,0,United States,-1,0,-81.686783,27.766279,eastern,11
+239,2001-06-26,FLO,MON,False,3,0,MIA01,Sun Life Stadium,Miami,FL,31,1,0,0,0,15,14,1,0,35,7,3,0,0,20,3,2,0,2001,6,26,0,United States,1,1,-81.686783,27.766279,eastern,11
+240,2001-06-27,FLO,MON,False,9,1,MIA01,Sun Life Stadium,Miami,FL,33,2,1,1,0,24,3,2,0,41,4,3,0,0,23,1,10,0,2001,6,27,0,United States,1,1,-81.686783,27.766279,eastern,11
+241,2001-06-29,MON,PIT,False,12,3,MON02,Stade Olympique,Montreal,QUE,37,2,1,0,2,20,6,6,0,44,8,6,0,0,18,6,5,1,2001,6,29,1,Canada,1,1,-79.347015,43.65107,eastern,11
+242,2001-06-30,MON,PIT,False,7,6,MON02,Stade Olympique,Montreal,QUE,41,5,2,0,4,21,6,3,0,40,9,3,0,0,18,5,5,0,2001,6,30,1,Canada,1,1,-79.347015,43.65107,eastern,11
+243,2001-07-01,MON,PIT,True,9,3,MON02,Stade Olympique,Montreal,QUE,37,5,2,0,0,20,8,2,0,38,7,2,0,1,20,3,4,1,2001,7,1,1,Canada,1,1,-79.347015,43.65107,eastern,11
+244,2001-07-03,MON,FLO,False,0,7,MON02,Stade Olympique,Montreal,QUE,38,4,6,0,0,18,7,2,1,32,3,1,0,0,24,2,2,0,2001,7,3,1,Canada,-1,0,-79.347015,43.65107,eastern,11
+245,2001-07-04,MON,FLO,False,9,6,MON02,Stade Olympique,Montreal,QUE,44,10,1,0,1,22,4,5,1,45,10,3,0,2,14,7,8,1,2001,7,4,1,Canada,1,1,-79.347015,43.65107,eastern,11
+246,2001-07-05,MON,FLO,True,9,6,MON02,Stade Olympique,Montreal,QUE,41,9,2,0,1,16,10,3,0,42,12,0,0,3,20,3,4,0,2001,7,5,1,Canada,1,1,-79.347015,43.65107,eastern,11
+247,2001-07-06,TOR,MON,False,7,10,TOR02,Rogers Centre,Toronto,ONT,43,6,4,0,2,17,9,3,2,41,3,2,0,3,23,5,4,1,2001,7,6,1,Canada,-1,0,-79.347015,43.65107,eastern,11
+248,2001-07-07,TOR,MON,True,9,8,TOR02,Rogers Centre,Toronto,ONT,49,12,3,0,2,17,11,3,1,51,11,1,2,1,26,3,6,1,2001,7,7,1,Canada,1,1,-79.347015,43.65107,eastern,11
+249,2001-07-08,TOR,MON,True,9,3,TOR02,Rogers Centre,Toronto,ONT,38,7,4,0,1,18,4,4,0,40,8,2,1,1,17,7,4,0,2001,7,8,1,Canada,1,1,-79.347015,43.65107,eastern,11
+250,2001-07-12,MON,TBA,False,0,10,MON02,Stade Olympique,Montreal,QUE,48,11,2,0,1,21,5,7,1,34,5,1,0,0,17,8,3,0,2001,7,12,1,Canada,-1,0,-79.347015,43.65107,eastern,11
+251,2001-07-13,MON,TBA,False,6,2,MON02,Stade Olympique,Montreal,QUE,33,3,0,0,1,18,9,2,0,36,4,1,1,3,20,4,3,0,2001,7,13,1,Canada,1,1,-79.347015,43.65107,eastern,11
+252,2001-07-14,MON,TBA,True,10,2,MON02,Stade Olympique,Montreal,QUE,40,10,1,0,0,18,9,2,0,38,4,3,0,2,16,6,7,0,2001,7,14,1,Canada,1,1,-79.347015,43.65107,eastern,11
+253,2001-07-15,MON,BOS,True,5,8,MON02,Stade Olympique,Montreal,QUE,44,10,2,0,2,19,6,4,1,39,5,1,0,2,14,12,4,1,2001,7,15,1,Canada,-1,0,-79.347015,43.65107,eastern,11
+254,2001-07-16,MON,BOS,False,5,6,MON02,Stade Olympique,Montreal,QUE,44,9,3,0,1,19,5,7,0,43,7,1,0,1,21,5,7,1,2001,7,16,1,Canada,-1,0,-79.347015,43.65107,eastern,11
+255,2001-07-17,MON,BOS,False,11,7,MON02,Stade Olympique,Montreal,QUE,45,10,3,0,3,18,8,3,0,43,7,4,0,2,18,5,6,1,2001,7,17,1,Canada,1,1,-79.347015,43.65107,eastern,11
+256,2001-07-18,MON,PHI,False,7,6,MON02,Stade Olympique,Montreal,QUE,37,5,1,0,2,17,10,2,0,39,7,2,0,3,19,4,4,0,2001,7,18,1,Canada,1,1,-79.347015,43.65107,eastern,11
+257,2001-07-19,MON,PHI,True,5,2,MON02,Stade Olympique,Montreal,QUE,38,4,3,0,0,17,10,4,0,35,5,4,0,0,18,5,2,1,2001,7,19,1,Canada,1,1,-79.347015,43.65107,eastern,11
+258,2001-07-20,ATL,MON,False,3,6,ATL02,Turner Field,Atlanta,GA,44,10,1,1,0,16,8,7,1,35,4,3,0,1,23,4,0,0,2001,7,20,0,United States,-1,0,-83.643074,33.040619,eastern,11
+259,2001-07-21,ATL,MON,False,2,1,ATL02,Turner Field,Atlanta,GA,36,4,2,0,0,20,7,2,1,35,7,0,0,2,22,4,0,0,2001,7,21,0,United States,1,1,-83.643074,33.040619,eastern,11
+260,2001-07-22,ATL,MON,True,8,2,ATL02,Turner Field,Atlanta,GA,35,7,1,0,1,18,8,0,0,37,11,2,0,1,14,7,2,0,2001,7,22,0,United States,1,1,-83.643074,33.040619,eastern,11
+261,2001-07-23,PHI,MON,False,0,3,PHI12,Veterans Stadium,Philadelphia,PA,37,7,1,1,0,25,2,1,0,32,7,0,0,0,15,10,0,0,2001,7,23,0,United States,-1,0,-77.209755,40.590752,eastern,11
+262,2001-07-24,PHI,MON,False,10,2,PHI12,Veterans Stadium,Philadelphia,PA,35,4,1,0,2,24,3,1,0,40,10,1,0,3,14,8,4,0,2001,7,24,0,United States,1,1,-77.209755,40.590752,eastern,11
+263,2001-07-25,PHI,MON,True,8,4,PHI12,Veterans Stadium,Philadelphia,PA,37,4,2,0,2,16,11,2,0,41,9,4,0,0,15,9,3,1,2001,7,25,0,United States,1,1,-77.209755,40.590752,eastern,11
+264,2001-07-26,MON,ATL,False,3,2,MON02,Stade Olympique,Montreal,QUE,37,3,1,0,2,21,8,2,0,45,5,4,0,1,19,8,8,0,2001,7,26,1,Canada,1,1,-79.347015,43.65107,eastern,11
+265,2001-07-27,MON,ATL,False,3,7,MON02,Stade Olympique,Montreal,QUE,41,7,2,0,2,20,8,2,0,34,4,3,0,0,25,2,0,0,2001,7,27,1,Canada,-1,0,-79.347015,43.65107,eastern,11
+266,2001-07-28,MON,ATL,False,5,10,MON02,Stade Olympique,Montreal,QUE,42,8,2,0,3,23,4,2,0,37,5,2,0,0,21,3,5,1,2001,7,28,1,Canada,-1,0,-79.347015,43.65107,eastern,11
+267,2001-07-29,MON,ATL,True,1,8,MON02,Stade Olympique,Montreal,QUE,42,2,2,0,1,23,7,7,0,32,3,1,1,0,15,12,0,0,2001,7,29,1,Canada,-1,0,-79.347015,43.65107,eastern,11
+268,2001-07-31,ARI,MON,False,3,1,PHO01,Chase Field,Phoenix,AZ,34,6,2,0,0,16,8,2,0,32,3,3,0,1,17,5,3,0,2001,7,31,0,United States,1,1,-111.431221,33.729759,mountain,13
+269,2001-08-01,ARI,MON,False,5,8,PHO01,Chase Field,Phoenix,AZ,40,8,1,0,2,20,6,2,1,42,8,1,0,2,20,7,3,1,2001,8,1,0,United States,-1,0,-111.431221,33.729759,mountain,13
+270,2001-08-02,ARI,MON,True,0,1,PHO01,Chase Field,Phoenix,AZ,32,4,0,0,1,20,6,1,0,32,1,1,1,0,19,8,2,0,2001,8,2,0,United States,-1,0,-111.431221,33.729759,mountain,13
+271,2001-08-03,HOU,MON,False,6,2,HOU03,Minute Maid Park,Houston,TX,35,5,1,0,1,23,5,0,0,35,9,1,2,1,14,7,1,0,2001,8,3,0,United States,1,1,-97.563461,31.054487,central,14
+272,2001-08-04,HOU,MON,False,4,1,HOU03,Minute Maid Park,Houston,TX,30,2,1,0,0,19,7,0,1,30,2,4,0,0,19,4,0,1,2001,8,4,0,United States,1,1,-97.563461,31.054487,central,14
+273,2001-08-05,HOU,MON,True,4,1,HOU03,Minute Maid Park,Houston,TX,33,6,0,0,1,19,6,1,0,37,8,2,0,2,16,4,3,2,2001,8,5,0,United States,1,1,-97.563461,31.054487,central,14
+274,2001-08-07,MON,SLN,False,1,3,MON02,Stade Olympique,Montreal,QUE,34,2,2,0,2,17,10,1,0,31,2,2,0,0,21,5,1,0,2001,8,7,1,Canada,-1,0,-79.347015,43.65107,eastern,15
+275,2001-08-08,MON,SLN,False,6,5,MON02,Stade Olympique,Montreal,QUE,48,8,3,0,0,23,11,3,0,43,2,5,0,3,22,6,5,0,2001,8,8,1,Canada,1,1,-79.347015,43.65107,eastern,15
+276,2001-08-09,MON,SLN,False,6,9,MON02,Stade Olympique,Montreal,QUE,43,8,4,0,1,22,6,2,0,42,6,5,0,1,16,10,4,0,2001,8,9,1,Canada,-1,0,-79.347015,43.65107,eastern,15
+277,2001-08-10,MON,MIL,False,1,5,MON02,Stade Olympique,Montreal,QUE,39,6,2,0,3,18,6,3,1,39,4,6,0,0,10,15,4,0,2001,8,10,1,Canada,-1,0,-79.347015,43.65107,eastern,15
+278,2001-08-11,MON,MIL,False,0,6,MON02,Stade Olympique,Montreal,QUE,39,6,3,0,1,16,8,5,0,32,2,1,0,0,19,8,2,0,2001,8,11,1,Canada,-1,0,-79.347015,43.65107,eastern,15
+279,2001-08-12,MON,MIL,True,5,0,MON02,Stade Olympique,Montreal,QUE,33,3,3,0,0,12,14,1,0,34,8,1,0,0,15,7,2,1,2001,8,12,1,Canada,1,1,-79.347015,43.65107,eastern,15
+280,2001-08-14,LAN,MON,False,1,4,LOS03,Dodger Stadium,Los Angeles,CA,36,3,3,1,0,21,4,4,0,40,4,0,0,1,18,6,10,1,2001,8,14,0,United States,-1,0,-119.681564,36.116203,pacific,18
+281,2001-08-15,LAN,MON,False,13,1,LOS03,Dodger Stadium,Los Angeles,CA,35,6,0,0,1,25,1,2,0,49,16,0,0,4,21,3,5,0,2001,8,15,0,United States,1,1,-119.681564,36.116203,pacific,18
+282,2001-08-16,LAN,MON,True,3,7,LOS03,Dodger Stadium,Los Angeles,CA,38,7,3,0,0,19,7,2,0,36,5,3,0,1,19,5,3,0,2001,8,16,0,United States,-1,0,-119.681564,36.116203,pacific,18
+283,2001-08-17,SDN,MON,False,0,4,SAN01,Qualcomm Stadium,San Diego,CA,41,8,0,1,0,19,7,5,1,34,2,2,0,0,20,7,3,0,2001,8,17,0,United States,-1,0,-119.681564,36.116203,pacific,18
+284,2001-08-18,SDN,MON,False,4,3,SAN01,Qualcomm Stadium,San Diego,CA,35,5,2,0,1,23,4,0,0,32,6,0,0,2,14,8,2,0,2001,8,18,0,United States,1,1,-119.681564,36.116203,pacific,18
+285,2001-08-19,SDN,MON,True,1,2,SAN01,Qualcomm Stadium,San Diego,CA,34,5,1,0,0,22,3,3,0,31,3,0,0,0,15,11,2,0,2001,8,19,0,United States,-1,0,-119.681564,36.116203,pacific,18
+286,2001-08-21,MON,SFN,False,2,10,MON02,Stade Olympique,Montreal,QUE,44,8,3,0,2,23,3,5,0,36,3,1,0,0,23,3,6,0,2001,8,21,1,Canada,-1,0,-79.347015,43.65107,eastern,21
+287,2001-08-22,MON,SFN,False,7,1,MON02,Stade Olympique,Montreal,QUE,32,4,1,0,0,19,5,3,0,36,6,2,0,1,20,3,3,1,2001,8,22,1,Canada,1,1,-79.347015,43.65107,eastern,21
+288,2001-08-23,MON,SFN,False,5,10,MON02,Stade Olympique,Montreal,QUE,44,8,3,0,5,21,6,1,0,36,5,3,0,0,20,5,3,0,2001,8,23,1,Canada,-1,0,-79.347015,43.65107,eastern,21
+289,2001-08-24,MON,CIN,False,6,4,MON02,Stade Olympique,Montreal,QUE,38,7,1,0,2,14,13,1,0,36,6,1,0,1,14,8,5,1,2001,8,24,1,Canada,1,1,-79.347015,43.65107,eastern,21
+290,2001-08-25,MON,CIN,False,2,4,MON02,Stade Olympique,Montreal,QUE,41,8,1,1,1,21,6,3,0,35,5,1,0,1,22,5,0,1,2001,8,25,1,Canada,-1,0,-79.347015,43.65107,eastern,21
+291,2001-08-26,MON,CIN,True,4,17,MON02,Stade Olympique,Montreal,QUE,50,7,8,1,4,16,12,2,0,37,5,2,0,1,22,5,2,0,2001,8,26,1,Canada,-1,0,-79.347015,43.65107,eastern,21
+292,2001-08-28,ATL,MON,False,0,7,ATL02,Turner Field,Atlanta,GA,36,4,2,0,3,20,6,1,0,30,5,0,0,0,18,7,0,0,2001,8,28,0,United States,-1,0,-83.643074,33.040619,eastern,21
+293,2001-08-29,ATL,MON,False,5,3,ATL02,Turner Field,Atlanta,GA,35,7,0,1,0,18,8,1,0,34,4,2,0,1,20,5,2,0,2001,8,29,0,United States,1,1,-83.643074,33.040619,eastern,21
+294,2001-08-30,ATL,MON,False,2,4,ATL02,Turner Field,Atlanta,GA,36,6,2,0,0,22,2,3,1,34,5,0,0,2,15,10,2,0,2001,8,30,0,United States,-1,0,-83.643074,33.040619,eastern,21
+295,2001-08-31,PHI,MON,False,1,5,PHI12,Veterans Stadium,Philadelphia,PA,41,9,4,0,1,19,4,3,1,31,2,1,0,0,16,10,2,0,2001,8,31,0,United States,-1,0,-77.209755,40.590752,eastern,21
+296,2001-09-01,PHI,MON,False,4,1,PHI12,Veterans Stadium,Philadelphia,PA,34,2,1,0,1,14,12,4,0,38,5,2,1,2,14,9,4,1,2001,9,1,0,United States,1,1,-77.209755,40.590752,eastern,21
+297,2001-09-02,PHI,MON,True,2,6,PHI12,Veterans Stadium,Philadelphia,PA,44,7,4,1,0,24,3,4,1,35,3,1,0,1,18,10,2,0,2001,9,2,0,United States,-1,0,-77.209755,40.590752,eastern,21
+298,2001-09-03,MON,ATL,True,0,5,MON02,Stade Olympique,Montreal,QUE,37,8,1,0,1,19,5,3,0,36,5,2,0,0,22,5,2,0,2001,9,3,1,Canada,-1,0,-79.347015,43.65107,eastern,21
+299,2001-09-04,MON,ATL,False,2,3,MON02,Stade Olympique,Montreal,QUE,37,5,0,1,1,20,6,3,1,38,2,3,0,1,19,8,5,0,2001,9,4,1,Canada,-1,0,-79.347015,43.65107,eastern,21
+300,2001-09-05,MON,ATL,False,10,4,MON02,Stade Olympique,Montreal,QUE,37,6,2,0,1,22,5,1,0,43,13,2,0,1,16,8,3,0,2001,9,5,1,Canada,1,1,-79.347015,43.65107,eastern,21
+301,2001-09-06,MON,PHI,False,0,3,MON02,Stade Olympique,Montreal,QUE,33,2,1,0,1,21,5,3,0,31,4,0,0,0,18,5,3,1,2001,9,6,1,Canada,-1,0,-79.347015,43.65107,eastern,21
+302,2001-09-07,MON,PHI,False,4,2,MON02,Stade Olympique,Montreal,QUE,34,3,0,0,1,18,10,2,0,36,2,3,0,1,18,6,6,0,2001,9,7,1,Canada,1,1,-79.347015,43.65107,eastern,21
+303,2001-09-08,MON,PHI,False,0,6,MON02,Stade Olympique,Montreal,QUE,43,14,3,0,1,17,6,1,1,33,3,3,0,0,20,5,2,0,2001,9,8,1,Canada,-1,0,-79.347015,43.65107,eastern,21
+304,2001-09-09,MON,PHI,True,4,12,MON02,Stade Olympique,Montreal,QUE,51,5,5,0,0,25,3,11,2,33,4,0,2,1,19,6,1,0,2001,9,9,1,Canada,-1,0,-79.347015,43.65107,eastern,21
+305,2001-09-17,MON,FLO,False,6,10,MON02,Stade Olympique,Montreal,QUE,47,12,5,1,0,21,6,2,0,37,7,1,1,0,20,6,1,1,2001,9,17,1,Canada,-1,0,-79.347015,43.65107,eastern,21
+306,2001-09-18,MON,FLO,False,1,3,MON02,Stade Olympique,Montreal,QUE,34,3,1,0,3,16,9,1,1,36,9,1,0,0,19,7,0,0,2001,9,18,1,Canada,-1,0,-79.347015,43.65107,eastern,21
+307,2001-09-19,MON,FLO,False,5,2,MON02,Stade Olympique,Montreal,QUE,35,6,0,0,1,14,11,3,0,36,1,5,0,1,16,8,4,1,2001,9,19,1,Canada,1,1,-79.347015,43.65107,eastern,21
+308,2001-09-20,MON,COL,False,8,3,MON02,Stade Olympique,Montreal,QUE,34,4,3,0,1,17,8,1,0,43,7,4,0,0,21,4,7,0,2001,9,20,1,Canada,1,1,-79.347015,43.65107,eastern,21
+309,2001-09-21,MON,COL,False,9,11,MON02,Stade Olympique,Montreal,QUE,52,8,4,1,1,24,7,6,1,50,7,5,0,1,22,11,3,1,2001,9,21,1,Canada,-1,0,-79.347015,43.65107,eastern,21
+310,2001-09-22,MON,COL,False,3,1,MON02,Stade Olympique,Montreal,QUE,34,5,0,0,1,19,8,1,0,28,1,1,0,1,21,2,2,0,2001,9,22,1,Canada,1,1,-79.347015,43.65107,eastern,21
+311,2001-09-23,MON,COL,True,3,5,MON02,Stade Olympique,Montreal,QUE,43,8,1,0,2,21,8,3,0,36,6,2,0,0,21,5,2,0,2001,9,23,1,Canada,-1,0,-79.347015,43.65107,eastern,21
+312,2001-09-25,MON,NYN,False,0,2,MON02,Stade Olympique,Montreal,QUE,34,3,1,0,1,17,9,2,1,31,3,1,0,0,23,3,1,0,2001,9,25,1,Canada,-1,0,-79.347015,43.65107,eastern,21
+313,2001-09-26,MON,NYN,False,2,5,MON02,Stade Olympique,Montreal,QUE,39,6,1,0,0,16,10,6,0,35,6,3,0,0,18,7,1,0,2001,9,26,1,Canada,-1,0,-79.347015,43.65107,eastern,21
+314,2001-09-27,MON,NYN,False,6,12,MON02,Stade Olympique,Montreal,QUE,49,8,10,0,1,18,8,3,1,38,6,2,0,2,19,6,3,0,2001,9,27,1,Canada,-1,0,-79.347015,43.65107,eastern,21
+315,2001-09-28,CIN,MON,False,6,7,CIN08,Cinergy Field,Cincinnati,OH,42,8,2,0,2,19,6,5,0,44,9,2,0,3,17,8,5,0,2001,9,28,0,United States,-1,0,-82.764915,40.388783,eastern,21
+316,2001-09-29,CIN,MON,True,7,4,CIN08,Cinergy Field,Cincinnati,OH,40,10,1,0,0,19,6,4,0,38,12,2,0,1,16,6,1,0,2001,9,29,0,United States,1,1,-82.764915,40.388783,eastern,21
+317,2001-09-30,CIN,MON,True,5,4,CIN08,Cinergy Field,Cincinnati,OH,40,11,2,0,0,18,5,4,0,35,6,1,0,2,10,13,3,0,2001,9,30,0,United States,1,1,-82.764915,40.388783,eastern,21
+318,2001-10-02,FLO,MON,False,4,3,MIA01,Sun Life Stadium,Miami,FL,37,4,2,0,0,17,10,4,0,37,6,0,0,1,16,8,5,1,2001,10,2,0,United States,1,1,-81.686783,27.766279,eastern,21
+319,2001-10-03,FLO,MON,False,0,2,MIA01,Sun Life Stadium,Miami,FL,37,2,7,0,0,19,7,2,0,37,3,1,0,0,19,7,7,0,2001,10,3,0,United States,-1,0,-81.686783,27.766279,eastern,21
+320,2001-10-04,FLO,MON,True,6,2,MIA01,Sun Life Stadium,Miami,FL,34,4,0,0,2,22,3,3,0,38,7,3,2,0,20,4,1,1,2001,10,4,0,United States,1,1,-81.686783,27.766279,eastern,21
+321,2001-10-05,NYN,MON,False,6,8,NYC17,Shea Stadium,New York,NY,41,6,4,1,0,20,6,4,0,39,8,1,0,2,22,3,1,2,2001,10,5,0,United States,-1,0,-74.948051,42.165726,eastern,21
+322,2001-10-06,NYN,MON,False,4,0,NYC17,Shea Stadium,New York,NY,33,5,0,1,0,13,12,2,0,38,10,1,0,0,18,6,2,1,2001,10,6,0,United States,1,1,-74.948051,42.165726,eastern,21
+323,2001-10-07,NYN,MON,True,0,5,NYC17,Shea Stadium,New York,NY,35,4,1,1,1,18,10,0,0,33,2,1,0,0,17,11,2,0,2001,10,7,0,United States,-1,0,-74.948051,42.165726,eastern,21
+324,2002-04-02,MON,FLO,False,7,6,MON02,Stade Olympique,Montreal,QUE,40,5,1,0,2,20,8,3,1,40,5,5,0,1,15,9,4,1,2002,4,2,1,Canada,1,1,-79.347015,43.65107,eastern,3
+325,2002-04-03,MON,FLO,False,5,6,MON02,Stade Olympique,Montreal,QUE,40,7,1,0,2,17,9,4,0,41,7,0,0,2,16,10,6,0,2002,4,3,1,Canada,-1,0,-79.347015,43.65107,eastern,3
+326,2002-04-04,MON,FLO,False,0,1,MON02,Stade Olympique,Montreal,QUE,40,6,2,0,1,18,8,5,0,30,4,0,0,0,20,3,3,0,2002,4,4,1,Canada,-1,0,-79.347015,43.65107,eastern,3
+327,2002-04-05,CIN,MON,False,7,8,CIN08,Cinergy Field,Cincinnati,OH,42,6,6,0,0,16,10,4,0,46,11,1,0,1,20,9,4,0,2002,4,5,0,United States,-1,0,-82.764915,40.388783,eastern,3
+328,2002-04-06,CIN,MON,True,2,5,CIN08,Cinergy Field,Cincinnati,OH,42,6,1,0,0,22,5,7,1,32,2,2,0,1,21,4,2,0,2002,4,6,0,United States,-1,0,-82.764915,40.388783,eastern,3
+329,2002-04-07,CIN,MON,True,6,5,CIN08,Cinergy Field,Cincinnati,OH,46,9,2,0,0,23,7,5,0,49,12,2,0,1,25,5,4,0,2002,4,7,0,United States,1,1,-82.764915,40.388783,eastern,3
+330,2002-04-08,FLO,MON,False,2,10,MIA01,Sun Life Stadium,Miami,FL,45,9,2,2,2,13,13,4,0,33,2,0,1,1,18,8,3,0,2002,4,8,0,United States,-1,0,-81.686783,27.766279,eastern,3
+331,2002-04-10,FLO,MON,False,7,9,MIA01,Sun Life Stadium,Miami,FL,44,7,3,0,2,21,5,6,0,43,9,4,0,2,18,8,2,0,2002,4,10,0,United States,-1,0,-81.686783,27.766279,eastern,3
+332,2002-04-11,FLO,MON,False,7,5,MIA01,Sun Life Stadium,Miami,FL,40,4,4,0,0,19,7,5,1,38,7,2,2,0,17,6,4,0,2002,4,11,0,United States,1,1,-81.686783,27.766279,eastern,3
+333,2002-04-12,NYN,MON,False,2,1,NYC17,Shea Stadium,New York,NY,34,4,0,0,0,19,8,3,0,35,4,3,0,1,17,8,2,0,2002,4,12,0,United States,1,1,-74.948051,42.165726,eastern,3
+334,2002-04-13,NYN,MON,True,8,9,NYC17,Shea Stadium,New York,NY,54,9,2,0,1,23,11,8,0,45,6,1,0,2,25,8,3,0,2002,4,13,0,United States,-1,0,-74.948051,42.165726,eastern,3
+335,2002-04-14,NYN,MON,True,6,4,NYC17,Shea Stadium,New York,NY,38,3,3,0,0,21,6,4,1,34,3,1,0,2,17,5,5,1,2002,4,14,0,United States,1,1,-74.948051,42.165726,eastern,3
+336,2002-04-15,MON,CHN,False,4,6,MON02,Stade Olympique,Montreal,QUE,44,8,1,1,2,18,8,6,0,41,6,3,0,0,21,5,5,1,2002,4,15,1,Canada,-1,0,-79.347015,43.65107,eastern,3
+337,2002-04-16,MON,CHN,False,8,4,MON02,Stade Olympique,Montreal,QUE,39,8,3,1,0,21,4,2,0,41,5,1,0,2,16,8,7,2,2002,4,16,1,Canada,1,1,-79.347015,43.65107,eastern,3
+338,2002-04-17,MON,CHN,False,15,8,MON02,Stade Olympique,Montreal,QUE,42,6,3,1,2,19,8,3,0,48,15,1,2,1,21,4,4,0,2002,4,17,1,Canada,1,1,-79.347015,43.65107,eastern,3
+339,2002-04-18,MON,NYN,False,0,1,MON02,Stade Olympique,Montreal,QUE,34,4,3,0,0,20,7,0,0,31,0,2,0,0,19,8,2,0,2002,4,18,1,Canada,-1,0,-79.347015,43.65107,eastern,3
+340,2002-04-19,MON,NYN,False,5,3,MON02,Stade Olympique,Montreal,QUE,38,5,4,0,0,23,4,1,1,37,8,1,0,1,18,6,3,0,2002,4,19,1,Canada,1,1,-79.347015,43.65107,eastern,3
+341,2002-04-20,MON,NYN,True,7,5,MON02,Stade Olympique,Montreal,QUE,38,6,4,0,0,20,6,2,0,39,6,4,1,1,18,5,4,0,2002,4,20,1,Canada,1,1,-79.347015,43.65107,eastern,3
+342,2002-04-21,MON,NYN,True,6,3,MON02,Stade Olympique,Montreal,QUE,40,7,3,0,0,19,8,2,1,40,5,6,0,1,18,5,5,0,2002,4,21,1,Canada,1,1,-79.347015,43.65107,eastern,3
+343,2002-04-23,MON,MIL,False,5,4,MON02,Stade Olympique,Montreal,QUE,35,7,0,1,0,18,7,2,0,41,6,2,0,0,18,5,9,1,2002,4,23,1,Canada,1,1,-79.347015,43.65107,eastern,3
+344,2002-04-24,MON,MIL,False,5,4,MON02,Stade Olympique,Montreal,QUE,56,8,2,1,1,38,3,3,0,65,8,3,0,2,34,9,9,0,2002,4,24,1,Canada,1,1,-79.347015,43.65107,eastern,3
+345,2002-04-25,MON,MIL,False,5,1,MON02,Stade Olympique,Montreal,QUE,38,2,2,0,0,14,12,6,2,40,6,1,0,3,21,4,5,0,2002,4,25,1,Canada,1,1,-79.347015,43.65107,eastern,3
+346,2002-04-26,MON,SLN,False,6,7,MON02,Stade Olympique,Montreal,QUE,54,13,3,0,1,26,6,5,0,49,6,2,1,2,21,12,4,1,2002,4,26,1,Canada,-1,0,-79.347015,43.65107,eastern,3
+347,2002-04-27,MON,SLN,True,0,5,MON02,Stade Olympique,Montreal,QUE,37,5,2,0,1,18,8,3,0,37,5,0,0,0,19,8,5,0,2002,4,27,1,Canada,-1,0,-79.347015,43.65107,eastern,3
+348,2002-04-28,MON,SLN,True,5,2,MON02,Stade Olympique,Montreal,QUE,34,7,3,0,0,17,7,0,0,34,5,1,1,3,15,7,2,0,2002,4,28,1,Canada,1,1,-79.347015,43.65107,eastern,3
+349,2002-04-30,HOU,MON,False,1,5,HOU03,Minute Maid Park,Houston,TX,36,6,1,1,0,23,3,2,0,33,3,2,0,0,19,9,0,0,2002,4,30,0,United States,-1,0,-97.563461,31.054487,central,4
+350,2002-05-01,HOU,MON,False,4,5,HOU03,Minute Maid Park,Houston,TX,38,7,0,0,2,19,8,1,1,37,7,0,0,1,18,8,2,1,2002,5,1,0,United States,-1,0,-97.563461,31.054487,central,4
+351,2002-05-02,HOU,MON,True,8,2,HOU03,Minute Maid Park,Houston,TX,33,2,2,0,0,18,9,2,0,41,8,5,0,2,17,5,3,1,2002,5,2,0,United States,1,1,-97.563461,31.054487,central,4
+352,2002-05-03,ARI,MON,False,6,3,PHO01,Chase Field,Phoenix,AZ,36,1,2,0,2,10,17,4,0,38,8,1,0,4,12,8,5,0,2002,5,3,0,United States,1,1,-111.431221,33.729759,mountain,5
+353,2002-05-04,ARI,MON,False,6,5,PHO01,Chase Field,Phoenix,AZ,46,4,3,0,1,22,10,6,0,52,10,1,2,0,23,8,8,0,2002,5,4,0,United States,1,1,-111.431221,33.729759,mountain,5
+354,2002-05-05,ARI,MON,True,5,2,PHO01,Chase Field,Phoenix,AZ,36,4,2,0,0,17,11,1,1,35,8,1,0,1,16,7,2,0,2002,5,5,0,United States,1,1,-111.431221,33.729759,mountain,5
+355,2002-05-07,MON,COL,False,3,5,MON02,Stade Olympique,Montreal,QUE,37,7,1,0,1,18,7,3,0,41,8,2,0,1,21,7,2,0,2002,5,7,1,Canada,-1,0,-79.347015,43.65107,eastern,7
+356,2002-05-08,MON,COL,False,0,5,MON02,Stade Olympique,Montreal,QUE,35,4,0,0,3,22,5,1,0,31,5,1,0,0,20,4,1,0,2002,5,8,1,Canada,-1,0,-79.347015,43.65107,eastern,7
+357,2002-05-09,MON,COL,False,6,5,MON02,Stade Olympique,Montreal,QUE,52,10,5,0,0,23,10,3,1,47,5,1,0,2,28,6,3,2,2002,5,9,1,Canada,1,1,-79.347015,43.65107,eastern,7
+358,2002-05-10,MON,SFN,False,6,3,MON02,Stade Olympique,Montreal,QUE,35,4,3,0,1,21,5,1,0,35,8,2,0,1,16,6,2,0,2002,5,10,1,Canada,1,1,-79.347015,43.65107,eastern,7
+359,2002-05-11,MON,SFN,False,2,3,MON02,Stade Olympique,Montreal,QUE,35,5,2,0,0,22,5,1,0,36,7,2,0,0,17,5,4,1,2002,5,11,1,Canada,-1,0,-79.347015,43.65107,eastern,7
+360,2002-05-12,MON,SFN,True,4,2,MON02,Stade Olympique,Montreal,QUE,34,3,0,0,2,18,8,2,1,33,5,3,0,1,15,7,2,0,2002,5,12,1,Canada,1,1,-79.347015,43.65107,eastern,7
+361,2002-05-13,SDN,MON,False,7,3,SAN01,Qualcomm Stadium,San Diego,CA,36,7,0,0,2,14,12,1,0,40,11,0,0,1,15,8,5,0,2002,5,13,0,United States,1,1,-119.681564,36.116203,pacific,10
+362,2002-05-14,SDN,MON,False,5,4,SAN01,Qualcomm Stadium,San Diego,CA,35,6,1,0,1,18,6,3,0,43,9,3,0,1,20,4,5,1,2002,5,14,0,United States,1,1,-119.681564,36.116203,pacific,10
+363,2002-05-15,SDN,MON,False,2,1,SAN01,Qualcomm Stadium,San Diego,CA,53,4,4,0,0,27,11,7,0,57,10,0,0,0,29,12,6,0,2002,5,15,0,United States,1,1,-119.681564,36.116203,pacific,10
+364,2002-05-16,LAN,MON,False,4,3,LOS03,Dodger Stadium,Los Angeles,CA,34,6,0,0,1,17,10,0,0,37,8,3,0,1,18,4,2,1,2002,5,16,0,United States,1,1,-119.681564,36.116203,pacific,10
+365,2002-05-17,LAN,MON,False,8,5,LOS03,Dodger Stadium,Los Angeles,CA,42,9,2,0,0,22,3,6,0,39,5,3,0,2,19,6,4,0,2002,5,17,0,United States,1,1,-119.681564,36.116203,pacific,10
+366,2002-05-18,LAN,MON,False,1,3,LOS03,Dodger Stadium,Los Angeles,CA,37,6,2,0,2,24,3,0,0,32,6,1,0,0,18,6,1,0,2002,5,18,0,United States,-1,0,-119.681564,36.116203,pacific,10
+367,2002-05-19,LAN,MON,True,10,1,LOS03,Dodger Stadium,Los Angeles,CA,32,3,1,0,0,19,8,1,0,40,8,4,0,3,17,5,3,0,2002,5,19,0,United States,1,1,-119.681564,36.116203,pacific,10
+368,2002-05-21,MON,ATL,False,5,4,MON02,Stade Olympique,Montreal,QUE,46,9,3,0,0,22,8,3,1,44,13,2,0,0,20,6,3,0,2002,5,21,1,Canada,1,1,-79.347015,43.65107,eastern,13
+369,2002-05-22,MON,ATL,False,0,2,MON02,Stade Olympique,Montreal,QUE,34,5,0,1,0,21,6,1,0,31,4,0,0,0,24,2,1,0,2002,5,22,1,Canada,-1,0,-79.347015,43.65107,eastern,13
+370,2002-05-24,MON,PHI,False,4,1,MON02,Stade Olympique,Montreal,QUE,33,4,0,0,1,21,6,1,0,35,6,4,0,0,19,3,3,0,2002,5,24,1,Canada,1,1,-79.347015,43.65107,eastern,13
+371,2002-05-25,MON,PHI,False,13,9,MON02,Stade Olympique,Montreal,QUE,48,4,2,1,3,23,7,7,1,47,9,4,0,1,20,7,6,0,2002,5,25,1,Canada,1,1,-79.347015,43.65107,eastern,13
+372,2002-05-26,MON,PHI,True,6,5,MON02,Stade Olympique,Montreal,QUE,40,6,3,0,1,19,7,4,0,34,9,3,0,0,18,3,1,0,2002,5,26,1,Canada,1,1,-79.347015,43.65107,eastern,13
+373,2002-05-27,ATL,MON,True,5,1,ATL02,Turner Field,Atlanta,GA,31,3,1,0,1,18,8,0,0,32,5,1,1,0,19,5,1,0,2002,5,27,0,United States,1,1,-83.643074,33.040619,eastern,13
+374,2002-05-28,ATL,MON,False,5,2,ATL02,Turner Field,Atlanta,GA,35,6,0,0,1,20,5,3,0,40,11,0,0,0,15,9,5,0,2002,5,28,0,United States,1,1,-83.643074,33.040619,eastern,13
+375,2002-05-29,ATL,MON,False,3,4,ATL02,Turner Field,Atlanta,GA,38,7,1,0,1,19,8,2,0,41,5,2,0,1,19,8,6,0,2002,5,29,0,United States,-1,0,-83.643074,33.040619,eastern,13
+376,2002-05-30,ATL,MON,False,5,2,ATL02,Turner Field,Atlanta,GA,35,2,3,1,1,17,7,4,0,37,10,2,0,0,19,4,2,0,2002,5,30,0,United States,1,1,-83.643074,33.040619,eastern,13
+377,2002-05-31,PHI,MON,False,7,8,PHI12,Veterans Stadium,Philadelphia,PA,40,4,2,0,2,21,5,5,1,38,5,2,0,4,19,7,1,0,2002,5,31,0,United States,-1,0,-77.209755,40.590752,eastern,13
+378,2002-06-01,PHI,MON,False,8,4,PHI12,Veterans Stadium,Philadelphia,PA,41,7,2,0,1,23,3,3,2,39,4,2,0,4,13,8,6,2,2002,6,1,0,United States,1,1,-77.209755,40.590752,eastern,13
+379,2002-06-02,PHI,MON,True,18,3,PHI12,Veterans Stadium,Philadelphia,PA,38,6,2,0,0,14,11,5,0,50,9,4,0,3,14,10,10,0,2002,6,2,0,United States,1,1,-77.209755,40.590752,eastern,13
+380,2002-06-03,MON,PIT,False,7,5,MON02,Stade Olympique,Montreal,QUE,41,10,1,1,0,18,7,2,2,39,5,1,1,0,22,2,8,0,2002,6,3,1,Canada,1,1,-79.347015,43.65107,eastern,13
+381,2002-06-04,MON,PIT,False,2,5,MON02,Stade Olympique,Montreal,QUE,39,3,0,0,3,22,6,1,4,38,6,3,0,0,21,3,5,0,2002,6,4,1,Canada,-1,0,-79.347015,43.65107,eastern,13
+382,2002-06-05,MON,PIT,False,3,1,MON02,Stade Olympique,Montreal,QUE,30,2,1,0,0,17,10,0,0,37,8,0,0,1,21,3,2,2,2002,6,5,1,Canada,1,1,-79.347015,43.65107,eastern,13
+383,2002-06-07,CHA,MON,False,3,4,CHI12,Guaranteed Rate Field;U.S. Cellular Field,Chicago,IL,35,7,0,0,1,17,7,3,0,36,2,2,0,1,20,6,5,0,2002,6,7,0,United States,-1,0,-88.986137,40.349457,central,14
+384,2002-06-08,CHA,MON,False,1,2,CHI12,Guaranteed Rate Field;U.S. Cellular Field,Chicago,IL,34,2,2,0,1,22,4,2,1,32,3,0,1,0,19,7,2,0,2002,6,8,0,United States,-1,0,-88.986137,40.349457,central,14
+385,2002-06-09,CHA,MON,True,13,2,CHI12,Guaranteed Rate Field;U.S. Cellular Field,Chicago,IL,33,5,2,0,0,21,4,1,0,45,9,4,0,1,17,8,5,1,2002,6,9,0,United States,1,1,-88.986137,40.349457,central,14
+386,2002-06-10,DET,MON,False,6,4,DET05,Comerica Park,Detroit,MI,40,9,0,1,1,15,8,5,1,35,11,0,0,2,15,7,0,0,2002,6,10,0,United States,1,1,-84.536095,43.326618,eastern,15
+387,2002-06-11,DET,MON,False,2,1,DET05,Comerica Park,Detroit,MI,37,6,2,0,0,25,2,2,0,36,11,1,0,1,16,7,0,0,2002,6,11,0,United States,1,1,-84.536095,43.326618,eastern,15
+388,2002-06-12,DET,MON,False,1,2,DET05,Comerica Park,Detroit,MI,35,2,1,0,1,20,9,2,0,40,3,2,1,0,21,8,5,0,2002,6,12,0,United States,-1,0,-84.536095,43.326618,eastern,15
+389,2002-06-14,MON,TOR,False,8,2,MON02,Stade Olympique,Montreal,QUE,33,4,0,1,2,20,5,1,0,42,9,2,1,2,15,6,7,0,2002,6,14,1,Canada,1,1,-79.347015,43.65107,eastern,15
+390,2002-06-15,MON,TOR,False,9,3,MON02,Stade Olympique,Montreal,QUE,41,3,2,0,2,20,6,8,0,38,9,0,0,2,20,4,2,1,2002,6,15,1,Canada,1,1,-79.347015,43.65107,eastern,15
+391,2002-06-16,MON,TOR,True,6,5,MON02,Stade Olympique,Montreal,QUE,40,4,5,1,1,23,4,2,0,41,6,3,0,2,21,5,4,0,2002,6,16,1,Canada,1,1,-79.347015,43.65107,eastern,15
+392,2002-06-18,MON,KCA,False,5,4,MON02,Stade Olympique,Montreal,QUE,38,5,3,0,0,12,14,2,2,31,4,1,0,1,19,4,1,1,2002,6,18,1,Canada,1,1,-79.347015,43.65107,eastern,15
+393,2002-06-19,MON,KCA,False,6,3,MON02,Stade Olympique,Montreal,QUE,39,9,1,0,0,23,3,1,2,35,3,5,0,0,13,7,7,0,2002,6,19,1,Canada,1,1,-79.347015,43.65107,eastern,15
+394,2002-06-20,MON,KCA,False,5,4,MON02,Stade Olympique,Montreal,QUE,49,14,1,0,0,23,9,2,0,40,6,0,1,1,24,4,3,1,2002,6,20,1,Canada,1,1,-79.347015,43.65107,eastern,15
+395,2002-06-21,MON,CLE,False,3,1,MON02,Stade Olympique,Montreal,QUE,34,3,2,0,0,18,7,4,0,34,5,1,0,0,15,7,6,0,2002,6,21,1,Canada,1,1,-79.347015,43.65107,eastern,15
+396,2002-06-22,MON,CLE,False,4,5,MON02,Stade Olympique,Montreal,QUE,36,4,2,1,1,18,8,2,0,40,11,1,0,1,22,3,2,0,2002,6,22,1,Canada,-1,0,-79.347015,43.65107,eastern,15
+397,2002-06-23,MON,CLE,True,7,2,MON02,Stade Olympique,Montreal,QUE,37,3,3,0,1,16,10,4,0,39,7,3,1,0,18,7,3,0,2002,6,23,1,Canada,1,1,-79.347015,43.65107,eastern,15
+398,2002-06-25,PIT,MON,False,4,1,PIT08,PNC Park,Pittsburgh,PA,32,7,1,0,1,15,7,1,0,40,7,3,0,0,17,7,6,0,2002,6,25,0,United States,1,1,-77.209755,40.590752,eastern,15
+399,2002-06-26,PIT,MON,False,7,4,PIT08,PNC Park,Pittsburgh,PA,36,4,2,0,2,23,4,0,1,35,8,0,0,2,17,6,2,0,2002,6,26,0,United States,1,1,-77.209755,40.590752,eastern,15
+400,2002-06-27,PIT,MON,True,2,7,PIT08,PNC Park,Pittsburgh,PA,32,5,5,1,2,14,4,1,0,28,4,1,0,0,13,5,4,1,2002,6,27,0,United States,-1,0,-77.209755,40.590752,eastern,15
+401,2002-06-28,TOR,MON,False,1,2,TOR02,Rogers Centre,Toronto,ONT,32,3,1,0,1,22,4,1,0,33,2,0,1,0,18,9,3,0,2002,6,28,1,Canada,-1,0,-79.347015,43.65107,eastern,15
+402,2002-06-29,TOR,MON,True,5,4,TOR02,Rogers Centre,Toronto,ONT,42,5,2,0,3,18,12,1,1,38,5,1,0,1,21,6,4,0,2002,6,29,1,Canada,1,1,-79.347015,43.65107,eastern,15
+403,2002-06-30,TOR,MON,True,7,5,TOR02,Rogers Centre,Toronto,ONT,42,8,1,1,0,23,4,4,1,37,7,3,0,2,19,5,1,0,2002,6,30,1,Canada,1,1,-79.347015,43.65107,eastern,15
+404,2002-07-01,ATL,MON,False,7,5,ATL02,Turner Field,Atlanta,GA,43,9,1,0,3,23,2,5,0,37,7,0,0,2,22,2,3,1,2002,7,1,0,United States,1,1,-83.643074,33.040619,eastern,15
+405,2002-07-02,ATL,MON,False,2,5,ATL02,Turner Field,Atlanta,GA,36,6,0,0,2,21,4,3,0,36,5,0,1,0,20,8,2,0,2002,7,2,0,United States,-1,0,-83.643074,33.040619,eastern,15
+406,2002-07-03,ATL,MON,False,6,5,ATL02,Turner Field,Atlanta,GA,38,4,3,0,0,24,4,3,0,44,6,3,0,1,20,6,7,1,2002,7,3,0,United States,1,1,-83.643074,33.040619,eastern,15
+407,2002-07-04,PHI,MON,True,1,2,PHI12,Veterans Stadium,Philadelphia,PA,39,5,0,0,1,16,9,6,2,33,4,1,0,0,20,6,2,0,2002,7,4,0,United States,-1,0,-77.209755,40.590752,eastern,15
+408,2002-07-05,PHI,MON,False,3,8,PHI12,Veterans Stadium,Philadelphia,PA,41,4,2,0,2,19,8,5,1,37,3,1,1,0,18,10,4,0,2002,7,5,0,United States,-1,0,-77.209755,40.590752,eastern,15
+409,2002-07-06,PHI,MON,False,3,5,PHI12,Veterans Stadium,Philadelphia,PA,42,6,3,0,3,22,3,5,0,43,5,2,0,1,19,6,10,0,2002,7,6,0,United States,-1,0,-77.209755,40.590752,eastern,15
+410,2002-07-07,PHI,MON,True,10,8,PHI12,Veterans Stadium,Philadelphia,PA,44,7,1,2,1,16,9,8,0,43,2,4,0,2,18,6,10,1,2002,7,7,0,United States,1,1,-77.209755,40.590752,eastern,15
+411,2002-07-11,MON,ATL,True,5,8,MON02,Stade Olympique,Montreal,QUE,38,5,0,1,2,20,6,4,0,35,4,0,0,4,15,11,1,0,2002,7,11,1,Canada,-1,0,-79.347015,43.65107,eastern,15
+412,2002-07-12,MON,ATL,False,3,8,MON02,Stade Olympique,Montreal,QUE,42,6,4,1,1,18,8,4,0,34,1,1,1,1,19,8,3,0,2002,7,12,1,Canada,-1,0,-79.347015,43.65107,eastern,15
+413,2002-07-13,MON,ATL,False,6,3,MON02,Stade Olympique,Montreal,QUE,38,6,2,0,1,25,2,2,0,36,5,0,0,3,13,10,5,0,2002,7,13,1,Canada,1,1,-79.347015,43.65107,eastern,15
+414,2002-07-14,MON,ATL,True,10,3,MON02,Stade Olympique,Montreal,QUE,37,3,7,0,0,17,8,2,0,45,10,1,0,1,18,3,11,1,2002,7,14,1,Canada,1,1,-79.347015,43.65107,eastern,15
+415,2002-07-15,MON,PHI,False,8,11,MON02,Stade Olympique,Montreal,QUE,44,6,3,0,4,21,4,6,0,45,7,1,0,1,23,5,7,1,2002,7,15,1,Canada,-1,0,-79.347015,43.65107,eastern,15
+416,2002-07-16,MON,PHI,False,3,6,MON02,Stade Olympique,Montreal,QUE,40,5,2,0,1,16,10,6,0,37,5,4,0,0,16,9,3,0,2002,7,16,1,Canada,-1,0,-79.347015,43.65107,eastern,15
+417,2002-07-17,MON,NYN,False,6,9,MON02,Stade Olympique,Montreal,QUE,39,11,3,0,1,17,5,2,0,42,7,3,0,3,15,10,4,0,2002,7,17,1,Canada,-1,0,-79.347015,43.65107,eastern,15
+418,2002-07-18,MON,NYN,True,2,1,MON02,Stade Olympique,Montreal,QUE,41,11,2,0,0,22,4,2,0,34,3,3,0,2,21,3,2,0,2002,7,18,1,Canada,1,1,-79.347015,43.65107,eastern,15
+419,2002-07-19,FLO,MON,False,4,2,MIA01,Sun Life Stadium,Miami,FL,41,8,1,0,0,21,6,5,0,31,2,2,1,0,16,7,3,0,2002,7,19,0,United States,1,1,-81.686783,27.766279,eastern,15
+420,2002-07-20,FLO,MON,False,3,0,MIA01,Sun Life Stadium,Miami,FL,32,4,0,0,0,21,5,1,1,34,7,0,0,1,22,2,2,0,2002,7,20,0,United States,1,1,-81.686783,27.766279,eastern,15
+421,2002-07-21,FLO,MON,True,4,0,MIA01,Sun Life Stadium,Miami,FL,35,3,0,0,0,10,17,5,0,36,4,2,0,1,15,7,7,0,2002,7,21,0,United States,1,1,-81.686783,27.766279,eastern,15
+422,2002-07-22,NYN,MON,False,5,2,NYC17,Shea Stadium,New York,NY,36,4,0,0,1,16,10,5,0,35,6,3,1,2,15,6,2,0,2002,7,22,0,United States,1,1,-74.948051,42.165726,eastern,15
+423,2002-07-23,NYN,MON,False,4,3,NYC17,Shea Stadium,New York,NY,37,7,1,0,1,19,7,2,0,35,3,0,0,2,22,4,4,0,2002,7,23,0,United States,1,1,-74.948051,42.165726,eastern,15
+424,2002-07-24,NYN,MON,False,1,2,NYC17,Shea Stadium,New York,NY,36,7,0,0,1,18,8,2,0,38,5,2,0,0,18,8,5,0,2002,7,24,0,United States,-1,0,-74.948051,42.165726,eastern,15
+425,2002-07-25,MON,FLO,False,2,3,MON02,Stade Olympique,Montreal,QUE,35,9,2,0,0,19,4,1,0,37,4,0,0,1,17,10,5,0,2002,7,25,1,Canada,-1,0,-79.347015,43.65107,eastern,15
+426,2002-07-26,MON,FLO,False,6,5,MON02,Stade Olympique,Montreal,QUE,45,12,1,0,2,19,7,4,0,38,2,3,0,3,17,9,3,1,2002,7,26,1,Canada,1,1,-79.347015,43.65107,eastern,15
+427,2002-07-27,MON,FLO,False,2,7,MON02,Stade Olympique,Montreal,QUE,39,7,1,0,2,15,10,3,1,36,4,2,0,0,13,14,3,0,2002,7,27,1,Canada,-1,0,-79.347015,43.65107,eastern,15
+428,2002-07-28,MON,FLO,True,4,1,MON02,Stade Olympique,Montreal,QUE,30,0,1,1,0,18,9,1,0,33,3,1,0,2,17,5,4,1,2002,7,28,1,Canada,1,1,-79.347015,43.65107,eastern,15
+429,2002-07-30,MON,ARI,False,5,4,MON02,Stade Olympique,Montreal,QUE,43,6,2,1,0,24,6,3,1,39,5,1,0,3,18,9,2,1,2002,7,30,1,Canada,1,1,-79.347015,43.65107,eastern,15
+430,2002-07-31,MON,ARI,False,1,5,MON02,Stade Olympique,Montreal,QUE,36,4,2,0,1,22,5,2,0,38,7,0,1,0,12,15,3,0,2002,7,31,1,Canada,-1,0,-79.347015,43.65107,eastern,15
+431,2002-08-01,MON,ARI,False,2,1,MON02,Stade Olympique,Montreal,QUE,35,3,3,0,1,22,3,3,0,30,6,0,0,1,16,7,0,0,2002,8,1,1,Canada,1,1,-79.347015,43.65107,eastern,15
+432,2002-08-02,MON,HOU,False,3,1,MON02,Stade Olympique,Montreal,QUE,33,3,1,0,0,15,12,2,0,33,5,2,1,0,20,2,3,0,2002,8,2,1,Canada,1,1,-79.347015,43.65107,eastern,15
+433,2002-08-03,MON,HOU,False,3,5,MON02,Stade Olympique,Montreal,QUE,38,6,0,0,2,21,5,4,0,34,2,1,0,1,18,7,4,1,2002,8,3,1,Canada,-1,0,-79.347015,43.65107,eastern,15
+434,2002-08-04,MON,HOU,True,4,5,MON02,Stade Olympique,Montreal,QUE,41,6,5,0,0,18,8,4,0,36,7,4,0,1,16,8,0,0,2002,8,4,1,Canada,-1,0,-79.347015,43.65107,eastern,15
+435,2002-08-06,SLN,MON,False,1,10,STL09,Busch Stadium II,St. Louis,MO,42,8,5,0,0,20,5,4,0,33,7,0,0,0,22,4,0,0,2002,8,6,0,United States,-1,0,-92.288368,38.456085,central,16
+436,2002-08-07,SLN,MON,False,1,4,STL09,Busch Stadium II,St. Louis,MO,41,6,2,0,2,16,9,6,0,37,6,0,0,0,24,3,4,0,2002,8,7,0,United States,-1,0,-92.288368,38.456085,central,16
+437,2002-08-08,SLN,MON,False,5,3,STL09,Busch Stadium II,St. Louis,MO,34,5,2,0,0,17,10,0,0,34,7,1,0,2,17,4,3,0,2002,8,8,0,United States,1,1,-92.288368,38.456085,central,16
+438,2002-08-09,MIL,MON,False,4,11,MIL06,Miller Park,Milwaukee,WI,47,9,5,0,2,18,8,5,0,39,8,1,0,1,20,6,2,1,2002,8,9,0,United States,-1,0,-89.616508,44.268543,central,16
+439,2002-08-10,MIL,MON,False,5,2,MIL06,Miller Park,Milwaukee,WI,38,7,1,0,2,22,5,1,0,36,11,1,0,0,14,9,1,0,2002,8,10,0,United States,1,1,-89.616508,44.268543,central,16
+440,2002-08-11,MIL,MON,True,6,2,MIL06,Miller Park,Milwaukee,WI,36,4,2,0,1,20,8,1,0,32,7,0,0,3,17,4,1,0,2002,8,11,0,United States,1,1,-89.616508,44.268543,central,16
+441,2002-08-13,MON,LAN,False,4,3,MON02,Stade Olympique,Montreal,QUE,35,4,3,0,0,18,9,1,0,34,5,3,0,1,18,5,2,0,2002,8,13,1,Canada,1,1,-79.347015,43.65107,eastern,17
+442,2002-08-14,MON,LAN,False,2,5,MON02,Stade Olympique,Montreal,QUE,42,8,5,0,1,16,9,3,0,35,2,2,0,0,19,7,5,0,2002,8,14,1,Canada,-1,0,-79.347015,43.65107,eastern,17
+443,2002-08-15,MON,LAN,False,0,1,MON02,Stade Olympique,Montreal,QUE,32,5,2,0,0,19,6,0,0,37,5,2,0,0,22,4,4,0,2002,8,15,1,Canada,-1,0,-79.347015,43.65107,eastern,17
+444,2002-08-16,MON,SDN,False,11,6,MON02,Stade Olympique,Montreal,QUE,37,7,2,0,1,18,7,1,1,44,8,4,0,2,19,6,4,1,2002,8,16,1,Canada,1,1,-79.347015,43.65107,eastern,17
+445,2002-08-17,MON,SDN,False,5,6,MON02,Stade Olympique,Montreal,QUE,40,4,3,0,2,19,8,4,0,38,4,1,0,2,24,3,2,2,2002,8,17,1,Canada,-1,0,-79.347015,43.65107,eastern,17
+446,2002-08-18,MON,SDN,True,9,2,MON02,Stade Olympique,Montreal,QUE,38,9,2,0,0,24,3,0,0,39,4,3,0,4,13,11,3,1,2002,8,18,1,Canada,1,1,-79.347015,43.65107,eastern,17
+447,2002-08-19,MON,SDN,True,4,0,MON02,Stade Olympique,Montreal,QUE,29,2,0,0,0,19,6,2,0,32,3,2,0,1,16,7,3,0,2002,8,19,1,Canada,1,1,-79.347015,43.65107,eastern,17
+448,2002-08-20,COL,MON,False,8,6,DEN02,Coors Field,Denver,CO,42,8,1,1,0,24,4,3,1,35,8,2,0,2,17,6,0,0,2002,8,20,0,United States,1,1,-105.311104,39.059811,mountain,19
+449,2002-08-21,COL,MON,False,5,13,DEN02,Coors Field,Denver,CO,45,2,6,0,6,20,6,4,1,37,5,0,1,0,21,5,4,1,2002,8,21,0,United States,-1,0,-105.311104,39.059811,mountain,19
+450,2002-08-22,COL,MON,True,14,6,DEN02,Coors Field,Denver,CO,40,3,1,0,3,25,2,6,0,44,9,2,2,3,16,7,5,0,2002,8,22,0,United States,1,1,-105.311104,39.059811,mountain,19
+451,2002-08-23,SFN,MON,False,2,7,SFO03,Oracle Park,San Francisco,CA,38,2,3,2,1,21,4,5,0,36,2,3,0,1,25,2,3,0,2002,8,23,0,United States,-1,0,-119.681564,36.116203,pacific,20
+452,2002-08-24,SFN,MON,True,2,7,SFO03,Oracle Park,San Francisco,CA,41,9,2,0,0,19,8,3,0,37,5,0,1,0,23,4,3,1,2002,8,24,0,United States,-1,0,-119.681564,36.116203,pacific,20
+453,2002-08-25,SFN,MON,True,8,4,SFO03,Oracle Park,San Francisco,CA,38,5,1,1,1,19,8,3,0,42,7,4,1,0,25,2,2,1,2002,8,25,0,United States,1,1,-119.681564,36.116203,pacific,20
+454,2002-08-27,PHI,MON,False,4,2,PHI12,Veterans Stadium,Philadelphia,PA,37,5,1,0,2,16,9,4,0,37,9,1,0,1,18,6,2,0,2002,8,27,0,United States,1,1,-77.209755,40.590752,eastern,23
+455,2002-08-28,PHI,MON,False,3,6,PHI12,Veterans Stadium,Philadelphia,PA,42,6,2,1,1,14,12,6,0,37,3,1,0,1,15,13,4,0,2002,8,28,0,United States,-1,0,-77.209755,40.590752,eastern,23
+456,2002-08-29,PHI,MON,False,2,1,PHI12,Veterans Stadium,Philadelphia,PA,32,2,1,0,0,19,8,2,0,31,1,4,0,1,17,5,3,0,2002,8,29,0,United States,1,1,-77.209755,40.590752,eastern,23
+457,2002-08-30,MON,ATL,False,2,4,MON02,Stade Olympique,Montreal,QUE,44,4,3,0,0,19,9,8,1,33,3,1,0,0,23,2,4,0,2002,8,30,1,Canada,-1,0,-79.347015,43.65107,eastern,23
+458,2002-08-31,MON,ATL,False,3,5,MON02,Stade Olympique,Montreal,QUE,44,5,1,0,2,19,9,7,1,38,9,2,0,1,24,2,0,0,2002,8,31,1,Canada,-1,0,-79.347015,43.65107,eastern,23
+459,2002-09-01,MON,ATL,True,4,6,MON02,Stade Olympique,Montreal,QUE,44,8,4,0,0,18,7,7,0,40,6,1,0,0,22,5,6,0,2002,9,1,1,Canada,-1,0,-79.347015,43.65107,eastern,23
+460,2002-09-02,MON,PHI,True,5,1,MON02,Stade Olympique,Montreal,QUE,35,5,1,0,0,26,1,2,0,38,6,4,0,0,16,7,5,0,2002,9,2,1,Canada,1,1,-79.347015,43.65107,eastern,23
+461,2002-09-03,MON,PHI,False,7,6,MON02,Stade Olympique,Montreal,QUE,44,8,3,0,0,25,4,4,0,38,5,3,0,2,20,7,1,0,2002,9,3,1,Canada,1,1,-79.347015,43.65107,eastern,23
+462,2002-09-04,MON,PHI,False,8,5,MON02,Stade Olympique,Montreal,QUE,38,2,6,0,0,21,5,4,0,42,10,3,0,0,18,4,6,1,2002,9,4,1,Canada,1,1,-79.347015,43.65107,eastern,23
+463,2002-09-05,MON,PHI,True,1,4,MON02,Stade Olympique,Montreal,QUE,37,4,2,2,2,19,8,0,0,32,4,0,0,1,22,5,0,0,2002,9,5,1,Canada,-1,0,-79.347015,43.65107,eastern,23
+464,2002-09-06,ATL,MON,False,5,0,ATL02,Turner Field,Atlanta,GA,31,3,0,0,0,22,5,1,0,38,7,5,0,0,18,5,3,0,2002,9,6,0,United States,1,1,-83.643074,33.040619,eastern,23
+465,2002-09-07,ATL,MON,False,4,0,ATL02,Turner Field,Atlanta,GA,38,5,1,1,0,19,6,5,1,35,4,1,0,2,20,4,2,2,2002,9,7,0,United States,1,1,-83.643074,33.040619,eastern,23
+466,2002-09-08,ATL,MON,True,0,7,ATL02,Turner Field,Atlanta,GA,44,12,2,0,0,15,10,5,0,35,3,2,0,0,20,7,3,0,2002,9,8,0,United States,-1,0,-83.643074,33.040619,eastern,23
+467,2002-09-09,CHN,MON,False,3,2,CHI11,Wrigley Field,Chicago,IL,40,5,1,0,1,17,11,5,0,34,3,2,0,2,15,9,3,0,2002,9,9,0,United States,1,1,-88.986137,40.349457,central,24
+468,2002-09-10,CHN,MON,False,2,6,CHI11,Wrigley Field,Chicago,IL,41,7,0,1,1,20,8,4,0,38,1,4,0,1,15,12,5,0,2002,9,10,0,United States,-1,0,-88.986137,40.349457,central,24
+469,2002-09-11,CHN,MON,True,6,3,CHI11,Wrigley Field,Chicago,IL,33,8,1,0,0,17,6,1,0,33,3,1,1,2,14,10,2,0,2002,9,11,0,United States,1,1,-88.986137,40.349457,central,24
+470,2002-09-12,MON,NYN,False,2,8,MON02,Stade Olympique,Montreal,QUE,38,4,2,0,4,21,5,2,0,34,5,0,1,0,20,6,2,0,2002,9,12,1,Canada,-1,0,-79.347015,43.65107,eastern,25
+471,2002-09-13,MON,NYN,False,11,8,MON02,Stade Olympique,Montreal,QUE,45,11,3,0,2,23,4,2,0,41,9,5,0,2,20,5,0,0,2002,9,13,1,Canada,1,1,-79.347015,43.65107,eastern,25
+472,2002-09-14,MON,NYN,False,5,4,MON02,Stade Olympique,Montreal,QUE,39,5,1,0,3,19,6,5,0,38,5,2,0,0,22,1,8,0,2002,9,14,1,Canada,1,1,-79.347015,43.65107,eastern,25
+473,2002-09-15,MON,NYN,True,10,1,MON02,Stade Olympique,Montreal,QUE,33,6,0,0,1,16,10,0,0,36,3,1,1,3,16,9,3,0,2002,9,15,1,Canada,1,1,-79.347015,43.65107,eastern,25
+474,2002-09-17,FLO,MON,False,5,8,MIA01,Sun Life Stadium,Miami,FL,59,10,5,0,1,26,14,3,0,57,9,1,0,1,28,10,8,0,2002,9,17,0,United States,-1,0,-81.686783,27.766279,eastern,25
+475,2002-09-18,FLO,MON,False,2,4,MIA01,Sun Life Stadium,Miami,FL,44,8,0,0,0,24,8,4,0,42,9,1,0,0,22,9,1,0,2002,9,18,0,United States,-1,0,-81.686783,27.766279,eastern,25
+476,2002-09-19,FLO,MON,False,5,6,MIA01,Sun Life Stadium,Miami,FL,42,10,1,1,0,15,11,4,0,42,8,3,0,1,20,6,4,0,2002,9,19,0,United States,-1,0,-81.686783,27.766279,eastern,25
+477,2002-09-20,NYN,MON,False,1,6,NYC17,Shea Stadium,New York,NY,45,8,3,1,0,21,7,5,0,35,7,2,0,0,19,5,2,0,2002,9,20,0,United States,-1,0,-74.948051,42.165726,eastern,25
+478,2002-09-21,NYN,MON,False,6,3,NYC17,Shea Stadium,New York,NY,39,3,3,0,1,20,11,1,0,47,7,3,0,2,22,9,3,1,2002,9,21,0,United States,1,1,-74.948051,42.165726,eastern,25
+479,2002-09-22,NYN,MON,True,1,5,NYC17,Shea Stadium,New York,NY,41,7,2,0,1,23,5,3,0,37,6,1,0,0,23,3,4,0,2002,9,22,0,United States,-1,0,-74.948051,42.165726,eastern,25
+480,2002-09-24,MON,FLO,False,6,9,MON02,Stade Olympique,Montreal,QUE,42,5,1,1,4,19,6,5,1,47,8,5,0,1,17,9,7,0,2002,9,24,1,Canada,-1,0,-79.347015,43.65107,eastern,25
+481,2002-09-25,MON,FLO,False,2,10,MON02,Stade Olympique,Montreal,QUE,46,8,1,0,1,24,5,6,1,38,7,3,1,0,16,8,3,0,2002,9,25,1,Canada,-1,0,-79.347015,43.65107,eastern,25
+482,2002-09-26,MON,FLO,False,4,3,MON02,Stade Olympique,Montreal,QUE,36,4,2,0,1,17,9,3,0,38,8,4,0,0,18,5,3,0,2002,9,26,1,Canada,1,1,-79.347015,43.65107,eastern,25
+483,2002-09-27,MON,CIN,False,4,3,MON02,Stade Olympique,Montreal,QUE,39,6,0,0,2,20,11,0,0,44,6,2,0,2,21,9,3,1,2002,9,27,1,Canada,1,1,-79.347015,43.65107,eastern,25
+484,2002-09-28,MON,CIN,False,6,0,MON02,Stade Olympique,Montreal,QUE,33,3,3,0,0,18,6,2,1,35,4,2,1,1,19,5,3,0,2002,9,28,1,Canada,1,1,-79.347015,43.65107,eastern,25
+485,2002-09-29,MON,CIN,True,7,2,MON02,Stade Olympique,Montreal,QUE,33,4,1,0,0,14,13,1,0,38,2,3,2,0,16,9,6,0,2002,9,29,1,Canada,1,1,-79.347015,43.65107,eastern,25
+486,2003-03-31,ATL,MON,True,2,10,ATL02,Turner Field,Atlanta,GA,46,8,4,1,1,20,7,5,0,38,10,0,1,0,22,2,3,0,2003,3,31,0,United States,-1,0,-83.643074,33.040619,eastern,3
+487,2003-04-02,ATL,MON,False,0,3,ATL02,Turner Field,Atlanta,GA,38,7,1,0,1,18,8,3,0,34,2,1,0,0,23,5,3,0,2003,4,2,0,United States,-1,0,-83.643074,33.040619,eastern,3
+488,2003-04-03,ATL,MON,False,0,4,ATL02,Turner Field,Atlanta,GA,37,5,0,0,1,25,2,4,0,38,9,0,0,0,20,7,2,0,2003,4,3,0,United States,-1,0,-83.643074,33.040619,eastern,3
+489,2003-04-04,NYN,MON,False,4,0,NYC17,Shea Stadium,New York,NY,35,4,1,0,0,14,13,3,0,34,8,4,0,1,15,6,0,0,2003,4,4,0,United States,1,1,-74.948051,42.165726,eastern,3
+490,2003-04-05,NYN,MON,True,3,1,NYC17,Shea Stadium,New York,NY,32,5,1,0,0,18,8,0,0,36,4,4,0,0,21,3,4,0,2003,4,5,0,United States,1,1,-74.948051,42.165726,eastern,3
+491,2003-04-06,NYN,MON,True,5,8,NYC17,Shea Stadium,New York,NY,44,11,5,0,1,19,6,2,0,37,4,1,1,1,20,6,4,0,2003,4,6,0,United States,-1,0,-74.948051,42.165726,eastern,3
+492,2003-04-08,CHN,MON,True,6,1,CHI11,Wrigley Field,Chicago,IL,34,3,0,0,1,16,8,6,0,37,5,2,0,0,16,8,5,1,2003,4,8,0,United States,1,1,-88.986137,40.349457,central,4
+493,2003-04-09,CHN,MON,True,3,0,CHI11,Wrigley Field,Chicago,IL,31,3,1,0,0,15,12,0,0,29,3,3,0,1,7,15,0,0,2003,4,9,0,United States,1,1,-88.986137,40.349457,central,4
+494,2003-04-10,CHN,MON,True,1,7,CHI11,Wrigley Field,Chicago,IL,42,10,0,0,1,19,7,5,0,31,3,1,0,0,11,14,2,0,2003,4,10,0,United States,-1,0,-88.986137,40.349457,central,4
+495,2003-04-11,MON,NYN,False,10,0,SJU01,Estadio Hiram Bithorn,San Juan,PR,31,2,0,0,0,18,7,4,0,40,6,2,0,3,17,6,6,0,2003,4,11,0,United States,1,1,-71.51178,41.680893,eastern,5
+496,2003-04-12,MON,NYN,False,5,4,SJU01,Estadio Hiram Bithorn,San Juan,PR,44,9,1,0,0,17,11,5,1,35,6,4,0,1,18,6,0,0,2003,4,12,0,United States,1,1,-71.51178,41.680893,eastern,5
+497,2003-04-13,MON,NYN,True,2,1,SJU01,Estadio Hiram Bithorn,San Juan,PR,39,5,1,0,0,23,6,4,0,38,3,1,0,2,20,4,6,2,2003,4,13,0,United States,1,1,-71.51178,41.680893,eastern,5
+498,2003-04-14,MON,NYN,True,5,3,SJU01,Estadio Hiram Bithorn,San Juan,PR,34,4,2,0,1,17,9,1,0,36,3,2,0,1,22,3,3,2,2003,4,14,0,United States,1,1,-71.51178,41.680893,eastern,5
+499,2003-04-15,MON,ATL,False,1,2,SJU01,Estadio Hiram Bithorn,San Juan,PR,38,3,2,0,2,24,5,2,0,37,6,2,0,1,18,7,3,0,2003,4,15,0,United States,-1,0,-71.51178,41.680893,eastern,5
+500,2003-04-16,MON,ATL,False,2,3,SJU01,Estadio Hiram Bithorn,San Juan,PR,36,8,1,1,1,23,1,1,0,32,5,1,0,1,17,8,0,0,2003,4,16,0,United States,-1,0,-71.51178,41.680893,eastern,5
+501,2003-04-17,MON,ATL,True,8,14,SJU01,Estadio Hiram Bithorn,San Juan,PR,53,4,4,0,5,26,5,7,2,46,5,3,0,1,20,9,8,0,2003,4,17,0,United States,-1,0,-71.51178,41.680893,eastern,5
+502,2003-04-19,MON,CIN,True,8,7,SJU01,Estadio Hiram Bithorn,San Juan,PR,44,9,1,0,2,21,9,1,1,44,7,2,0,2,23,5,5,0,2003,4,19,0,United States,1,1,-71.51178,41.680893,eastern,5
+503,2003-04-19,MON,CIN,False,9,5,SJU01,Estadio Hiram Bithorn,San Juan,PR,36,4,1,1,2,12,15,1,0,37,6,3,0,2,22,1,3,0,2003,4,19,0,United States,1,1,-71.51178,41.680893,eastern,5
+504,2003-04-20,MON,CIN,True,5,7,SJU01,Estadio Hiram Bithorn,San Juan,PR,40,5,0,0,6,17,10,1,1,37,4,3,0,1,20,6,3,0,2003,4,20,0,United States,-1,0,-71.51178,41.680893,eastern,5
+505,2003-04-22,MON,ARI,False,4,0,MON02,Stade Olympique,Montreal,QUE,38,6,3,0,0,21,5,3,0,35,4,1,0,2,16,7,5,0,2003,4,22,1,Canada,1,1,-79.347015,43.65107,eastern,5
+506,2003-04-23,MON,ARI,False,2,6,MON02,Stade Olympique,Montreal,QUE,40,7,1,1,3,20,5,3,0,34,4,1,1,0,19,6,3,0,2003,4,23,1,Canada,-1,0,-79.347015,43.65107,eastern,5
+507,2003-04-24,MON,ARI,False,1,0,MON02,Stade Olympique,Montreal,QUE,33,4,2,0,0,16,10,1,0,30,2,0,0,1,19,5,2,1,2003,4,24,1,Canada,1,1,-79.347015,43.65107,eastern,5
+508,2003-04-25,MON,HOU,False,10,2,MON02,Stade Olympique,Montreal,QUE,39,5,1,0,0,24,4,5,0,44,10,3,0,1,17,7,6,0,2003,4,25,1,Canada,1,1,-79.347015,43.65107,eastern,5
+509,2003-04-26,MON,HOU,True,3,2,MON02,Stade Olympique,Montreal,QUE,42,5,2,0,1,19,11,4,0,34,3,1,0,1,20,6,2,1,2003,4,26,1,Canada,1,1,-79.347015,43.65107,eastern,5
+510,2003-04-27,MON,HOU,True,3,6,MON02,Stade Olympique,Montreal,QUE,39,4,3,0,3,20,4,4,1,40,4,2,0,1,16,10,7,0,2003,4,27,1,Canada,-1,0,-79.347015,43.65107,eastern,5
+511,2003-04-29,MIL,MON,False,2,3,MIL06,Miller Park,Milwaukee,WI,37,5,2,0,1,21,4,3,1,33,3,0,0,2,14,13,1,0,2003,4,29,0,United States,-1,0,-89.616508,44.268543,central,6
+512,2003-04-30,MIL,MON,False,5,9,MIL06,Miller Park,Milwaukee,WI,41,9,2,0,2,22,5,1,0,40,7,0,0,2,20,6,4,1,2003,4,30,0,United States,-1,0,-89.616508,44.268543,central,6
+513,2003-05-01,MIL,MON,True,0,5,MIL06,Miller Park,Milwaukee,WI,39,5,2,0,2,17,9,4,0,31,3,0,0,0,22,5,1,0,2003,5,1,0,United States,-1,0,-89.616508,44.268543,central,6
+514,2003-05-02,SLN,MON,False,8,1,STL09,Busch Stadium II,St. Louis,MO,34,5,1,0,0,23,1,4,0,38,7,3,0,3,18,6,0,1,2003,5,2,0,United States,1,1,-92.288368,38.456085,central,6
+515,2003-05-03,SLN,MON,True,3,1,STL09,Busch Stadium II,St. Louis,MO,40,8,1,0,0,22,5,4,0,31,3,2,0,1,17,6,0,2,2003,5,3,0,United States,1,1,-92.288368,38.456085,central,6
+516,2003-05-04,SLN,MON,True,6,2,STL09,Busch Stadium II,St. Louis,MO,34,4,2,0,0,19,6,3,0,36,2,3,0,1,19,6,5,0,2003,5,4,0,United States,1,1,-92.288368,38.456085,central,6
+517,2003-05-06,MON,SDN,False,4,2,MON02,Stade Olympique,Montreal,QUE,36,6,1,0,0,21,6,1,1,34,5,2,1,1,19,5,1,0,2003,5,6,1,Canada,1,1,-79.347015,43.65107,eastern,7
+518,2003-05-07,MON,SDN,False,12,9,MON02,Stade Olympique,Montreal,QUE,44,8,2,0,1,22,7,4,0,49,6,7,0,3,20,4,8,1,2003,5,7,1,Canada,1,1,-79.347015,43.65107,eastern,7
+519,2003-05-08,MON,SDN,False,12,5,MON02,Stade Olympique,Montreal,QUE,37,5,3,0,2,21,4,2,0,46,9,5,0,0,18,6,7,1,2003,5,8,1,Canada,1,1,-79.347015,43.65107,eastern,7
+520,2003-05-09,MON,LAN,False,5,9,MON02,Stade Olympique,Montreal,QUE,49,11,2,0,2,22,5,6,1,40,8,1,0,1,22,5,1,2,2003,5,9,1,Canada,-1,0,-79.347015,43.65107,eastern,7
+521,2003-05-10,MON,LAN,True,6,5,MON02,Stade Olympique,Montreal,QUE,39,11,1,0,1,18,6,2,0,36,9,1,0,0,14,10,1,1,2003,5,10,1,Canada,1,1,-79.347015,43.65107,eastern,7
+522,2003-05-11,MON,LAN,True,3,4,MON02,Stade Olympique,Montreal,QUE,37,3,3,0,1,20,6,4,0,34,2,3,0,0,17,9,2,1,2003,5,11,1,Canada,-1,0,-79.347015,43.65107,eastern,7
+523,2003-05-12,SFN,MON,False,3,4,SFO03,Oracle Park,San Francisco,CA,40,7,2,0,0,24,2,5,0,41,8,4,0,0,22,4,3,0,2003,5,12,0,United States,-1,0,-119.681564,36.116203,pacific,10
+524,2003-05-13,SFN,MON,False,4,6,SFO03,Oracle Park,San Francisco,CA,41,6,2,0,1,25,3,4,0,35,8,1,0,1,19,4,2,0,2003,5,13,0,United States,-1,0,-119.681564,36.116203,pacific,10
+525,2003-05-14,SFN,MON,True,3,6,SFO03,Oracle Park,San Francisco,CA,41,5,1,0,2,20,7,6,0,35,5,0,0,1,24,1,4,0,2003,5,14,0,United States,-1,0,-119.681564,36.116203,pacific,10
+526,2003-05-15,COL,MON,False,4,2,DEN02,Coors Field,Denver,CO,36,5,2,0,1,23,4,1,0,37,9,1,0,0,16,5,5,1,2003,5,15,0,United States,1,1,-105.311104,39.059811,mountain,11
+527,2003-05-16,COL,MON,False,1,4,DEN02,Coors Field,Denver,CO,39,9,0,0,1,21,4,4,0,38,5,1,0,0,21,5,5,1,2003,5,16,0,United States,-1,0,-105.311104,39.059811,mountain,11
+528,2003-05-17,COL,MON,True,4,6,DEN02,Coors Field,Denver,CO,46,9,1,1,0,22,5,7,1,42,8,0,0,1,23,4,6,0,2003,5,17,0,United States,-1,0,-105.311104,39.059811,mountain,11
+529,2003-05-18,COL,MON,True,4,0,DEN02,Coors Field,Denver,CO,38,6,0,0,0,19,8,2,3,38,8,1,0,1,18,5,5,0,2003,5,18,0,United States,1,1,-105.311104,39.059811,mountain,11
+530,2003-05-20,MON,FLO,False,6,4,MON02,Stade Olympique,Montreal,QUE,35,3,3,0,2,22,4,1,0,38,6,6,0,1,16,6,3,0,2003,5,20,1,Canada,1,1,-79.347015,43.65107,eastern,13
+531,2003-05-21,MON,FLO,False,7,2,MON02,Stade Olympique,Montreal,QUE,36,4,3,0,1,21,5,1,1,36,5,6,0,0,17,7,1,0,2003,5,21,1,Canada,1,1,-79.347015,43.65107,eastern,13
+532,2003-05-22,MON,FLO,False,8,2,MON02,Stade Olympique,Montreal,QUE,34,5,2,0,0,21,4,1,1,39,8,4,0,0,16,7,4,0,2003,5,22,1,Canada,1,1,-79.347015,43.65107,eastern,13
+533,2003-05-23,MON,PHI,False,2,4,MON02,Stade Olympique,Montreal,QUE,42,7,2,0,2,17,7,6,1,37,4,3,0,0,21,5,3,1,2003,5,23,1,Canada,-1,0,-79.347015,43.65107,eastern,13
+534,2003-05-24,MON,PHI,False,3,2,MON02,Stade Olympique,Montreal,QUE,32,2,0,0,2,18,10,0,0,32,2,4,0,1,18,5,1,1,2003,5,24,1,Canada,1,1,-79.347015,43.65107,eastern,13
+535,2003-05-25,MON,PHI,True,5,3,MON02,Stade Olympique,Montreal,QUE,36,5,2,0,1,18,9,1,0,32,4,0,0,2,18,6,2,0,2003,5,25,1,Canada,1,1,-79.347015,43.65107,eastern,13
+536,2003-05-26,FLO,MON,True,5,1,MIA01,Sun Life Stadium,Miami,FL,31,3,2,0,0,21,5,0,0,33,6,1,1,2,13,8,1,1,2003,5,26,0,United States,1,1,-81.686783,27.766279,eastern,13
+537,2003-05-28,FLO,MON,True,4,3,MIA01,Sun Life Stadium,Miami,FL,33,2,2,0,0,17,10,2,0,38,9,3,0,0,18,6,1,1,2003,5,28,0,United States,1,1,-81.686783,27.766279,eastern,13
+538,2003-05-28,FLO,MON,False,6,0,MIA01,Sun Life Stadium,Miami,FL,37,6,1,0,0,18,6,6,0,34,7,1,1,0,21,1,3,0,2003,5,28,0,United States,1,1,-81.686783,27.766279,eastern,13
+539,2003-05-29,FLO,MON,False,2,3,MIA01,Sun Life Stadium,Miami,FL,39,11,0,1,0,20,1,6,0,35,7,0,0,1,22,4,1,0,2003,5,29,0,United States,-1,0,-81.686783,27.766279,eastern,13
+540,2003-05-30,PHI,MON,False,12,5,PHI12,Veterans Stadium,Philadelphia,PA,43,6,1,0,2,23,4,7,0,46,10,1,0,1,20,6,8,0,2003,5,30,0,United States,1,1,-77.209755,40.590752,eastern,13
+541,2003-06-01,PHI,MON,True,4,3,PHI12,Veterans Stadium,Philadelphia,PA,32,1,0,0,2,16,10,3,0,33,5,4,0,0,19,4,1,0,2003,6,1,0,United States,1,1,-77.209755,40.590752,eastern,13
+542,2003-06-01,PHI,MON,False,4,1,PHI12,Veterans Stadium,Philadelphia,PA,35,4,0,0,1,23,4,2,1,37,6,2,0,0,18,6,4,1,2003,6,1,0,United States,1,1,-77.209755,40.590752,eastern,13
+543,2003-06-03,MON,ANA,False,4,15,SJU01,Estadio Hiram Bithorn,San Juan,PR,51,14,2,0,6,17,8,4,0,34,4,1,0,1,23,2,3,0,2003,6,3,0,United States,-1,0,-71.51178,41.680893,eastern,13
+544,2003-06-04,MON,ANA,False,2,11,SJU01,Estadio Hiram Bithorn,San Juan,PR,46,8,2,0,7,23,2,4,0,39,6,0,0,1,22,7,3,0,2003,6,4,0,United States,-1,0,-71.51178,41.680893,eastern,13
+545,2003-06-05,MON,ANA,False,8,7,SJU01,Estadio Hiram Bithorn,San Juan,PR,61,10,0,0,2,26,18,5,0,60,14,0,0,1,30,10,5,0,2003,6,5,0,United States,1,1,-71.51178,41.680893,eastern,13
+546,2003-06-06,MON,TEX,False,13,10,SJU01,Estadio Hiram Bithorn,San Juan,PR,42,8,3,0,3,18,7,3,0,43,9,2,0,2,13,10,7,0,2003,6,6,0,United States,1,1,-71.51178,41.680893,eastern,13
+547,2003-06-07,MON,TEX,False,5,4,SJU01,Estadio Hiram Bithorn,San Juan,PR,44,7,1,0,0,21,6,8,1,34,1,0,0,3,16,7,6,1,2003,6,7,0,United States,1,1,-71.51178,41.680893,eastern,13
+548,2003-06-08,MON,TEX,True,3,2,SJU01,Estadio Hiram Bithorn,San Juan,PR,34,7,0,0,2,19,6,0,0,33,4,3,0,1,20,2,3,0,2003,6,8,0,United States,1,1,-71.51178,41.680893,eastern,13
+549,2003-06-10,SEA,MON,False,3,7,SEA03,Safeco Field,Seattle,WA,38,8,1,0,2,20,5,2,0,38,7,1,1,0,18,9,2,0,2003,6,10,0,United States,-1,0,-121.490494,47.400902,pacific,16
+550,2003-06-11,SEA,MON,False,1,3,SEA03,Safeco Field,Seattle,WA,37,7,2,0,0,22,4,2,0,36,6,1,0,1,22,4,2,0,2003,6,11,0,United States,-1,0,-121.490494,47.400902,pacific,16
+551,2003-06-12,SEA,MON,False,1,0,SEA03,Safeco Field,Seattle,WA,34,5,0,0,0,19,7,3,0,31,4,0,0,1,20,3,3,0,2003,6,12,0,United States,1,1,-121.490494,47.400902,pacific,16
+552,2003-06-13,OAK,MON,False,8,4,OAK01,Oakland-Alameda County Coliseum,Oakland,CA,36,8,0,0,2,14,10,2,0,38,4,2,0,2,21,5,3,1,2003,6,13,0,United States,1,1,-119.681564,36.116203,pacific,16
+553,2003-06-14,OAK,MON,True,5,4,OAK01,Oakland-Alameda County Coliseum,Oakland,CA,44,10,3,0,0,22,5,4,0,32,4,2,0,2,19,3,1,1,2003,6,14,0,United States,1,1,-119.681564,36.116203,pacific,16
+554,2003-06-15,OAK,MON,True,9,1,OAK01,Oakland-Alameda County Coliseum,Oakland,CA,34,6,0,0,0,19,7,1,1,40,4,3,0,2,18,6,7,0,2003,6,15,0,United States,1,1,-119.681564,36.116203,pacific,16
+555,2003-06-18,PIT,MON,True,7,3,PIT08,PNC Park,Pittsburgh,PA,35,6,1,0,1,19,7,1,0,37,8,2,0,3,13,10,1,0,2003,6,18,0,United States,1,1,-77.209755,40.590752,eastern,19
+556,2003-06-18,PIT,MON,False,4,3,PIT08,PNC Park,Pittsburgh,PA,38,7,0,0,1,23,5,2,0,36,8,2,1,0,18,6,1,0,2003,6,18,0,United States,1,1,-77.209755,40.590752,eastern,19
+557,2003-06-19,PIT,MON,True,2,5,PIT08,PNC Park,Pittsburgh,PA,45,12,2,0,1,22,4,4,0,40,7,2,0,0,23,3,4,1,2003,6,19,0,United States,-1,0,-77.209755,40.590752,eastern,19
+558,2003-06-20,MON,TOR,False,4,8,MON02,Stade Olympique,Montreal,QUE,42,8,1,0,4,18,7,3,1,37,6,0,1,1,20,5,4,0,2003,6,20,1,Canada,-1,0,-79.347015,43.65107,eastern,19
+559,2003-06-21,MON,TOR,False,8,5,MON02,Stade Olympique,Montreal,QUE,41,9,0,2,2,18,5,3,2,40,4,4,0,1,22,2,6,1,2003,6,21,1,Canada,1,1,-79.347015,43.65107,eastern,19
+560,2003-06-22,MON,TOR,True,2,4,MON02,Stade Olympique,Montreal,QUE,38,9,0,0,2,16,9,1,1,33,3,1,1,0,21,6,0,1,2003,6,22,1,Canada,-1,0,-79.347015,43.65107,eastern,19
+561,2003-06-23,MON,PIT,False,3,0,MON02,Stade Olympique,Montreal,QUE,32,2,1,0,0,23,2,2,2,35,3,3,1,1,19,5,3,0,2003,6,23,1,Canada,1,1,-79.347015,43.65107,eastern,19
+562,2003-06-24,MON,PIT,True,6,4,MON02,Stade Olympique,Montreal,QUE,39,5,3,0,0,19,7,4,1,36,3,4,1,1,18,5,4,0,2003,6,24,1,Canada,1,1,-79.347015,43.65107,eastern,19
+563,2003-06-25,MON,PIT,True,5,6,MON02,Stade Olympique,Montreal,QUE,39,6,1,0,2,18,8,4,0,38,7,1,0,1,21,6,2,0,2003,6,25,1,Canada,-1,0,-79.347015,43.65107,eastern,19
+564,2003-06-27,TOR,MON,False,6,5,TOR02,Rogers Centre,Toronto,ONT,39,5,4,0,1,22,4,3,0,37,5,1,1,2,22,1,5,0,2003,6,27,1,Canada,1,1,-79.347015,43.65107,eastern,19
+565,2003-06-28,TOR,MON,True,2,4,TOR02,Rogers Centre,Toronto,ONT,38,8,3,0,0,18,6,3,0,33,2,2,0,1,20,5,3,0,2003,6,28,1,Canada,-1,0,-79.347015,43.65107,eastern,19
+566,2003-06-29,TOR,MON,True,2,10,TOR02,Rogers Centre,Toronto,ONT,45,10,2,0,1,17,7,7,1,31,1,1,0,0,24,4,0,1,2003,6,29,1,Canada,-1,0,-79.347015,43.65107,eastern,19
+567,2003-06-30,NYN,MON,False,3,1,NYC17,Shea Stadium,New York,NY,35,5,2,0,0,22,4,2,0,34,4,3,1,0,17,6,3,0,2003,6,30,0,United States,1,1,-74.948051,42.165726,eastern,19
+568,2003-07-01,NYN,MON,False,7,6,NYC17,Shea Stadium,New York,NY,35,4,1,0,3,21,5,1,0,45,11,2,0,0,19,5,6,2,2003,7,1,0,United States,1,1,-74.948051,42.165726,eastern,19
+569,2003-07-02,NYN,MON,False,4,11,NYC17,Shea Stadium,New York,NY,48,11,3,0,1,24,4,5,0,37,4,0,0,2,19,8,4,0,2003,7,2,0,United States,-1,0,-74.948051,42.165726,eastern,19
+570,2003-07-03,ATL,MON,False,4,5,ATL02,Turner Field,Atlanta,GA,39,7,2,1,1,22,4,2,0,39,8,1,0,1,25,1,3,0,2003,7,3,0,United States,-1,0,-83.643074,33.040619,eastern,19
+571,2003-07-04,ATL,MON,False,8,6,ATL02,Turner Field,Atlanta,GA,41,3,3,0,2,20,9,4,0,42,11,2,0,1,21,3,4,0,2003,7,4,0,United States,1,1,-83.643074,33.040619,eastern,19
+572,2003-07-05,ATL,MON,False,3,2,ATL02,Turner Field,Atlanta,GA,32,4,1,0,2,22,2,1,0,37,4,1,0,0,18,8,5,1,2003,7,5,0,United States,1,1,-83.643074,33.040619,eastern,19
+573,2003-07-06,ATL,MON,True,7,5,ATL02,Turner Field,Atlanta,GA,38,8,2,0,1,15,10,1,1,42,4,3,0,3,19,5,7,1,2003,7,6,0,United States,1,1,-83.643074,33.040619,eastern,19
+574,2003-07-07,MON,PHI,False,8,1,MON02,Stade Olympique,Montreal,QUE,34,4,2,0,1,16,10,1,0,41,4,4,1,1,16,8,5,2,2003,7,7,1,Canada,1,1,-79.347015,43.65107,eastern,19
+575,2003-07-08,MON,PHI,False,6,13,MON02,Stade Olympique,Montreal,QUE,47,7,6,0,3,20,7,3,1,41,10,2,1,0,21,5,2,0,2003,7,8,1,Canada,-1,0,-79.347015,43.65107,eastern,19
+576,2003-07-09,MON,PHI,False,0,2,MON02,Stade Olympique,Montreal,QUE,34,2,0,0,1,20,6,5,0,32,3,0,0,0,19,6,4,0,2003,7,9,1,Canada,-1,0,-79.347015,43.65107,eastern,19
+577,2003-07-11,MON,FLO,False,4,5,MON02,Stade Olympique,Montreal,QUE,41,6,1,0,3,20,7,4,0,31,4,0,0,1,21,4,0,1,2003,7,11,1,Canada,-1,0,-79.347015,43.65107,eastern,19
+578,2003-07-12,MON,FLO,False,7,1,MON02,Stade Olympique,Montreal,QUE,32,2,1,0,0,20,6,3,0,40,9,1,0,1,19,5,5,0,2003,7,12,1,Canada,1,1,-79.347015,43.65107,eastern,19
+579,2003-07-13,MON,FLO,True,4,11,MON02,Stade Olympique,Montreal,QUE,46,6,6,0,2,22,6,4,0,40,7,1,0,0,21,6,4,1,2003,7,13,1,Canada,-1,0,-79.347015,43.65107,eastern,19
+580,2003-07-17,PHI,MON,False,5,2,PHI12,Veterans Stadium,Philadelphia,PA,43,7,3,0,0,22,10,1,0,46,6,4,0,1,21,7,7,0,2003,7,17,0,United States,1,1,-77.209755,40.590752,eastern,19
+581,2003-07-18,PHI,MON,False,1,3,PHI12,Veterans Stadium,Philadelphia,PA,39,8,3,0,0,15,12,1,0,33,6,2,0,1,17,7,0,0,2003,7,18,0,United States,-1,0,-77.209755,40.590752,eastern,19
+582,2003-07-19,PHI,MON,False,4,3,PHI12,Veterans Stadium,Philadelphia,PA,42,5,2,0,0,25,7,3,0,43,5,2,0,2,20,10,4,0,2003,7,19,0,United States,1,1,-77.209755,40.590752,eastern,19
+583,2003-07-20,PHI,MON,True,3,2,PHI12,Veterans Stadium,Philadelphia,PA,34,3,3,0,1,17,10,0,0,36,4,5,0,0,15,8,3,1,2003,7,20,0,United States,1,1,-77.209755,40.590752,eastern,19
+584,2003-07-21,FLO,MON,False,4,1,MIA01,Sun Life Stadium,Miami,FL,35,8,0,1,0,16,8,2,0,34,8,1,1,0,18,4,2,0,2003,7,21,0,United States,1,1,-81.686783,27.766279,eastern,19
+585,2003-07-22,FLO,MON,False,9,1,MIA01,Sun Life Stadium,Miami,FL,33,5,0,0,0,24,2,1,1,43,9,3,0,1,19,5,5,1,2003,7,22,0,United States,1,1,-81.686783,27.766279,eastern,19
+586,2003-07-23,MON,NYN,False,5,2,MON02,Stade Olympique,Montreal,QUE,33,7,0,0,0,13,11,1,1,35,5,3,1,0,18,7,1,0,2003,7,23,1,Canada,1,1,-79.347015,43.65107,eastern,19
+587,2003-07-24,MON,NYN,False,5,1,MON02,Stade Olympique,Montreal,QUE,37,7,0,0,0,21,5,4,0,36,7,3,0,1,18,5,2,0,2003,7,24,1,Canada,1,1,-79.347015,43.65107,eastern,19
+588,2003-07-25,MON,ATL,False,9,8,MON02,Stade Olympique,Montreal,QUE,51,9,5,0,3,27,4,3,0,51,2,5,0,2,25,7,10,0,2003,7,25,1,Canada,1,1,-79.347015,43.65107,eastern,19
+589,2003-07-26,MON,ATL,False,4,15,MON02,Stade Olympique,Montreal,QUE,51,12,4,1,1,23,4,4,2,38,10,0,0,2,21,5,0,0,2003,7,26,1,Canada,-1,0,-79.347015,43.65107,eastern,19
+590,2003-07-27,MON,ATL,True,13,10,MON02,Stade Olympique,Montreal,QUE,46,8,7,0,2,21,5,2,1,40,8,2,0,4,19,5,2,0,2003,7,27,1,Canada,1,1,-79.347015,43.65107,eastern,19
+591,2003-07-28,MON,ATL,False,8,10,MON02,Stade Olympique,Montreal,QUE,46,9,2,0,3,23,5,3,1,41,9,2,0,2,19,5,4,0,2003,7,28,1,Canada,-1,0,-79.347015,43.65107,eastern,19
+592,2003-07-29,MON,SLN,False,1,2,MON02,Stade Olympique,Montreal,QUE,33,3,1,0,1,19,8,1,0,31,2,2,0,0,23,4,0,0,2003,7,29,1,Canada,-1,0,-79.347015,43.65107,eastern,19
+593,2003-07-30,MON,SLN,False,1,11,MON02,Stade Olympique,Montreal,QUE,43,4,6,0,1,24,3,4,1,34,7,0,0,0,22,3,1,1,2003,7,30,1,Canada,-1,0,-79.347015,43.65107,eastern,19
+594,2003-07-31,MON,SLN,False,3,2,MON02,Stade Olympique,Montreal,QUE,35,6,1,0,0,27,0,1,0,34,6,1,0,1,17,6,2,1,2003,7,31,1,Canada,1,1,-79.347015,43.65107,eastern,19
+595,2003-08-01,MON,MIL,False,8,4,MON02,Stade Olympique,Montreal,QUE,39,8,1,1,1,17,8,2,1,38,6,5,0,2,21,2,2,0,2003,8,1,1,Canada,1,1,-79.347015,43.65107,eastern,19
+596,2003-08-02,MON,MIL,False,7,1,MON02,Stade Olympique,Montreal,QUE,33,7,1,0,0,14,11,0,0,37,3,1,1,1,20,4,7,0,2003,8,2,1,Canada,1,1,-79.347015,43.65107,eastern,19
+597,2003-08-03,MON,MIL,True,4,2,MON02,Stade Olympique,Montreal,QUE,34,5,2,0,1,17,8,1,0,34,9,0,1,0,15,7,2,0,2003,8,3,1,Canada,1,1,-79.347015,43.65107,eastern,19
+598,2003-08-05,ARI,MON,False,8,5,PHO01,Chase Field,Phoenix,AZ,42,6,3,0,1,19,8,5,0,41,5,3,2,1,17,6,7,0,2003,8,5,0,United States,1,1,-111.431221,33.729759,mountain,21
+599,2003-08-06,ARI,MON,False,3,2,PHO01,Chase Field,Phoenix,AZ,31,4,0,0,0,16,9,2,0,34,10,1,0,1,17,4,1,0,2003,8,6,0,United States,1,1,-111.431221,33.729759,mountain,21
+600,2003-08-07,ARI,MON,False,5,4,PHO01,Chase Field,Phoenix,AZ,41,6,2,0,1,23,6,3,0,41,7,1,0,1,24,3,4,1,2003,8,7,0,United States,1,1,-111.431221,33.729759,mountain,21
+601,2003-08-08,HOU,MON,False,5,1,HOU03,Minute Maid Park,Houston,TX,34,5,0,0,0,19,7,3,0,32,6,1,0,1,18,3,3,0,2003,8,8,0,United States,1,1,-97.563461,31.054487,central,22
+602,2003-08-09,HOU,MON,False,1,3,HOU03,Minute Maid Park,Houston,TX,43,10,1,0,0,19,6,7,0,35,4,2,0,0,18,9,2,0,2003,8,9,0,United States,-1,0,-97.563461,31.054487,central,22
+603,2003-08-10,HOU,MON,True,8,2,HOU03,Minute Maid Park,Houston,TX,32,3,0,0,2,17,9,1,0,37,1,3,1,4,17,7,3,1,2003,8,10,0,United States,1,1,-97.563461,31.054487,central,22
+604,2003-08-11,MON,COL,False,3,1,MON02,Stade Olympique,Montreal,QUE,36,4,3,0,0,18,7,4,0,32,4,2,0,1,18,2,5,0,2003,8,11,1,Canada,1,1,-79.347015,43.65107,eastern,23
+605,2003-08-12,MON,COL,False,3,6,MON02,Stade Olympique,Montreal,QUE,46,6,2,0,1,23,9,5,0,44,4,2,0,1,20,9,8,0,2003,8,12,1,Canada,-1,0,-79.347015,43.65107,eastern,23
+606,2003-08-13,MON,COL,False,6,5,MON02,Stade Olympique,Montreal,QUE,39,5,3,0,2,19,6,3,1,36,4,3,1,1,22,2,3,0,2003,8,13,1,Canada,1,1,-79.347015,43.65107,eastern,23
+607,2003-08-15,MON,SFN,False,4,1,MON02,Stade Olympique,Montreal,QUE,32,4,1,0,0,17,9,1,0,34,4,0,0,2,20,3,4,1,2003,8,15,1,Canada,1,1,-79.347015,43.65107,eastern,23
+608,2003-08-16,MON,SFN,False,4,1,MON02,Stade Olympique,Montreal,QUE,35,5,2,0,0,20,5,2,1,35,7,2,1,0,16,7,2,0,2003,8,16,1,Canada,1,1,-79.347015,43.65107,eastern,23
+609,2003-08-17,MON,SFN,True,4,2,MON02,Stade Olympique,Montreal,QUE,40,7,2,0,0,23,4,4,0,33,3,1,0,1,19,7,2,0,2003,8,17,1,Canada,1,1,-79.347015,43.65107,eastern,23
+610,2003-08-18,MON,SFN,True,4,0,MON02,Stade Olympique,Montreal,QUE,32,2,1,0,0,19,7,3,0,35,6,3,0,0,21,3,2,0,2003,8,18,1,Canada,1,1,-79.347015,43.65107,eastern,23
+611,2003-08-19,LAN,MON,False,5,7,LOS03,Dodger Stadium,Los Angeles,CA,44,10,2,0,1,18,8,5,0,39,6,2,0,1,19,6,4,1,2003,8,19,0,United States,-1,0,-119.681564,36.116203,pacific,26
+612,2003-08-20,LAN,MON,False,4,1,LOS03,Dodger Stadium,Los Angeles,CA,38,4,1,0,1,17,12,3,0,41,7,2,0,1,21,7,2,1,2003,8,20,0,United States,1,1,-119.681564,36.116203,pacific,26
+613,2003-08-21,LAN,MON,True,2,1,LOS03,Dodger Stadium,Los Angeles,CA,36,8,0,0,1,18,8,1,0,30,3,2,0,0,20,4,1,0,2003,8,21,0,United States,1,1,-119.681564,36.116203,pacific,26
+614,2003-08-22,SDN,MON,False,5,3,SAN01,Qualcomm Stadium,San Diego,CA,34,3,3,1,0,20,6,1,0,42,8,2,1,1,21,2,5,2,2003,8,22,0,United States,1,1,-119.681564,36.116203,pacific,26
+615,2003-08-23,SDN,MON,False,1,0,SAN01,Qualcomm Stadium,San Diego,CA,37,4,0,0,0,24,6,2,1,38,4,1,0,0,20,10,2,1,2003,8,23,0,United States,1,1,-119.681564,36.116203,pacific,26
+616,2003-08-24,SDN,MON,True,4,8,SAN01,Qualcomm Stadium,San Diego,CA,44,10,1,0,2,21,7,3,0,37,4,5,0,0,20,6,2,0,2003,8,24,0,United States,-1,0,-119.681564,36.116203,pacific,26
+617,2003-08-25,MON,PHI,False,12,1,MON02,Stade Olympique,Montreal,QUE,37,7,1,0,0,18,9,1,1,44,9,4,1,1,18,5,5,1,2003,8,25,1,Canada,1,1,-79.347015,43.65107,eastern,29
+618,2003-08-26,MON,PHI,False,14,10,MON02,Stade Olympique,Montreal,QUE,45,5,5,1,3,17,9,4,1,41,11,5,0,0,17,5,3,0,2003,8,26,1,Canada,1,1,-79.347015,43.65107,eastern,29
+619,2003-08-27,MON,PHI,False,9,6,MON02,Stade Olympique,Montreal,QUE,35,3,2,0,2,21,6,1,0,45,9,4,0,1,17,5,7,2,2003,8,27,1,Canada,1,1,-79.347015,43.65107,eastern,29
+620,2003-08-28,MON,PHI,True,4,0,MON02,Stade Olympique,Montreal,QUE,34,4,0,0,0,16,11,3,0,32,4,2,0,1,18,6,1,0,2003,8,28,1,Canada,1,1,-79.347015,43.65107,eastern,29
+621,2003-08-29,FLO,MON,False,3,2,MIA01,Sun Life Stadium,Miami,FL,39,4,1,0,1,17,9,7,0,36,8,1,0,0,18,7,2,0,2003,8,29,0,United States,1,1,-81.686783,27.766279,eastern,29
+622,2003-08-30,FLO,MON,False,4,3,MIA01,Sun Life Stadium,Miami,FL,38,6,2,0,1,16,11,1,1,34,5,1,0,1,10,11,5,1,2003,8,30,0,United States,1,1,-81.686783,27.766279,eastern,29
+623,2003-08-31,FLO,MON,True,5,3,MIA01,Sun Life Stadium,Miami,FL,37,5,1,0,1,15,12,3,0,38,8,2,0,1,20,2,4,1,2003,8,31,0,United States,1,1,-81.686783,27.766279,eastern,29
+624,2003-09-01,FLO,MON,True,5,2,MIA01,Sun Life Stadium,Miami,FL,32,1,0,0,2,16,9,4,0,37,11,1,0,0,14,9,0,2,2003,9,1,0,United States,1,1,-81.686783,27.766279,eastern,29
+625,2003-09-02,PHI,MON,False,5,3,PHI12,Veterans Stadium,Philadelphia,PA,40,6,1,0,0,21,4,7,1,35,4,2,1,1,19,5,3,0,2003,9,2,0,United States,1,1,-77.209755,40.590752,eastern,29
+626,2003-09-03,PHI,MON,True,8,3,PHI12,Veterans Stadium,Philadelphia,PA,34,6,0,0,1,17,8,2,0,38,6,3,0,2,17,8,2,0,2003,9,3,0,United States,1,1,-77.209755,40.590752,eastern,29
+627,2003-09-05,MON,FLO,False,6,2,SJU01,Estadio Hiram Bithorn,San Juan,PR,38,6,2,0,1,19,6,4,0,36,4,0,0,3,15,9,5,0,2003,9,5,0,United States,1,1,-71.51178,41.680893,eastern,29
+628,2003-09-06,MON,FLO,False,4,14,SJU01,Estadio Hiram Bithorn,San Juan,PR,51,7,4,0,3,22,8,6,1,37,10,1,0,0,20,6,0,0,2003,9,6,0,United States,-1,0,-71.51178,41.680893,eastern,29
+629,2003-09-07,MON,FLO,True,1,3,SJU01,Estadio Hiram Bithorn,San Juan,PR,37,8,0,0,0,18,8,1,2,31,3,1,0,1,18,7,1,0,2003,9,7,0,United States,-1,0,-71.51178,41.680893,eastern,29
+630,2003-09-09,MON,CHN,False,3,4,SJU01,Estadio Hiram Bithorn,San Juan,PR,41,10,1,0,0,22,3,3,2,37,2,4,0,1,21,6,3,0,2003,9,9,0,United States,-1,0,-71.51178,41.680893,eastern,29
+631,2003-09-10,MON,CHN,False,8,4,SJU01,Estadio Hiram Bithorn,San Juan,PR,36,4,1,0,3,19,8,1,0,37,6,2,0,0,13,9,7,0,2003,9,10,0,United States,1,1,-71.51178,41.680893,eastern,29
+632,2003-09-11,MON,CHN,True,3,2,SJU01,Estadio Hiram Bithorn,San Juan,PR,35,6,1,0,0,23,4,1,0,39,7,3,1,0,16,9,3,0,2003,9,11,0,United States,1,1,-71.51178,41.680893,eastern,29
+633,2003-09-12,MON,NYN,False,7,4,MON02,Stade Olympique,Montreal,QUE,36,7,2,0,0,20,7,0,0,41,7,5,0,1,20,4,4,0,2003,9,12,1,Canada,1,1,-79.347015,43.65107,eastern,29
+634,2003-09-13,MON,NYN,False,4,5,MON02,Stade Olympique,Montreal,QUE,36,2,3,1,1,19,8,2,0,38,8,2,0,0,22,3,3,0,2003,9,13,1,Canada,-1,0,-79.347015,43.65107,eastern,29
+635,2003-09-14,MON,NYN,True,7,3,MON02,Stade Olympique,Montreal,QUE,38,6,0,0,0,22,5,4,1,36,5,1,2,1,18,6,2,1,2003,9,14,1,Canada,1,1,-79.347015,43.65107,eastern,29
+636,2003-09-15,MON,ATL,False,6,10,MON02,Stade Olympique,Montreal,QUE,44,9,3,0,1,24,4,2,1,40,5,3,0,2,23,4,1,2,2003,9,15,1,Canada,-1,0,-79.347015,43.65107,eastern,29
+637,2003-09-16,MON,ATL,False,5,4,MON02,Stade Olympique,Montreal,QUE,42,7,1,1,2,18,9,4,0,41,3,6,0,0,23,5,2,2,2003,9,16,1,Canada,1,1,-79.347015,43.65107,eastern,29
+638,2003-09-17,MON,ATL,False,4,14,MON02,Stade Olympique,Montreal,QUE,45,13,3,0,3,17,8,1,0,37,9,0,0,1,19,4,4,0,2003,9,17,1,Canada,-1,0,-79.347015,43.65107,eastern,29
+639,2003-09-18,NYN,MON,False,0,1,NYC17,Shea Stadium,New York,NY,35,4,2,0,1,19,7,2,0,31,2,1,0,0,14,14,0,0,2003,9,18,0,United States,-1,0,-74.948051,42.165726,eastern,29
+640,2003-09-19,NYN,MON,False,1,7,NYC17,Shea Stadium,New York,NY,43,5,2,1,2,24,5,4,0,40,5,4,0,0,23,4,3,1,2003,9,19,0,United States,-1,0,-74.948051,42.165726,eastern,29
+641,2003-09-20,NYN,MON,True,3,4,NYC17,Shea Stadium,New York,NY,45,4,2,0,2,22,8,7,0,43,10,1,0,0,17,10,5,0,2003,9,20,0,United States,-1,0,-74.948051,42.165726,eastern,29
+642,2003-09-21,NYN,MON,True,2,4,NYC17,Shea Stadium,New York,NY,38,4,4,1,1,16,10,2,0,36,8,0,0,0,19,8,1,0,2003,9,21,0,United States,-1,0,-74.948051,42.165726,eastern,29
+643,2003-09-23,ATL,MON,False,2,0,ATL02,Turner Field,Atlanta,GA,37,7,0,0,0,20,6,4,0,32,4,1,0,0,19,6,2,0,2003,9,23,0,United States,1,1,-83.643074,33.040619,eastern,29
+644,2003-09-24,ATL,MON,False,9,1,ATL02,Turner Field,Atlanta,GA,36,4,2,0,0,20,6,4,0,41,8,4,0,0,20,5,3,1,2003,9,24,0,United States,1,1,-83.643074,33.040619,eastern,29
+645,2003-09-26,CIN,MON,False,1,5,CIN09,Great American Ballpark,Cincinnati,OH,39,6,2,0,1,24,3,3,0,32,3,2,0,0,24,3,0,0,2003,9,26,0,United States,-1,0,-82.764915,40.388783,eastern,29
+646,2003-09-27,CIN,MON,True,4,2,CIN09,Great American Ballpark,Cincinnati,OH,33,4,1,0,0,22,3,3,0,34,5,0,0,2,18,6,3,0,2003,9,27,0,United States,1,1,-82.764915,40.388783,eastern,29
+647,2003-09-28,CIN,MON,True,1,2,CIN09,Great American Ballpark,Cincinnati,OH,33,5,1,0,0,19,7,1,0,35,4,0,0,1,20,7,3,0,2003,9,28,0,United States,-1,0,-82.764915,40.388783,eastern,29
+648,2004-04-06,FLO,MON,True,4,3,MIA01,Sun Life Stadium,Miami,FL,40,4,3,0,1,16,11,5,0,35,8,1,0,1,12,11,2,0,2004,4,6,0,United States,1,1,-81.686783,27.766279,eastern,3
+649,2004-04-07,FLO,MON,False,2,3,MIA01,Sun Life Stadium,Miami,FL,33,3,0,0,2,19,7,2,0,36,3,2,0,1,21,6,3,0,2004,4,7,0,United States,-1,0,-81.686783,27.766279,eastern,3
+650,2004-04-08,FLO,MON,False,3,0,MIA01,Sun Life Stadium,Miami,FL,34,4,1,0,0,18,9,1,1,35,9,1,0,1,19,4,1,0,2004,4,8,0,United States,1,1,-81.686783,27.766279,eastern,3
+651,2004-04-09,MON,NYN,False,2,3,SJU01,Estadio Hiram Bithorn,San Juan,PR,49,5,2,0,1,19,11,8,3,44,7,1,0,0,24,8,4,0,2004,4,9,0,United States,-1,0,-71.51178,41.680893,eastern,3
+652,2004-04-10,MON,NYN,False,1,0,SJU01,Estadio Hiram Bithorn,San Juan,PR,32,1,2,0,0,20,7,1,1,32,5,2,0,0,19,4,1,1,2004,4,10,0,United States,1,1,-71.51178,41.680893,eastern,3
+653,2004-04-11,MON,NYN,True,1,4,SJU01,Estadio Hiram Bithorn,San Juan,PR,37,6,1,0,1,24,3,2,0,35,6,0,0,0,22,5,2,0,2004,4,11,0,United States,-1,0,-71.51178,41.680893,eastern,3
+654,2004-04-13,MON,FLO,False,0,5,SJU01,Estadio Hiram Bithorn,San Juan,PR,38,5,1,0,2,20,5,4,1,30,4,0,0,0,15,10,1,0,2004,4,13,0,United States,-1,0,-71.51178,41.680893,eastern,3
+655,2004-04-14,MON,FLO,False,0,9,SJU01,Estadio Hiram Bithorn,San Juan,PR,46,11,1,0,3,22,6,3,0,37,8,0,0,0,18,6,5,0,2004,4,14,0,United States,-1,0,-71.51178,41.680893,eastern,3
+656,2004-04-15,MON,FLO,True,0,3,SJU01,Estadio Hiram Bithorn,San Juan,PR,34,5,0,0,1,23,3,2,0,31,2,0,1,0,20,6,2,0,2004,4,15,0,United States,-1,0,-71.51178,41.680893,eastern,3
+657,2004-04-16,PHI,MON,False,4,2,PHI13,Citizens Bank Park,Philadelphia,PA,33,3,1,0,1,18,9,1,0,33,7,0,0,2,18,4,2,0,2004,4,16,0,United States,1,1,-77.209755,40.590752,eastern,3
+658,2004-04-17,PHI,MON,True,6,3,PHI13,Citizens Bank Park,Philadelphia,PA,35,4,2,0,1,18,9,0,1,32,2,1,0,4,19,4,2,0,2004,4,17,0,United States,1,1,-77.209755,40.590752,eastern,3
+659,2004-04-18,PHI,MON,True,5,4,PHI13,Citizens Bank Park,Philadelphia,PA,36,5,1,1,2,19,6,2,0,36,3,2,1,2,15,8,5,0,2004,4,18,0,United States,1,1,-77.209755,40.590752,eastern,3
+660,2004-04-19,NYN,MON,False,4,1,NYC17,Shea Stadium,New York,NY,40,10,0,0,0,24,3,3,0,36,3,3,0,2,18,6,3,1,2004,4,19,0,United States,1,1,-74.948051,42.165726,eastern,3
+661,2004-04-20,NYN,MON,False,1,2,NYC17,Shea Stadium,New York,NY,38,7,0,0,1,23,4,2,1,33,2,2,0,0,20,7,2,0,2004,4,20,0,United States,-1,0,-74.948051,42.165726,eastern,3
+662,2004-04-21,NYN,MON,False,1,2,NYC17,Shea Stadium,New York,NY,36,5,1,0,0,24,4,2,0,36,5,3,0,0,17,7,3,1,2004,4,21,0,United States,-1,0,-74.948051,42.165726,eastern,3
+663,2004-04-22,NYN,MON,True,3,2,NYC17,Shea Stadium,New York,NY,36,4,0,0,1,22,6,3,0,39,2,4,0,0,20,5,6,2,2004,4,22,0,United States,1,1,-74.948051,42.165726,eastern,3
+664,2004-04-23,MON,PHI,False,6,8,MON02,Stade Olympique,Montreal,QUE,46,5,5,0,2,20,7,6,1,41,7,4,1,0,22,5,2,0,2004,4,23,1,Canada,-1,0,-79.347015,43.65107,eastern,3
+665,2004-04-24,MON,PHI,True,0,7,MON02,Stade Olympique,Montreal,QUE,48,11,5,0,1,21,5,5,0,30,4,0,0,0,21,3,1,1,2004,4,24,1,Canada,-1,0,-79.347015,43.65107,eastern,3
+666,2004-04-25,MON,PHI,True,2,0,MON02,Stade Olympique,Montreal,QUE,35,6,3,0,0,22,2,2,0,30,3,1,1,0,17,4,4,0,2004,4,25,1,Canada,1,1,-79.347015,43.65107,eastern,3
+667,2004-04-26,SDN,MON,False,3,2,SAN02,Petco Park,San Diego,CA,35,6,2,0,0,17,9,1,0,36,8,0,0,0,18,7,3,0,2004,4,26,0,United States,1,1,-119.681564,36.116203,pacific,6
+668,2004-04-27,SDN,MON,False,3,0,SAN02,Petco Park,San Diego,CA,31,2,2,0,0,25,2,0,0,34,6,1,0,1,15,8,3,0,2004,4,27,0,United States,1,1,-119.681564,36.116203,pacific,6
+669,2004-04-28,SDN,MON,False,5,4,SAN02,Petco Park,San Diego,CA,41,11,1,0,1,16,10,1,1,36,3,2,1,2,20,4,4,0,2004,4,28,0,United States,1,1,-119.681564,36.116203,pacific,6
+670,2004-04-29,SDN,MON,False,2,1,SAN02,Petco Park,San Diego,CA,31,4,1,0,0,21,5,0,0,32,3,2,1,0,22,1,3,0,2004,4,29,0,United States,1,1,-119.681564,36.116203,pacific,6
+671,2004-04-30,LAN,MON,False,13,4,LOS03,Dodger Stadium,Los Angeles,CA,37,7,1,1,0,23,2,2,1,39,9,2,2,2,21,1,1,1,2004,4,30,0,United States,1,1,-119.681564,36.116203,pacific,6
+672,2004-05-01,LAN,MON,False,5,4,LOS03,Dodger Stadium,Los Angeles,CA,36,6,0,0,1,19,7,3,0,40,8,1,0,2,19,5,4,1,2004,5,1,0,United States,1,1,-119.681564,36.116203,pacific,6
+673,2004-05-02,LAN,MON,True,4,6,LOS03,Dodger Stadium,Los Angeles,CA,43,7,2,0,3,19,7,5,0,41,9,0,0,1,19,8,4,0,2004,5,2,0,United States,-1,0,-119.681564,36.116203,pacific,6
+674,2004-05-04,MON,COL,False,10,4,MON02,Stade Olympique,Montreal,QUE,40,5,1,0,2,20,7,5,0,40,9,2,0,3,20,2,4,0,2004,5,4,1,Canada,1,1,-79.347015,43.65107,eastern,9
+675,2004-05-05,MON,COL,False,0,2,MON02,Stade Olympique,Montreal,QUE,37,7,2,0,0,21,5,2,0,37,4,1,0,0,18,9,5,0,2004,5,5,1,Canada,-1,0,-79.347015,43.65107,eastern,9
+676,2004-05-06,MON,COL,False,3,1,MON02,Stade Olympique,Montreal,QUE,32,2,2,1,0,19,7,1,0,36,5,3,0,0,20,3,5,0,2004,5,6,1,Canada,1,1,-79.347015,43.65107,eastern,9
+677,2004-05-07,MON,SLN,False,4,2,MON02,Stade Olympique,Montreal,QUE,37,7,1,0,1,19,5,4,0,29,5,0,0,2,19,3,0,0,2004,5,7,1,Canada,1,1,-79.347015,43.65107,eastern,9
+678,2004-05-08,MON,SLN,False,2,0,MON02,Stade Olympique,Montreal,QUE,31,2,1,0,0,21,6,1,0,33,5,2,0,1,19,3,3,0,2004,5,8,1,Canada,1,1,-79.347015,43.65107,eastern,9
+679,2004-05-09,MON,SLN,True,2,5,MON02,Stade Olympique,Montreal,QUE,34,6,0,0,2,14,8,4,0,32,4,0,0,1,22,5,0,0,2004,5,9,1,Canada,-1,0,-79.347015,43.65107,eastern,9
+680,2004-05-11,MIL,MON,False,8,5,MIL06,Miller Park,Milwaukee,WI,55,7,2,0,2,31,11,2,0,60,11,3,0,2,28,12,4,0,2004,5,11,0,United States,1,1,-89.616508,44.268543,central,10
+681,2004-05-12,MIL,MON,False,4,3,MIL06,Miller Park,Milwaukee,WI,32,2,1,2,1,23,3,0,0,34,3,4,0,0,18,6,2,1,2004,5,12,0,United States,1,1,-89.616508,44.268543,central,10
+682,2004-05-13,MIL,MON,True,7,4,MIL06,Miller Park,Milwaukee,WI,36,4,1,0,0,27,2,2,0,37,8,2,0,1,15,9,2,0,2004,5,13,0,United States,1,1,-89.616508,44.268543,central,10
+683,2004-05-14,ARI,MON,False,3,4,PHO01,Chase Field,Phoenix,AZ,40,4,2,0,1,19,6,7,1,36,5,0,0,1,22,4,4,0,2004,5,14,0,United States,-1,0,-111.431221,33.729759,mountain,11
+684,2004-05-15,ARI,MON,False,0,5,PHO01,Chase Field,Phoenix,AZ,39,4,3,1,1,22,4,4,0,35,7,0,0,0,24,2,2,0,2004,5,15,0,United States,-1,0,-111.431221,33.729759,mountain,11
+685,2004-05-16,ARI,MON,True,1,6,PHO01,Chase Field,Phoenix,AZ,39,8,2,0,1,22,4,2,0,34,3,2,1,0,19,7,2,0,2004,5,16,0,United States,-1,0,-111.431221,33.729759,mountain,11
+686,2004-05-18,MON,MIL,False,3,2,SJU01,Estadio Hiram Bithorn,San Juan,PR,40,9,3,0,0,16,8,4,0,32,7,0,0,0,20,4,1,0,2004,5,18,0,United States,1,1,-71.51178,41.680893,eastern,13
+687,2004-05-19,MON,MIL,False,3,6,SJU01,Estadio Hiram Bithorn,San Juan,PR,40,9,1,1,0,16,8,5,0,38,6,3,0,1,19,6,3,0,2004,5,19,0,United States,-1,0,-71.51178,41.680893,eastern,13
+688,2004-05-20,MON,MIL,True,2,3,SJU01,Estadio Hiram Bithorn,San Juan,PR,32,3,1,0,2,18,7,1,0,36,6,2,0,0,21,5,2,0,2004,5,20,0,United States,-1,0,-71.51178,41.680893,eastern,13
+689,2004-05-21,MON,SFN,False,5,6,SJU01,Estadio Hiram Bithorn,San Juan,PR,39,7,1,0,0,23,4,2,2,39,8,2,0,0,24,4,1,0,2004,5,21,0,United States,-1,0,-71.51178,41.680893,eastern,13
+690,2004-05-22,MON,SFN,False,2,7,SJU01,Estadio Hiram Bithorn,San Juan,PR,45,4,2,0,1,28,6,4,0,45,9,0,0,0,24,6,5,1,2004,5,22,0,United States,-1,0,-71.51178,41.680893,eastern,13
+691,2004-05-24,MON,ATL,False,0,5,MON02,Stade Olympique,Montreal,QUE,36,3,3,0,3,21,5,1,0,38,9,2,0,0,21,6,0,0,2004,5,24,1,Canada,-1,0,-79.347015,43.65107,eastern,13
+692,2004-05-25,MON,ATL,False,3,1,MON02,Stade Olympique,Montreal,QUE,38,4,2,1,0,23,5,3,0,35,5,1,0,3,22,1,3,0,2004,5,25,1,Canada,1,1,-79.347015,43.65107,eastern,13
+693,2004-05-26,MON,ATL,False,1,6,MON02,Stade Olympique,Montreal,QUE,43,6,5,0,2,23,4,2,1,32,5,0,0,0,24,2,1,0,2004,5,26,1,Canada,-1,0,-79.347015,43.65107,eastern,13
+694,2004-05-28,MON,CIN,False,6,7,MON02,Stade Olympique,Montreal,QUE,45,8,3,1,2,12,12,5,2,37,1,3,0,3,25,2,2,1,2004,5,28,1,Canada,-1,0,-79.347015,43.65107,eastern,13
+695,2004-05-29,MON,CIN,False,1,4,MON02,Stade Olympique,Montreal,QUE,38,3,2,0,1,18,6,8,0,34,2,2,0,1,22,4,2,1,2004,5,29,1,Canada,-1,0,-79.347015,43.65107,eastern,13
+696,2004-05-30,MON,CIN,True,6,2,MON02,Stade Olympique,Montreal,QUE,38,7,2,0,1,19,6,3,0,41,4,1,0,2,22,2,10,0,2004,5,30,1,Canada,1,1,-79.347015,43.65107,eastern,13
+697,2004-05-31,ATL,MON,True,8,2,ATL02,Turner Field,Atlanta,GA,34,3,2,0,1,20,7,1,0,37,4,2,0,2,16,8,5,0,2004,5,31,0,United States,1,1,-83.643074,33.040619,eastern,13
+698,2004-06-01,ATL,MON,False,7,6,ATL02,Turner Field,Atlanta,GA,41,7,1,0,1,25,4,3,0,39,5,1,0,3,14,12,4,0,2004,6,1,0,United States,1,1,-83.643074,33.040619,eastern,13
+699,2004-06-02,ATL,MON,False,4,8,ATL02,Turner Field,Atlanta,GA,52,13,4,0,0,23,4,8,0,40,4,1,0,2,23,4,5,1,2004,6,2,0,United States,-1,0,-83.643074,33.040619,eastern,13
+700,2004-06-04,CIN,MON,False,2,4,CIN09,Great American Ballpark,Cincinnati,OH,36,6,2,0,2,17,7,2,0,36,5,0,0,1,17,9,3,1,2004,6,4,0,United States,-1,0,-82.764915,40.388783,eastern,13
+701,2004-06-05,CIN,MON,False,6,3,CIN09,Great American Ballpark,Cincinnati,OH,36,2,1,0,2,20,7,4,0,41,6,1,0,3,18,9,4,0,2004,6,5,0,United States,1,1,-82.764915,40.388783,eastern,13
+702,2004-06-06,CIN,MON,True,6,5,CIN09,Great American Ballpark,Cincinnati,OH,38,5,4,0,0,22,5,2,0,38,7,0,0,3,20,6,2,0,2004,6,6,0,United States,1,1,-82.764915,40.388783,eastern,13
+703,2004-06-08,KCA,MON,False,4,2,KAN06,Kauffman Stadium,Kansas City,MO,38,5,2,0,0,21,6,4,0,33,2,1,1,1,18,5,3,2,2004,6,8,0,United States,1,1,-92.288368,38.456085,central,14
+704,2004-06-10,KCA,MON,True,0,8,KAN06,Kauffman Stadium,Kansas City,MO,43,12,2,1,1,20,5,2,0,33,5,0,1,0,23,4,0,0,2004,6,10,0,United States,-1,0,-92.288368,38.456085,central,14
+705,2004-06-10,KCA,MON,False,2,7,KAN06,Kauffman Stadium,Kansas City,MO,37,4,2,0,2,24,2,3,0,33,4,1,0,1,21,5,1,0,2004,6,10,0,United States,-1,0,-92.288368,38.456085,central,14
+706,2004-06-11,SEA,MON,False,1,0,SEA03,Safeco Field,Seattle,WA,34,4,1,0,0,21,5,3,0,36,9,1,0,0,16,5,5,0,2004,6,11,0,United States,1,1,-121.490494,47.400902,pacific,16
+707,2004-06-12,SEA,MON,False,3,0,SEA03,Safeco Field,Seattle,WA,34,8,0,0,0,18,7,1,0,34,4,0,0,1,17,6,6,0,2004,6,12,0,United States,1,1,-121.490494,47.400902,pacific,16
+708,2004-06-13,SEA,MON,True,8,1,SEA03,Safeco Field,Seattle,WA,33,5,0,0,1,17,9,1,0,40,10,3,0,1,15,7,3,1,2004,6,13,0,United States,1,1,-121.490494,47.400902,pacific,16
+709,2004-06-15,MON,MIN,False,2,8,MON02,Stade Olympique,Montreal,QUE,39,6,1,0,2,19,6,5,0,32,1,2,0,1,18,8,1,1,2004,6,15,1,Canada,-1,0,-79.347015,43.65107,eastern,19
+710,2004-06-16,MON,MIN,False,4,5,MON02,Stade Olympique,Montreal,QUE,48,5,1,1,2,21,12,4,2,45,5,2,0,1,25,7,5,0,2004,6,16,1,Canada,-1,0,-79.347015,43.65107,eastern,19
+711,2004-06-17,MON,MIN,False,4,6,MON02,Stade Olympique,Montreal,QUE,38,5,3,0,2,16,9,2,1,41,8,2,0,1,22,5,2,1,2004,6,17,1,Canada,-1,0,-79.347015,43.65107,eastern,19
+712,2004-06-18,MON,CHA,False,7,11,MON02,Stade Olympique,Montreal,QUE,48,8,7,2,1,17,9,4,0,41,9,2,0,1,20,6,2,1,2004,6,18,1,Canada,-1,0,-79.347015,43.65107,eastern,19
+713,2004-06-19,MON,CHA,False,17,14,MON02,Stade Olympique,Montreal,QUE,50,9,4,0,2,21,5,7,2,49,8,5,1,4,17,6,6,2,2004,6,19,1,Canada,1,1,-79.347015,43.65107,eastern,19
+714,2004-06-20,MON,CHA,True,4,2,MON02,Stade Olympique,Montreal,QUE,32,6,1,0,1,22,2,0,0,31,1,1,0,1,18,7,3,0,2004,6,20,1,Canada,1,1,-79.347015,43.65107,eastern,19
+715,2004-06-22,MON,PHI,False,5,2,MON02,Stade Olympique,Montreal,QUE,36,3,0,0,1,19,7,5,1,38,3,5,0,2,20,3,5,0,2004,6,22,1,Canada,1,1,-79.347015,43.65107,eastern,19
+716,2004-06-23,MON,PHI,False,2,5,MON02,Stade Olympique,Montreal,QUE,38,3,1,1,3,26,1,3,0,36,4,1,0,1,18,9,3,0,2004,6,23,1,Canada,-1,0,-79.347015,43.65107,eastern,19
+717,2004-06-24,MON,PHI,True,3,2,MON02,Stade Olympique,Montreal,QUE,37,2,3,0,0,18,8,6,0,34,3,3,0,1,19,4,4,0,2004,6,24,1,Canada,1,1,-79.347015,43.65107,eastern,19
+718,2004-06-25,TOR,MON,False,3,1,TOR02,Rogers Centre,Toronto,ONT,36,7,0,1,0,23,3,2,0,36,7,2,0,0,19,3,4,1,2004,6,25,1,Canada,1,1,-79.347015,43.65107,eastern,19
+719,2004-06-26,TOR,MON,True,10,5,TOR02,Rogers Centre,Toronto,ONT,38,7,1,0,1,23,3,3,0,41,10,1,0,2,15,8,5,0,2004,6,26,1,Canada,1,1,-79.347015,43.65107,eastern,19
+720,2004-06-27,TOR,MON,True,4,9,TOR02,Rogers Centre,Toronto,ONT,44,4,2,0,2,19,8,8,1,40,5,4,0,0,19,8,2,2,2004,6,27,1,Canada,-1,0,-79.347015,43.65107,eastern,19
+721,2004-06-28,PHI,MON,False,14,6,PHI13,Citizens Bank Park,Philadelphia,PA,37,2,0,0,4,17,10,4,0,47,8,3,1,3,18,5,8,1,2004,6,28,0,United States,1,1,-77.209755,40.590752,eastern,19
+722,2004-06-29,PHI,MON,False,17,7,PHI13,Citizens Bank Park,Philadelphia,PA,38,4,2,0,2,23,3,4,0,47,9,4,0,4,13,10,7,0,2004,6,29,0,United States,1,1,-77.209755,40.590752,eastern,19
+723,2004-06-30,PHI,MON,False,3,6,PHI13,Citizens Bank Park,Philadelphia,PA,40,7,0,0,2,21,6,4,0,43,5,2,0,1,23,5,7,0,2004,6,30,0,United States,-1,0,-77.209755,40.590752,eastern,19
+724,2004-07-01,PHI,MON,False,10,5,PHI13,Citizens Bank Park,Philadelphia,PA,36,4,2,0,2,20,5,2,1,44,12,3,0,1,17,4,7,0,2004,7,1,0,United States,1,1,-77.209755,40.590752,eastern,19
+725,2004-07-02,MON,TOR,False,2,0,SJU01,Estadio Hiram Bithorn,San Juan,PR,33,3,1,0,0,23,5,1,0,34,6,1,0,0,17,7,3,0,2004,7,2,0,United States,1,1,-71.51178,41.680893,eastern,19
+726,2004-07-03,MON,TOR,False,0,2,SJU01,Estadio Hiram Bithorn,San Juan,PR,36,6,2,0,0,20,6,2,0,35,5,1,0,0,19,8,2,0,2004,7,3,0,United States,-1,0,-71.51178,41.680893,eastern,19
+727,2004-07-04,MON,TOR,True,6,4,SJU01,Estadio Hiram Bithorn,San Juan,PR,39,8,1,0,0,12,13,5,0,39,7,3,0,0,17,8,4,0,2004,7,4,0,United States,1,1,-71.51178,41.680893,eastern,19
+728,2004-07-05,MON,ATL,False,4,11,SJU01,Estadio Hiram Bithorn,San Juan,PR,44,7,5,0,1,23,4,4,0,38,8,2,0,1,20,7,0,0,2004,7,5,0,United States,-1,0,-71.51178,41.680893,eastern,19
+729,2004-07-06,MON,ATL,False,0,1,SJU01,Estadio Hiram Bithorn,San Juan,PR,39,6,1,0,0,19,7,5,1,34,3,2,0,0,21,5,3,0,2004,7,6,0,United States,-1,0,-71.51178,41.680893,eastern,19
+730,2004-07-07,MON,ATL,False,2,14,SJU01,Estadio Hiram Bithorn,San Juan,PR,50,7,4,0,6,20,6,7,0,39,7,1,0,1,21,6,3,0,2004,7,7,0,United States,-1,0,-71.51178,41.680893,eastern,19
+731,2004-07-08,MON,PIT,False,2,1,SJU01,Estadio Hiram Bithorn,San Juan,PR,33,5,0,0,0,19,6,3,0,28,4,0,1,1,15,6,1,0,2004,7,8,0,United States,1,1,-71.51178,41.680893,eastern,19
+732,2004-07-09,MON,PIT,False,0,11,SJU01,Estadio Hiram Bithorn,San Juan,PR,43,6,1,1,2,23,4,3,3,35,8,2,0,0,22,3,0,0,2004,7,9,0,United States,-1,0,-71.51178,41.680893,eastern,19
+733,2004-07-10,MON,PIT,False,4,0,SJU01,Estadio Hiram Bithorn,San Juan,PR,31,4,0,0,0,18,5,2,2,32,5,2,0,0,17,5,3,0,2004,7,10,0,United States,1,1,-71.51178,41.680893,eastern,19
+734,2004-07-11,MON,PIT,True,2,1,SJU01,Estadio Hiram Bithorn,San Juan,PR,35,4,2,0,0,20,6,2,1,32,5,1,0,0,19,3,3,1,2004,7,11,0,United States,1,1,-71.51178,41.680893,eastern,19
+735,2004-07-15,ATL,MON,False,8,0,ATL02,Turner Field,Atlanta,GA,34,4,1,0,0,19,7,3,0,42,6,5,0,0,17,8,4,2,2004,7,15,0,United States,1,1,-83.643074,33.040619,eastern,19
+736,2004-07-16,ATL,MON,False,1,5,ATL02,Turner Field,Atlanta,GA,37,5,2,0,1,20,7,2,0,38,6,0,0,0,20,6,6,0,2004,7,16,0,United States,-1,0,-83.643074,33.040619,eastern,19
+737,2004-07-17,ATL,MON,False,6,2,ATL02,Turner Field,Atlanta,GA,33,2,0,0,0,20,6,5,0,37,3,3,0,3,16,5,7,0,2004,7,17,0,United States,1,1,-83.643074,33.040619,eastern,19
+738,2004-07-18,ATL,MON,True,16,5,ATL02,Turner Field,Atlanta,GA,41,10,2,0,1,18,6,4,0,47,12,0,1,2,17,5,9,1,2004,7,18,0,United States,1,1,-83.643074,33.040619,eastern,19
+739,2004-07-19,PIT,MON,False,2,6,PIT08,PNC Park,Pittsburgh,PA,41,7,4,0,0,20,5,5,0,35,5,0,0,1,17,8,3,1,2004,7,19,0,United States,-1,0,-77.209755,40.590752,eastern,19
+740,2004-07-20,PIT,MON,False,2,1,PIT08,PNC Park,Pittsburgh,PA,37,9,1,0,0,21,2,4,0,26,3,0,0,1,14,8,0,0,2004,7,20,0,United States,1,1,-77.209755,40.590752,eastern,19
+741,2004-07-21,NYN,MON,False,5,4,NYC17,Shea Stadium,New York,NY,40,9,2,0,2,21,3,3,0,41,7,1,0,1,22,4,6,0,2004,7,21,0,United States,1,1,-74.948051,42.165726,eastern,19
+742,2004-07-22,NYN,MON,True,1,4,NYC17,Shea Stadium,New York,NY,37,4,2,0,2,22,5,2,0,36,5,3,1,0,18,7,2,0,2004,7,22,0,United States,-1,0,-74.948051,42.165726,eastern,19
+743,2004-07-23,MON,FLO,False,2,1,MON02,Stade Olympique,Montreal,QUE,37,6,0,0,0,16,9,5,1,33,2,2,1,0,22,2,4,0,2004,7,23,1,Canada,1,1,-79.347015,43.65107,eastern,19
+744,2004-07-24,MON,FLO,False,6,2,MON02,Stade Olympique,Montreal,QUE,40,8,2,0,0,18,8,4,0,33,4,1,1,0,21,5,0,1,2004,7,24,1,Canada,1,1,-79.347015,43.65107,eastern,19
+745,2004-07-25,MON,FLO,True,6,4,MON02,Stade Olympique,Montreal,QUE,36,6,2,0,0,19,7,2,0,37,6,2,0,1,20,5,3,0,2004,7,25,1,Canada,1,1,-79.347015,43.65107,eastern,19
+746,2004-07-26,MON,NYN,False,19,10,MON02,Stade Olympique,Montreal,QUE,47,8,4,0,4,19,8,4,0,51,10,5,0,3,19,3,10,1,2004,7,26,1,Canada,1,1,-79.347015,43.65107,eastern,19
+747,2004-07-27,MON,NYN,False,2,4,MON02,Stade Olympique,Montreal,QUE,41,7,1,0,1,20,7,4,1,41,8,2,0,0,23,4,4,0,2004,7,27,1,Canada,-1,0,-79.347015,43.65107,eastern,19
+748,2004-07-28,MON,NYN,False,7,4,MON02,Stade Olympique,Montreal,QUE,40,4,2,0,0,17,9,7,1,37,3,3,1,1,20,4,5,0,2004,7,28,1,Canada,1,1,-79.347015,43.65107,eastern,19
+749,2004-07-29,MON,NYN,True,1,10,MON02,Stade Olympique,Montreal,QUE,47,5,4,1,4,18,8,6,1,39,3,3,0,0,23,5,4,1,2004,7,29,1,Canada,-1,0,-79.347015,43.65107,eastern,19
+750,2004-07-30,FLO,MON,False,0,9,MIA01,Sun Life Stadium,Miami,FL,50,9,4,1,2,21,5,8,0,29,3,0,0,0,21,4,1,0,2004,7,30,0,United States,-1,0,-81.686783,27.766279,eastern,19
+751,2004-07-31,FLO,MON,False,5,8,MIA01,Sun Life Stadium,Miami,FL,41,7,2,0,1,19,7,4,1,40,8,2,0,1,14,11,3,1,2004,7,31,0,United States,-1,0,-81.686783,27.766279,eastern,19
+752,2004-08-03,SLN,MON,False,6,10,STL09,Busch Stadium II,St. Louis,MO,59,9,4,0,3,33,4,6,0,52,8,2,0,2,26,8,6,0,2004,8,3,0,United States,-1,0,-92.288368,38.456085,central,20
+753,2004-08-04,SLN,MON,False,5,4,STL09,Busch Stadium II,St. Louis,MO,43,7,4,0,0,21,7,3,1,39,10,1,0,2,14,6,5,1,2004,8,4,0,United States,1,1,-92.288368,38.456085,central,20
+754,2004-08-05,SLN,MON,False,2,1,STL09,Busch Stadium II,St. Louis,MO,32,3,2,0,0,18,8,1,0,34,2,2,0,2,19,4,5,0,2004,8,5,0,United States,1,1,-92.288368,38.456085,central,20
+755,2004-08-06,HOU,MON,False,4,0,HOU03,Minute Maid Park,Houston,TX,31,4,1,0,0,17,8,1,0,36,7,0,0,1,17,4,3,4,2004,8,6,0,United States,1,1,-97.563461,31.054487,central,20
+756,2004-08-07,HOU,MON,False,3,8,HOU03,Minute Maid Park,Houston,TX,43,11,0,0,2,21,6,3,0,34,8,1,1,0,17,6,1,0,2004,8,7,0,United States,-1,0,-97.563461,31.054487,central,20
+757,2004-08-08,HOU,MON,True,2,5,HOU03,Minute Maid Park,Houston,TX,39,6,3,0,2,18,9,1,0,37,6,0,0,1,19,6,4,1,2004,8,8,0,United States,-1,0,-97.563461,31.054487,central,20
+758,2004-08-10,MON,ARI,False,4,0,MON02,Stade Olympique,Montreal,QUE,35,6,2,0,0,16,8,2,1,34,6,2,0,0,20,4,1,1,2004,8,10,1,Canada,1,1,-79.347015,43.65107,eastern,21
+759,2004-08-11,MON,ARI,False,7,3,MON02,Stade Olympique,Montreal,QUE,34,8,0,0,0,18,7,1,0,35,5,2,0,1,18,4,5,0,2004,8,11,1,Canada,1,1,-79.347015,43.65107,eastern,21
+760,2004-08-12,MON,ARI,False,7,5,MON02,Stade Olympique,Montreal,QUE,36,10,1,0,0,20,5,0,0,39,8,4,0,1,17,4,5,0,2004,8,12,1,Canada,1,1,-79.347015,43.65107,eastern,21
+761,2004-08-13,MON,HOU,False,6,5,MON02,Stade Olympique,Montreal,QUE,47,1,2,1,3,26,8,6,0,50,5,3,0,3,21,11,7,0,2004,8,13,1,Canada,1,1,-79.347015,43.65107,eastern,21
+762,2004-08-14,MON,HOU,False,8,3,MON02,Stade Olympique,Montreal,QUE,36,0,3,0,1,17,10,5,0,42,8,4,0,2,16,7,4,1,2004,8,14,1,Canada,1,1,-79.347015,43.65107,eastern,21
+763,2004-08-15,MON,HOU,True,4,5,MON02,Stade Olympique,Montreal,QUE,37,7,0,0,1,22,5,2,0,42,7,0,0,1,21,8,5,0,2004,8,15,1,Canada,-1,0,-79.347015,43.65107,eastern,21
+764,2004-08-16,SFN,MON,False,8,5,SFO03,Oracle Park,San Francisco,CA,40,8,2,0,0,25,1,3,1,42,5,4,0,0,18,6,8,1,2004,8,16,0,United States,1,1,-119.681564,36.116203,pacific,24
+765,2004-08-17,SFN,MON,False,5,4,SFO03,Oracle Park,San Francisco,CA,36,4,2,0,0,19,8,3,0,38,6,1,0,2,23,1,5,0,2004,8,17,0,United States,1,1,-119.681564,36.116203,pacific,24
+766,2004-08-18,SFN,MON,True,2,6,SFO03,Oracle Park,San Francisco,CA,38,7,2,0,1,18,7,3,0,39,8,1,1,0,20,5,2,2,2004,8,18,0,United States,-1,0,-119.681564,36.116203,pacific,24
+767,2004-08-18,SFN,MON,True,14,4,SFO03,Oracle Park,San Francisco,CA,35,5,2,1,0,20,6,1,0,47,8,4,0,2,19,6,8,0,2004,8,18,0,United States,1,1,-119.681564,36.116203,pacific,24
+768,2004-08-20,COL,MON,False,3,4,DEN02,Coors Field,Denver,CO,35,3,4,0,1,22,4,1,0,38,4,3,0,1,21,7,1,1,2004,8,20,0,United States,-1,0,-105.311104,39.059811,mountain,25
+769,2004-08-21,COL,MON,False,5,2,DEN02,Coors Field,Denver,CO,38,4,1,0,1,24,4,4,0,32,4,3,0,1,18,5,1,0,2004,8,21,0,United States,1,1,-105.311104,39.059811,mountain,25
+770,2004-08-22,COL,MON,True,2,8,DEN02,Coors Field,Denver,CO,47,13,0,0,1,20,6,7,0,38,5,1,0,2,19,7,3,1,2004,8,22,0,United States,-1,0,-105.311104,39.059811,mountain,25
+771,2004-08-23,MON,LAN,False,8,7,MON02,Stade Olympique,Montreal,QUE,42,8,1,0,1,21,6,3,2,40,6,2,0,3,22,4,3,0,2004,8,23,1,Canada,1,1,-79.347015,43.65107,eastern,27
+772,2004-08-24,MON,LAN,False,2,10,MON02,Stade Olympique,Montreal,QUE,44,7,1,0,2,16,10,7,1,35,2,6,0,0,19,7,1,0,2004,8,24,1,Canada,-1,0,-79.347015,43.65107,eastern,27
+773,2004-08-25,MON,LAN,False,6,3,MON02,Stade Olympique,Montreal,QUE,40,6,3,0,0,19,6,6,0,38,5,1,0,4,21,2,4,1,2004,8,25,1,Canada,1,1,-79.347015,43.65107,eastern,27
+774,2004-08-26,MON,LAN,False,3,10,MON02,Stade Olympique,Montreal,QUE,39,7,1,0,2,16,8,5,0,38,4,3,0,1,21,4,4,1,2004,8,26,1,Canada,-1,0,-79.347015,43.65107,eastern,27
+775,2004-08-27,MON,SDN,False,10,3,MON02,Stade Olympique,Montreal,QUE,38,6,1,0,1,21,4,4,1,42,10,1,1,2,17,6,5,0,2004,8,27,1,Canada,1,1,-79.347015,43.65107,eastern,27
+776,2004-08-28,MON,SDN,False,2,5,MON02,Stade Olympique,Montreal,QUE,43,6,1,0,2,19,7,6,2,37,3,3,0,0,18,10,3,0,2004,8,28,1,Canada,-1,0,-79.347015,43.65107,eastern,27
+777,2004-08-29,MON,SDN,True,3,11,MON02,Stade Olympique,Montreal,QUE,44,9,3,0,2,22,5,2,1,38,6,4,0,0,24,3,0,1,2004,8,29,1,Canada,-1,0,-79.347015,43.65107,eastern,27
+778,2004-08-30,MON,CHN,False,2,5,MON02,Stade Olympique,Montreal,QUE,37,7,2,0,0,22,4,2,0,35,3,3,0,1,24,3,1,0,2004,8,30,1,Canada,-1,0,-79.347015,43.65107,eastern,27
+779,2004-08-31,MON,CHN,False,8,0,MON02,Stade Olympique,Montreal,QUE,33,4,0,0,0,21,4,4,0,43,8,2,0,2,13,11,7,0,2004,8,31,1,Canada,1,1,-79.347015,43.65107,eastern,27
+780,2004-09-01,MON,CHN,False,1,2,MON02,Stade Olympique,Montreal,QUE,43,11,0,0,0,20,9,3,0,39,4,2,1,0,19,12,1,0,2004,9,1,1,Canada,-1,0,-79.347015,43.65107,eastern,27
+781,2004-09-03,MON,ATL,False,1,7,MON02,Stade Olympique,Montreal,QUE,42,7,1,0,1,23,4,6,0,34,2,1,1,0,19,8,3,0,2004,9,3,1,Canada,-1,0,-79.347015,43.65107,eastern,27
+782,2004-09-04,MON,ATL,False,0,9,MON02,Stade Olympique,Montreal,QUE,45,8,3,0,2,16,10,5,1,31,3,0,0,0,20,5,3,0,2004,9,4,1,Canada,-1,0,-79.347015,43.65107,eastern,27
+783,2004-09-05,MON,ATL,True,4,3,MON02,Stade Olympique,Montreal,QUE,54,4,1,0,1,28,8,11,1,48,9,1,1,1,28,3,4,1,2004,9,5,1,Canada,1,1,-79.347015,43.65107,eastern,27
+784,2004-09-06,CHN,MON,True,9,1,CHI11,Wrigley Field,Chicago,IL,33,1,3,0,0,22,5,1,1,36,3,1,0,5,18,6,3,0,2004,9,6,0,United States,1,1,-88.986137,40.349457,central,28
+785,2004-09-07,CHN,MON,False,6,7,CHI11,Wrigley Field,Chicago,IL,55,11,1,0,1,20,15,7,0,58,12,2,0,2,32,5,4,1,2004,9,7,0,United States,-1,0,-88.986137,40.349457,central,28
+786,2004-09-08,CHN,MON,False,0,6,CHI11,Wrigley Field,Chicago,IL,35,4,1,0,1,20,8,1,0,30,5,0,0,0,20,4,1,0,2004,9,8,0,United States,-1,0,-88.986137,40.349457,central,28
+787,2004-09-10,ATL,MON,False,4,3,ATL02,Turner Field,Atlanta,GA,39,12,1,0,0,17,7,2,0,35,3,1,0,2,14,9,6,0,2004,9,10,0,United States,1,1,-83.643074,33.040619,eastern,29
+788,2004-09-11,ATL,MON,False,8,1,ATL02,Turner Field,Atlanta,GA,35,4,1,0,1,25,3,1,0,41,5,3,1,2,17,6,5,2,2004,9,11,0,United States,1,1,-83.643074,33.040619,eastern,29
+789,2004-09-12,ATL,MON,True,9,8,ATL02,Turner Field,Atlanta,GA,54,9,3,0,2,27,7,6,0,52,8,3,0,4,21,11,5,0,2004,9,12,0,United States,1,1,-83.643074,33.040619,eastern,29
+790,2004-09-13,FLO,MON,True,6,3,CHI12,Guaranteed Rate Field;U.S. Cellular Field,Chicago,IL,33,3,0,1,1,20,6,2,0,37,10,0,1,0,21,2,1,2,2004,9,13,0,United States,1,1,-88.986137,40.349457,eastern,29
+791,2004-09-14,FLO,MON,True,8,6,CHI12,Guaranteed Rate Field;U.S. Cellular Field,Chicago,IL,40,7,3,0,1,21,5,3,0,40,9,1,0,3,22,3,2,0,2004,9,14,0,United States,1,1,-88.986137,40.349457,eastern,29
+792,2004-09-15,FLO,MON,True,2,6,MIA01,Sun Life Stadium,Miami,FL,41,8,1,0,3,17,9,3,0,34,5,2,0,1,19,7,0,0,2004,9,15,0,United States,-1,0,-81.686783,27.766279,eastern,29
+793,2004-09-15,FLO,MON,False,4,10,MIA01,Sun Life Stadium,Miami,FL,43,12,0,0,3,21,5,2,0,42,7,2,0,0,19,9,5,0,2004,9,15,0,United States,-1,0,-81.686783,27.766279,eastern,29
+794,2004-09-16,FLO,MON,False,4,3,MIA01,Sun Life Stadium,Miami,FL,36,6,0,0,1,22,4,3,0,35,7,0,1,0,19,3,5,0,2004,9,16,0,United States,1,1,-81.686783,27.766279,eastern,29
+795,2004-09-17,PHI,MON,False,8,12,PHI13,Citizens Bank Park,Philadelphia,PA,43,9,1,1,1,19,7,5,0,41,4,4,0,2,18,10,3,0,2004,9,17,0,United States,-1,0,-77.209755,40.590752,eastern,29
+796,2004-09-18,PHI,MON,False,5,6,PHI13,Citizens Bank Park,Philadelphia,PA,58,5,2,3,1,34,5,8,0,55,7,3,0,1,32,10,2,0,2004,9,18,0,United States,-1,0,-77.209755,40.590752,eastern,29
+797,2004-09-19,PHI,MON,True,7,2,PHI13,Citizens Bank Park,Philadelphia,PA,42,5,3,0,0,16,11,7,0,42,10,3,0,1,13,10,5,0,2004,9,19,0,United States,1,1,-77.209755,40.590752,eastern,29
+798,2004-09-21,MON,NYN,False,6,1,MON02,Stade Olympique,Montreal,QUE,32,4,1,0,1,19,5,1,1,39,4,3,1,3,16,6,6,0,2004,9,21,1,Canada,1,1,-79.347015,43.65107,eastern,29
+799,2004-09-22,MON,NYN,False,2,3,MON02,Stade Olympique,Montreal,QUE,35,7,0,2,0,14,11,1,0,37,4,1,0,1,20,7,3,1,2004,9,22,1,Canada,-1,0,-79.347015,43.65107,eastern,29
+800,2004-09-23,MON,NYN,False,2,4,MON02,Stade Olympique,Montreal,QUE,36,5,2,0,2,24,1,1,1,36,3,2,0,2,22,5,2,0,2004,9,23,1,Canada,-1,0,-79.347015,43.65107,eastern,29
+801,2004-09-24,MON,PHI,False,8,1,MON02,Stade Olympique,Montreal,QUE,34,4,3,0,0,17,8,2,0,35,5,5,0,1,18,3,3,0,2004,9,24,1,Canada,1,1,-79.347015,43.65107,eastern,29
+802,2004-09-25,MON,PHI,False,3,4,MON02,Stade Olympique,Montreal,QUE,43,8,2,0,0,24,6,2,1,41,5,0,0,1,21,8,4,2,2004,9,25,1,Canada,-1,0,-79.347015,43.65107,eastern,29
+803,2004-09-26,MON,PHI,True,1,2,MON02,Stade Olympique,Montreal,QUE,40,8,2,0,0,16,9,5,0,30,4,0,0,0,18,6,2,0,2004,9,26,1,Canada,-1,0,-79.347015,43.65107,eastern,29
+804,2004-09-27,MON,FLO,False,1,4,MON02,Stade Olympique,Montreal,QUE,38,8,1,0,1,21,5,2,0,35,3,1,0,0,21,8,2,0,2004,9,27,1,Canada,-1,0,-79.347015,43.65107,eastern,29
+805,2004-09-28,MON,FLO,False,2,5,MON02,Stade Olympique,Montreal,QUE,38,5,1,0,2,24,4,2,0,34,0,2,0,1,22,5,4,0,2004,9,28,1,Canada,-1,0,-79.347015,43.65107,eastern,29
+806,2004-09-29,MON,FLO,False,1,9,MON02,Stade Olympique,Montreal,QUE,44,10,4,0,1,19,8,2,0,31,6,1,0,0,20,4,0,0,2004,9,29,1,Canada,-1,0,-79.347015,43.65107,eastern,29
+807,2004-10-01,NYN,MON,False,2,4,NYC17,Shea Stadium,New York,NY,40,10,1,0,0,15,9,5,0,35,3,3,0,0,21,7,1,0,2004,10,1,0,United States,-1,0,-74.948051,42.165726,eastern,29
+808,2004-10-02,NYN,MON,False,3,6,NYC17,Shea Stadium,New York,NY,40,3,3,0,3,22,6,3,0,38,4,4,0,1,20,8,1,0,2004,10,2,0,United States,-1,0,-74.948051,42.165726,eastern,29
+809,2004-10-03,NYN,MON,True,8,1,NYC17,Shea Stadium,New York,NY,37,4,1,0,0,18,9,5,0,40,9,0,0,2,18,6,4,1,2004,10,3,0,United States,1,1,-74.948051,42.165726,eastern,29
